@@ -6,7 +6,7 @@ A first-pass cross-linguistic survey, using a large language model (Claude) as t
 
 **All expressions in this repository were produced by an LLM. They are hypotheses to be checked against dictionaries or native speakers, not verified linguistic data.**
 
-**Declaration about use of AI - all Python and R scripts were produced by the LLM Claude Opus 5.5 and were not checked by a human. Prompts to the classifier agents used in both steps (collection and classification) were created collaboratively between human and Claude and were carefully checked by a human before use.**
+**Declaration about use of AI - all Python and R scripts were produced by the LLM Claude Opus 5.5 and were not checked by a human. Prompts to the agents used in both natural-language processing steps (collection and classification) were created collaboratively between human and Claude and were carefully checked by a human before use.**
 
 
 ## What was done
