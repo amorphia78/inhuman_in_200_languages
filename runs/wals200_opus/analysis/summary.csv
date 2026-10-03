@@ -7,6 +7,7 @@ denies_humanity,25,61,41.0
 animal,33,61,54.1
 supernatural,54,61,88.5
 against_nature,4,61,6.6
-any_core,58,61,95.1
 other_figurative,55,61,90.2
-any_incl_other,60,61,98.4
+any_top3,57,61,93.4
+any_top4,58,61,95.1
+any_top5,60,61,98.4

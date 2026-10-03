@@ -8,7 +8,9 @@ Reports:
   1. Of all languages, the % for which Stage 1 produced expressions (rather than
      insufficient_knowledge, or an invalid/missing response).
   2. Of the languages with expressions, the % with at least one expression coded true
-     in each Stage 2 category, and in any category.
+     in each Stage 2 category, and in any of the top three, four and five categories
+     (in the order: denies_humanity, animal, supernatural, against_nature,
+     other_figurative).
 
 A language counts as having a category if any of its validly classified expressions
 has it (in any repeat, if the run has repeats). other_figurative counts when it is
@@ -25,6 +27,9 @@ from collections import defaultdict
 import common as c
 
 CORE = ["denies_humanity", "animal", "supernatural", "against_nature"]
+CATEGORIES = CORE + ["other_figurative"]
+ANY_TOP = {f"any_top{n}": CATEGORIES[:n] for n in (3, 4, 5)}
+MEASURES = CATEGORIES + list(ANY_TOP)
 LANGUAGE_FIELDS = ["wals_code", "name", "family", "genus", "macroarea", "is_control", "control_role"]
 
 
@@ -54,7 +59,7 @@ def main():
             lang["with_expressions"] += 1
 
     # Stage 2: category flags per language, from validly classified expressions only.
-    flags = defaultdict(lambda: {k: False for k in CORE + ["other_figurative"]})
+    flags = defaultdict(lambda: {k: False for k in CATEGORIES})
     classified = set()
     for row in c.read_jsonl(run_dir / "stage2" / "joined.jsonl"):
         if row["stage2_status"] != "valid":
@@ -72,8 +77,7 @@ def main():
                                   else "invalid_or_missing")
         f = flags[code] if code in classified else {}
         rows.append({**lang, **f,
-                     "any_core": any(f.get(k) for k in CORE) if f else None,
-                     "any_incl_other": any(f.values()) if f else None})
+                     **{name: (any(f[k] for k in ks) if f else None) for name, ks in ANY_TOP.items()}})
 
     n_all = len(rows)
     with_expr = [r for r in rows if r["stage1_outcome"] == "expressions"]
@@ -88,7 +92,7 @@ def main():
         {"measure": "stage1_insufficient_knowledge", "count": n_ik, "denominator": n_all, "percent": pct(n_ik, n_all)},
         {"measure": "stage1_invalid_or_missing", "count": n_bad, "denominator": n_all, "percent": pct(n_bad, n_all)},
     ]
-    for k in CORE + ["any_core", "other_figurative", "any_incl_other"]:
+    for k in MEASURES:
         n = sum(bool(r.get(k)) for r in with_expr)
         summary.append({"measure": k, "count": n, "denominator": n_expr, "percent": pct(n, n_expr)})
 
@@ -96,17 +100,10 @@ def main():
     c.write_csv(out / "summary.csv", summary, ["measure", "count", "denominator", "percent"])
     c.write_csv(out / "languages.csv", rows,
                 LANGUAGE_FIELDS + ["stage1_outcome", "responses", "with_expressions", "insufficient_knowledge",
-                                   "invalid_or_missing"] + CORE + ["any_core", "other_figurative", "any_incl_other"])
+                                   "invalid_or_missing"] + MEASURES)
 
-    labels = {
-        "denies_humanity": "denies_humanity",
-        "animal": "animal",
-        "supernatural": "supernatural",
-        "against_nature": "against_nature",
-        "any_core": "any of the four above",
-        "other_figurative": "other_figurative",
-        "any_incl_other": "any of the five",
-    }
+    labels = {**{k: k for k in CATEGORIES},
+              "any_top3": "any of top three", "any_top4": "any of top four", "any_top5": "any of top five"}
     print(f"Run '{args.run}': {n_all} languages")
     print(f"  Stage 1 produced expressions:  {n_expr:4d}  ({pct(n_expr, n_all)}%)")
     print(f"  Insufficient knowledge:        {n_ik:4d}  ({pct(n_ik, n_all)}%)")

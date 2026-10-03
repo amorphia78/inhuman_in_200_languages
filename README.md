@@ -60,9 +60,10 @@ Of the 61 languages with expressions, the share with at least one expression cod
 | animal | 33 | 54.1% |
 | supernatural | 54 | 88.5% |
 | against_nature | 4 | 6.6% |
-| any of those four | 58 | 95.1% |
 | other_figurative | 55 | 90.2% |
-| any of all five | 60 | 98.4% |
+| any of top three | 57 | 93.4% |
+| any of top four | 58 | 95.1% |
+| any of top five | 60 | 98.4% |
 
 ## Reproducing the tables
 
