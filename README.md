@@ -1,8 +1,13 @@
 # "Inhuman" in 200 languages
 
+*Hosted and part-created by Ben Kenward*
+
 A first-pass cross-linguistic survey, using a large language model (Claude) as the research instrument, of how languages condemn extreme cruelty, and in particular how often they do it by denying that the act or the one who did it is human (as English *inhuman* or Swedish *omänsklig* do).
 
 **All expressions in this repository were produced by an LLM. They are hypotheses to be checked against dictionaries or native speakers, not verified linguistic data.**
+
+**Declaration about use of AI - all Python and R scripts were produced by the LLM Claude Opus 5.5 and were not checked by a human. Prompts to the classifier agents used in both steps (collection and classification) were created collaboratively between human and Claude and were carefully checked by a human before use.**
+
 
 ## What was done
 
