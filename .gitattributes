@@ -1,0 +1,3 @@
+# Store every file byte-for-byte (no line-ending conversion), so that archived
+# results and inputs keep the exact bytes, and the hashes recorded in the run logs.
+* -text
