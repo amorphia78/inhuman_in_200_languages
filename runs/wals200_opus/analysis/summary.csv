@@ -1,0 +1,12 @@
+﻿measure,count,denominator,percent
+languages,200,200,100.0
+stage1_produced_expressions,61,200,30.5
+stage1_insufficient_knowledge,139,200,69.5
+stage1_invalid_or_missing,0,200,0.0
+denies_humanity,25,61,41.0
+animal,33,61,54.1
+supernatural,54,61,88.5
+against_nature,4,61,6.6
+any_core,58,61,95.1
+other_figurative,55,61,90.2
+any_incl_other,60,61,98.4

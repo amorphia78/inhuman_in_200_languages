@@ -1,0 +1,62 @@
+﻿custom_id,wals_code,name,repeat,model,result_type,stop_reason,status,input_tokens,output_tokens,cost_usd
+s2_ain_r1,ain,Ainu,1,claude-opus-5-5,succeeded,end_turn,valid,2573,957,0.014716
+s2_aeg_r1,aeg,Arabic (Egyptian),1,claude-opus-5-5,succeeded,end_turn,valid,3601,2657,0.033772
+s2_arm_r1,arm,Armenian (Eastern),1,claude-opus-5-5,succeeded,end_turn,valid,3426,3064,0.037492
+s2_aym_r1,aym,Aymara (Central),1,claude-opus-5-5,succeeded,end_turn,valid,2660,1010,0.01542
+s2_bam_r1,bam,Bambara,1,claude-opus-5-5,succeeded,end_turn,valid,3077,2091,0.027064
+s2_bsq_r1,bsq,Basque,1,claude-opus-5-5,succeeded,end_turn,valid,3384,2790,0.034668
+s2_brm_r1,brm,Burmese,1,claude-opus-5-5,succeeded,end_turn,valid,3628,2423,0.031486
+s2_cha_r1,cha,Chamorro,1,claude-opus-5-5,succeeded,end_turn,valid,2802,1759,0.023194
+s2_cre_r1,cre,Cree (Plains),1,claude-opus-5-5,succeeded,end_turn,valid,2931,2035,0.026212
+s2_eng_r1,eng,English,1,claude-opus-5-5,succeeded,end_turn,valid,3280,3095,0.03751
+s2_ewe_r1,ewe,Ewe,1,claude-opus-5-5,succeeded,end_turn,valid,3044,2238,0.028468
+s2_fij_r1,fij,Fijian,1,claude-opus-5-5,succeeded,end_turn,valid,2802,1450,0.020104
+s2_fin_r1,fin,Finnish,1,claude-opus-5-5,succeeded,end_turn,valid,3403,3045,0.037256
+s2_fre_r1,fre,French,1,claude-opus-5-5,succeeded,end_turn,valid,3303,2795,0.034556
+s2_geo_r1,geo,Georgian,1,claude-opus-5-5,succeeded,end_turn,valid,3448,3009,0.036986
+s2_ger_r1,ger,German,1,claude-opus-5-5,succeeded,end_turn,valid,3284,3188,0.038448
+s2_grk_r1,grk,Greek (Modern),1,claude-opus-5-5,succeeded,end_turn,valid,3374,2855,0.035298
+s2_grw_r1,grw,Greenlandic (West),1,claude-opus-5-5,succeeded,end_turn,valid,2888,1470,0.020476
+s2_gua_r1,gua,Guaraní,1,claude-opus-5-5,succeeded,end_turn,valid,3040,2085,0.02693
+s2_hau_r1,hau,Hausa,1,claude-opus-5-5,succeeded,end_turn,valid,3481,3347,0.040432
+s2_heb_r1,heb,Hebrew (Modern),1,claude-opus-5-5,succeeded,end_turn,valid,3427,2867,0.035524
+s2_hin_r1,hin,Hindi,1,claude-opus-5-5,succeeded,end_turn,valid,3596,2991,0.037102
+s2_hmo_r1,hmo,Hmong Njua,1,claude-opus-5-5,succeeded,end_turn,valid,2577,1152,0.016674
+s2_hun_r1,hun,Hungarian,1,claude-opus-5-5,succeeded,end_turn,valid,3221,3377,0.040212
+s2_igb_r1,igb,Igbo,1,claude-opus-5-5,succeeded,end_turn,valid,3134,2414,0.030408
+s2_ind_r1,ind,Indonesian,1,claude-opus-5-5,succeeded,end_turn,valid,3460,3030,0.03722
+s2_iri_r1,iri,Irish,1,claude-opus-5-5,succeeded,end_turn,valid,3310,3162,0.03824
+s2_jpn_r1,jpn,Japanese,1,claude-opus-5-5,succeeded,end_turn,valid,3501,3290,0.039902
+s2_knd_r1,knd,Kannada,1,claude-opus-5-5,succeeded,end_turn,valid,3690,3009,0.03747
+s2_kha_r1,kha,Khalkha,1,claude-opus-5-5,succeeded,end_turn,valid,3425,3110,0.03795
+s2_khs_r1,khs,Khasi,1,claude-opus-5-5,succeeded,end_turn,valid,2870,1756,0.0233
+s2_khm_r1,khm,Khmer,1,claude-opus-5-5,succeeded,end_turn,valid,3535,3419,0.04126
+s2_krb_r1,krb,Kiribati,1,claude-opus-5-5,succeeded,end_turn,valid,2524,1004,0.015088
+s2_kon_r1,kon,Kongo,1,claude-opus-5-5,succeeded,end_turn,valid,2845,1153,0.01722
+s2_kor_r1,kor,Korean,1,claude-opus-5-5,succeeded,end_turn,valid,3642,3664,0.043924
+s2_lkt_r1,lkt,Lakhota,1,claude-opus-5-5,succeeded,end_turn,valid,3001,2116,0.027162
+s2_lat_r1,lat,Latvian,1,claude-opus-5-5,succeeded,end_turn,valid,3280,3436,0.04092
+s2_lez_r1,lez,Lezgian,1,claude-opus-5-5,succeeded,end_turn,valid,2960,2471,0.03063
+s2_mal_r1,mal,Malagasy,1,claude-opus-5-5,succeeded,end_turn,valid,3177,2787,0.034224
+s2_mnd_r1,mnd,Mandarin,1,claude-opus-5-5,succeeded,end_turn,valid,3599,2983,0.037028
+s2_mao_r1,mao,Maori,1,claude-opus-5-5,succeeded,end_turn,valid,3092,2237,0.028554
+s2_map_r1,map,Mapudungun,1,claude-opus-5-5,succeeded,end_turn,valid,2560,751,0.01263
+s2_mei_r1,mei,Meithei,1,claude-opus-5-5,succeeded,end_turn,valid,2604,1266,0.017868
+s2_nav_r1,nav,Navajo,1,claude-opus-5-5,succeeded,end_turn,valid,2826,1023,0.015882
+s2_ndy_r1,ndy,Ndyuka,1,claude-opus-5-5,succeeded,end_turn,valid,2749,1895,0.024448
+s2_nko_r1,nko,Nkore-Kiga,1,claude-opus-5-5,succeeded,end_turn,valid,2664,1464,0.019968
+s2_orh_r1,orh,Oromo (Harar),1,claude-opus-5-5,succeeded,end_turn,valid,3188,2374,0.030116
+s2_prs_r1,prs,Persian,1,claude-opus-5-5,succeeded,end_turn,valid,3442,3422,0.041104
+s2_pit_r1,pit,Pitjantjatjara,1,claude-opus-5-5,succeeded,end_turn,valid,2671,1585,0.021192
+s2_qim_r1,qim,Quechua (Imbabura),1,claude-opus-5-5,succeeded,end_turn,valid,2839,1315,0.018828
+s2_rus_r1,rus,Russian,1,claude-opus-5-5,succeeded,end_turn,valid,3602,3378,0.040984
+s2_san_r1,san,Sango,1,claude-opus-5-5,succeeded,end_turn,valid,2662,1401,0.019334
+s2_shk_r1,shk,Shipibo-Konibo,1,claude-opus-5-5,succeeded,end_turn,valid,2382,490,0.009664
+s2_spa_r1,spa,Spanish,1,claude-opus-5-5,succeeded,end_turn,valid,3217,3422,0.040654
+s2_swa_r1,swa,Swahili,1,claude-opus-5-5,succeeded,end_turn,valid,3468,2556,0.032496
+s2_tag_r1,tag,Tagalog,1,claude-opus-5-5,succeeded,end_turn,valid,3476,2991,0.036862
+s2_tha_r1,tha,Thai,1,claude-opus-5-5,succeeded,end_turn,valid,3597,2965,0.036844
+s2_tur_r1,tur,Turkish,1,claude-opus-5-5,succeeded,end_turn,valid,3508,3215,0.039166
+s2_vie_r1,vie,Vietnamese,1,claude-opus-5-5,succeeded,end_turn,valid,3467,3622,0.043154
+s2_yor_r1,yor,Yoruba,1,claude-opus-5-5,succeeded,end_turn,valid,3478,2707,0.034026
+s2_zul_r1,zul,Zulu,1,claude-opus-5-5,succeeded,end_turn,valid,3380,2382,0.03058

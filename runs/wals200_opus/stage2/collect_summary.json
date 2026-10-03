@@ -1,0 +1,21 @@
+{
+  "collected_at": "2026-10-03T09:16:55+00:00",
+  "requests": 61,
+  "valid": 61,
+  "invalid": 0,
+  "missing": 0,
+  "expressions": 728,
+  "expressions_valid": 728,
+  "responses_with_warnings": 0,
+  "actual_cost": {
+    "calls": 61,
+    "input_tokens": 193075,
+    "output_tokens": 147015,
+    "cost_usd": 1.8563,
+    "mean_cost_per_call_usd": 0.030431,
+    "min_cost_per_call_usd": 0.009664,
+    "max_cost_per_call_usd": 0.043924,
+    "mean_input_tokens_per_call": 3165,
+    "mean_output_tokens_per_call": 2410
+  }
+}

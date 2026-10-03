@@ -1,0 +1,201 @@
+﻿custom_id,wals_code,name,repeat,model,result_type,stop_reason,status,input_tokens,output_tokens,cost_usd
+s1_abi_r1,abi,Abipón,1,claude-opus-5-5,succeeded,end_turn,valid,608,113,0.002346
+s1_abk_r1,abk,Abkhaz,1,claude-opus-5-5,succeeded,end_turn,valid,608,291,0.004126
+s1_aco_r1,aco,Acoma,1,claude-opus-5-5,succeeded,end_turn,valid,595,32,0.00151
+s1_ain_r1,ain,Ainu,1,claude-opus-5-5,succeeded,end_turn,valid,596,1280,0.013992
+s1_ala_r1,ala,Alamblak,1,claude-opus-5-5,succeeded,end_turn,valid,615,86,0.00209
+s1_ame_r1,ame,Amele,1,claude-opus-5-5,succeeded,end_turn,valid,612,134,0.002564
+s1_apu_r1,apu,Apurinã,1,claude-opus-5-5,succeeded,end_turn,valid,608,119,0.002406
+s1_aeg_r1,aeg,Arabic (Egyptian),1,claude-opus-5-5,succeeded,end_turn,valid,631,2891,0.030172
+s1_ana_r1,ana,Araona,1,claude-opus-5-5,succeeded,end_turn,valid,609,92,0.002138
+s1_arp_r1,arp,Arapesh (Mountain),1,claude-opus-5-5,succeeded,end_turn,valid,637,118,0.002454
+s1_arm_r1,arm,Armenian (Eastern),1,claude-opus-5-5,succeeded,end_turn,valid,624,2437,0.025618
+s1_asm_r1,asm,Asmat,1,claude-opus-5-5,succeeded,end_turn,valid,607,113,0.002344
+s1_awp_r1,awp,Awa Pit,1,claude-opus-5-5,succeeded,end_turn,valid,611,119,0.002412
+s1_aym_r1,aym,Aymara (Central),1,claude-opus-5-5,succeeded,end_turn,valid,619,1243,0.013668
+s1_bag_r1,bag,Bagirmi,1,claude-opus-5-5,succeeded,end_turn,valid,620,90,0.00214
+s1_bam_r1,bam,Bambara,1,claude-opus-5-5,succeeded,end_turn,valid,604,2086,0.022068
+s1_brs_r1,brs,Barasano,1,claude-opus-5-5,succeeded,end_turn,valid,599,161,0.002808
+s1_bsq_r1,bsq,Basque,1,claude-opus-5-5,succeeded,end_turn,valid,594,2214,0.023328
+s1_bkr_r1,bkr,Batak (Karo),1,claude-opus-5-5,succeeded,end_turn,valid,632,389,0.005154
+s1_baw_r1,baw,Bawm,1,claude-opus-5-5,succeeded,end_turn,valid,624,159,0.002838
+s1_bej_r1,bej,Beja,1,claude-opus-5-5,succeeded,end_turn,valid,612,148,0.002704
+s1_bma_r1,bma,Berber (Middle Atlas),1,claude-opus-5-5,succeeded,end_turn,valid,633,506,0.006326
+s1_brh_r1,brh,Brahui,1,claude-opus-5-5,succeeded,end_turn,valid,599,311,0.004308
+s1_bri_r1,bri,Bribri,1,claude-opus-5-5,succeeded,end_turn,valid,616,216,0.003392
+s1_brm_r1,brm,Burmese,1,claude-opus-5-5,succeeded,end_turn,valid,616,2738,0.028612
+s1_bur_r1,bur,Burushaski,1,claude-opus-5-5,succeeded,end_turn,valid,602,204,0.003244
+s1_cah_r1,cah,Cahuilla,1,claude-opus-5-5,succeeded,end_turn,valid,622,123,0.002474
+s1_cnl_r1,cnl,Canela,1,claude-opus-5-5,succeeded,end_turn,valid,608,244,0.003656
+s1_car_r1,car,Carib,1,claude-opus-5-5,succeeded,end_turn,valid,594,208,0.003268
+s1_cyv_r1,cyv,Cayuvava,1,claude-opus-5-5,succeeded,end_turn,valid,606,90,0.002112
+s1_cha_r1,cha,Chamorro,1,claude-opus-5-5,succeeded,end_turn,valid,609,1607,0.017288
+s1_cle_r1,cle,Chinantec (Lealao),1,claude-opus-5-5,succeeded,end_turn,valid,632,105,0.002314
+s1_chk_r1,chk,Chukchi,1,claude-opus-5-5,succeeded,end_turn,valid,628,225,0.003506
+s1_cmn_r1,cmn,Comanche,1,claude-opus-5-5,succeeded,end_turn,valid,616,416,0.005392
+s1_coo_r1,coo,Coos (Hanis),1,claude-opus-5-5,succeeded,end_turn,valid,621,134,0.002582
+s1_cre_r1,cre,Cree (Plains),1,claude-opus-5-5,succeeded,end_turn,valid,616,1651,0.017742
+s1_dag_r1,dag,Daga,1,claude-opus-5-5,succeeded,end_turn,valid,611,113,0.002352
+s1_dni_r1,dni,Dani (Lower Grand Valley),1,claude-opus-5-5,succeeded,end_turn,valid,640,108,0.00236
+s1_dio_r1,dio,Diola-Fogny,1,claude-opus-5-5,succeeded,end_turn,valid,624,106,0.002308
+s1_dre_r1,dre,Drehu,1,claude-opus-5-5,succeeded,end_turn,valid,609,286,0.004078
+s1_eka_r1,eka,Ekari,1,claude-opus-5-5,succeeded,end_turn,valid,615,236,0.00359
+s1_eng_r1,eng,English,1,claude-opus-5-5,succeeded,end_turn,valid,604,1962,0.020828
+s1_epe_r1,epe,Epena Pedee,1,claude-opus-5-5,succeeded,end_turn,valid,605,161,0.00282
+s1_eve_r1,eve,Evenki,1,claude-opus-5-5,succeeded,end_turn,valid,605,300,0.00421
+s1_ewe_r1,ewe,Ewe,1,claude-opus-5-5,succeeded,end_turn,valid,612,2054,0.021764
+s1_fij_r1,fij,Fijian,1,claude-opus-5-5,succeeded,end_turn,valid,607,1649,0.017704
+s1_fin_r1,fin,Finnish,1,claude-opus-5-5,succeeded,end_turn,valid,604,2180,0.023008
+s1_fre_r1,fre,French,1,claude-opus-5-5,succeeded,end_turn,valid,599,1575,0.016948
+s1_fur_r1,fur,Fur,1,claude-opus-5-5,succeeded,end_turn,valid,593,128,0.002466
+s1_gar_r1,gar,Garo,1,claude-opus-5-5,succeeded,end_turn,valid,607,350,0.004714
+s1_geo_r1,geo,Georgian,1,claude-opus-5-5,succeeded,end_turn,valid,599,2639,0.027588
+s1_ger_r1,ger,German,1,claude-opus-5-5,succeeded,end_turn,valid,606,1883,0.020042
+s1_goo_r1,goo,Gooniyandi,1,claude-opus-5-5,succeeded,end_turn,valid,606,111,0.002322
+s1_grb_r1,grb,Grebo,1,claude-opus-5-5,succeeded,end_turn,valid,607,75,0.001964
+s1_grk_r1,grk,Greek (Modern),1,claude-opus-5-5,succeeded,end_turn,valid,616,2420,0.025432
+s1_grw_r1,grw,Greenlandic (West),1,claude-opus-5-5,succeeded,end_turn,valid,627,1784,0.019094
+s1_gua_r1,gua,Guaraní,1,claude-opus-5-5,succeeded,end_turn,valid,614,2038,0.021608
+s1_hai_r1,hai,Haida,1,claude-opus-5-5,succeeded,end_turn,valid,595,171,0.0029
+s1_ham_r1,ham,Hamtai,1,claude-opus-5-5,succeeded,end_turn,valid,621,100,0.002242
+s1_hau_r1,hau,Hausa,1,claude-opus-5-5,succeeded,end_turn,valid,616,2564,0.026872
+s1_heb_r1,heb,Hebrew (Modern),1,claude-opus-5-5,succeeded,end_turn,valid,627,2228,0.023534
+s1_hin_r1,hin,Hindi,1,claude-opus-5-5,succeeded,end_turn,valid,602,2597,0.027174
+s1_hix_r1,hix,Hixkaryana,1,claude-opus-5-5,succeeded,end_turn,valid,606,113,0.002342
+s1_hmo_r1,hmo,Hmong Njua,1,claude-opus-5-5,succeeded,end_turn,valid,616,1245,0.013682
+s1_hmi_r1,hmi,Huitoto (Minica),1,claude-opus-5-5,succeeded,end_turn,valid,624,145,0.002698
+s1_hun_r1,hun,Hungarian,1,claude-opus-5-5,succeeded,end_turn,valid,608,2095,0.022166
+s1_hzb_r1,hzb,Hunzib,1,claude-opus-5-5,succeeded,end_turn,valid,623,127,0.002516
+s1_igb_r1,igb,Igbo,1,claude-opus-5-5,succeeded,end_turn,valid,609,1910,0.020318
+s1_ika_r1,ika,Ika,1,claude-opus-5-5,succeeded,end_turn,valid,605,97,0.00218
+s1_imo_r1,imo,Imonda,1,claude-opus-5-5,succeeded,end_turn,valid,599,89,0.002088
+s1_ind_r1,ind,Indonesian,1,claude-opus-5-5,succeeded,end_turn,valid,617,2432,0.025554
+s1_ing_r1,ing,Ingush,1,claude-opus-5-5,succeeded,end_turn,valid,611,325,0.004472
+s1_irq_r1,irq,Iraqw,1,claude-opus-5-5,succeeded,end_turn,valid,618,181,0.003046
+s1_iri_r1,iri,Irish,1,claude-opus-5-5,succeeded,end_turn,valid,603,2255,0.023756
+s1_jak_r1,jak,Jakaltek,1,claude-opus-5-5,succeeded,end_turn,valid,604,134,0.002548
+s1_jpn_r1,jpn,Japanese,1,claude-opus-5-5,succeeded,end_turn,valid,596,2374,0.024932
+s1_juh_r1,juh,Ju|'hoan,1,claude-opus-5-5,succeeded,end_turn,valid,629,188,0.003138
+s1_knd_r1,knd,Kannada,1,claude-opus-5-5,succeeded,end_turn,valid,595,2860,0.02979
+s1_knr_r1,knr,Kanuri,1,claude-opus-5-5,succeeded,end_turn,valid,624,206,0.003308
+s1_krk_r1,krk,Karok,1,claude-opus-5-5,succeeded,end_turn,valid,599,197,0.003168
+s1_kyl_r1,kyl,Kayah Li (Eastern),1,claude-opus-5-5,succeeded,end_turn,valid,639,101,0.002288
+s1_kay_r1,kay,Kayardild,1,claude-opus-5-5,succeeded,end_turn,valid,600,190,0.0031
+s1_ker_r1,ker,Kera,1,claude-opus-5-5,succeeded,end_turn,valid,607,93,0.002144
+s1_ket_r1,ket,Ket,1,claude-opus-5-5,succeeded,end_turn,valid,595,156,0.00275
+s1_kew_r1,kew,Kewa,1,claude-opus-5-5,succeeded,end_turn,valid,622,161,0.002854
+s1_kha_r1,kha,Khalkha,1,claude-opus-5-5,succeeded,end_turn,valid,610,2487,0.02609
+s1_khs_r1,khs,Khasi,1,claude-opus-5-5,succeeded,end_turn,valid,607,1647,0.017684
+s1_khm_r1,khm,Khmer,1,claude-opus-5-5,succeeded,end_turn,valid,611,2523,0.026452
+s1_kmu_r1,kmu,Khmu',1,claude-opus-5-5,succeeded,end_turn,valid,613,132,0.002546
+s1_klv_r1,klv,Kilivila,1,claude-opus-5-5,succeeded,end_turn,valid,614,316,0.004388
+s1_kio_r1,kio,Kiowa,1,claude-opus-5-5,succeeded,end_turn,valid,605,124,0.00245
+s1_krb_r1,krb,Kiribati,1,claude-opus-5-5,succeeded,end_turn,valid,611,1113,0.012352
+s1_koa_r1,koa,Koasati,1,claude-opus-5-5,succeeded,end_turn,valid,596,167,0.002862
+s1_kob_r1,kob,Kobon,1,claude-opus-5-5,succeeded,end_turn,valid,619,108,0.002318
+s1_kon_r1,kon,Kongo,1,claude-opus-5-5,succeeded,end_turn,valid,615,1626,0.01749
+s1_kor_r1,kor,Korean,1,claude-opus-5-5,succeeded,end_turn,valid,598,2582,0.027016
+s1_kfe_r1,kfe,Koromfe,1,claude-opus-5-5,succeeded,end_turn,valid,619,98,0.002218
+s1_kse_r1,kse,Koyraboro Senni,1,claude-opus-5-5,succeeded,end_turn,valid,615,316,0.00439
+s1_kro_r1,kro,Krongo,1,claude-opus-5-5,succeeded,end_turn,valid,606,85,0.002062
+s1_knm_r1,knm,Kunama,1,claude-opus-5-5,succeeded,end_turn,valid,605,91,0.00212
+s1_kut_r1,kut,Kutenai,1,claude-opus-5-5,succeeded,end_turn,valid,603,156,0.002766
+s1_lad_r1,lad,Ladakhi,1,claude-opus-5-5,succeeded,end_turn,valid,613,295,0.004176
+s1_lak_r1,lak,Lak,1,claude-opus-5-5,succeeded,end_turn,valid,607,422,0.005434
+s1_lkt_r1,lkt,Lakhota,1,claude-opus-5-5,succeeded,end_turn,valid,614,2238,0.023608
+s1_lan_r1,lan,Lango,1,claude-opus-5-5,succeeded,end_turn,valid,610,359,0.00481
+s1_lat_r1,lat,Latvian,1,claude-opus-5-5,succeeded,end_turn,valid,606,2269,0.023902
+s1_lav_r1,lav,Lavukaleve,1,claude-opus-5-5,succeeded,end_turn,valid,625,109,0.00234
+s1_lep_r1,lep,Lepcha,1,claude-opus-5-5,succeeded,end_turn,valid,622,141,0.002654
+s1_lez_r1,lez,Lezgian,1,claude-opus-5-5,succeeded,end_turn,valid,623,1971,0.020956
+s1_luv_r1,luv,Luvale,1,claude-opus-5-5,succeeded,end_turn,valid,607,203,0.003244
+s1_mab_r1,mab,Maba,1,claude-opus-5-5,succeeded,end_turn,valid,592,87,0.002054
+s1_mak_r1,mak,Makah,1,claude-opus-5-5,succeeded,end_turn,valid,605,202,0.00323
+s1_mal_r1,mal,Malagasy,1,claude-opus-5-5,succeeded,end_turn,valid,609,2222,0.023438
+s1_mnd_r1,mnd,Mandarin,1,claude-opus-5-5,succeeded,end_turn,valid,610,2574,0.02696
+s1_myi_r1,myi,Mangarrayi,1,claude-opus-5-5,succeeded,end_turn,valid,623,97,0.002216
+s1_mao_r1,mao,Maori,1,claude-opus-5-5,succeeded,end_turn,valid,605,1810,0.01931
+s1_map_r1,map,Mapudungun,1,claude-opus-5-5,succeeded,end_turn,valid,603,1089,0.012096
+s1_mku_r1,mku,Maranungku,1,claude-opus-5-5,succeeded,end_turn,valid,610,33,0.00155
+s1_mar_r1,mar,Maricopa,1,claude-opus-5-5,succeeded,end_turn,valid,606,116,0.002372
+s1_mrd_r1,mrd,Marind,1,claude-opus-5-5,succeeded,end_turn,valid,613,121,0.002436
+s1_mrt_r1,mrt,Martuthunira,1,claude-opus-5-5,succeeded,end_turn,valid,622,127,0.002514
+s1_mau_r1,mau,Maung,1,claude-opus-5-5,succeeded,end_turn,valid,596,96,0.002152
+s1_may_r1,may,Maybrat,1,claude-opus-5-5,succeeded,end_turn,valid,602,123,0.002434
+s1_mei_r1,mei,Meithei,1,claude-opus-5-5,succeeded,end_turn,valid,608,1430,0.015516
+s1_mss_r1,mss,Miwok (Southern Sierra),1,claude-opus-5-5,succeeded,end_turn,valid,630,126,0.00252
+s1_mxc_r1,mxc,Mixtec (Chalcatongo),1,claude-opus-5-5,succeeded,end_turn,valid,640,193,0.00321
+s1_mun_r1,mun,Mundari,1,claude-opus-5-5,succeeded,end_turn,valid,606,310,0.004312
+s1_mrl_r1,mrl,Murle,1,claude-opus-5-5,succeeded,end_turn,valid,609,67,0.001888
+s1_nht_r1,nht,Nahuatl (Tetelcingo),1,claude-opus-5-5,succeeded,end_turn,valid,644,205,0.003338
+s1_kho_r1,kho,Nama,1,claude-opus-5-5,succeeded,end_turn,valid,600,209,0.00329
+s1_nav_r1,nav,Navajo,1,claude-opus-5-5,succeeded,end_turn,valid,607,1746,0.018674
+s1_ndy_r1,ndy,Ndyuka,1,claude-opus-5-5,succeeded,end_turn,valid,616,1448,0.015712
+s1_nen_r1,nen,Nenets (Forest),1,claude-opus-5-5,succeeded,end_turn,valid,621,139,0.002632
+s1_nez_r1,nez,Nez Perce,1,claude-opus-5-5,succeeded,end_turn,valid,611,363,0.004852
+s1_nti_r1,nti,Ngiti,1,claude-opus-5-5,succeeded,end_turn,valid,618,103,0.002266
+s1_ngi_r1,ngi,Ngiyambaa,1,claude-opus-5-5,succeeded,end_turn,valid,631,166,0.002922
+s1_niv_r1,niv,Nivkh,1,claude-opus-5-5,succeeded,end_turn,valid,600,130,0.0025
+s1_nko_r1,nko,Nkore-Kiga,1,claude-opus-5-5,succeeded,end_turn,valid,623,1290,0.014146
+s1_nbd_r1,nbd,Nubian (Dongolese),1,claude-opus-5-5,succeeded,end_turn,valid,631,138,0.002642
+s1_nug_r1,nug,Nunggubuyu,1,claude-opus-5-5,succeeded,end_turn,valid,624,89,0.002138
+s1_ond_r1,ond,Oneida,1,claude-opus-5-5,succeeded,end_turn,valid,610,244,0.00366
+s1_orh_r1,orh,Oromo (Harar),1,claude-opus-5-5,succeeded,end_turn,valid,633,1923,0.020496
+s1_otm_r1,otm,Otomí (Mezquital),1,claude-opus-5-5,succeeded,end_turn,valid,630,343,0.00469
+s1_pms_r1,pms,Paamese,1,claude-opus-5-5,succeeded,end_turn,valid,609,146,0.002678
+s1_pai_r1,pai,Paiwan,1,claude-opus-5-5,succeeded,end_turn,valid,611,250,0.003722
+s1_psm_r1,psm,Passamaquoddy-Maliseet,1,claude-opus-5-5,succeeded,end_turn,valid,637,292,0.004194
+s1_pau_r1,pau,Paumarí,1,claude-opus-5-5,succeeded,end_turn,valid,600,156,0.00276
+s1_prs_r1,prs,Persian,1,claude-opus-5-5,succeeded,end_turn,valid,602,2443,0.025634
+s1_prh_r1,prh,Pirahã,1,claude-opus-5-5,succeeded,end_turn,valid,599,181,0.003008
+s1_pit_r1,pit,Pitjantjatjara,1,claude-opus-5-5,succeeded,end_turn,valid,631,1479,0.016052
+s1_pso_r1,pso,Pomo (Southeastern),1,claude-opus-5-5,succeeded,end_turn,valid,625,105,0.0023
+s1_qaw_r1,qaw,Qawasqar,1,claude-opus-5-5,succeeded,end_turn,valid,604,116,0.002368
+s1_qim_r1,qim,Quechua (Imbabura),1,claude-opus-5-5,succeeded,end_turn,valid,620,1481,0.01605
+s1_ram_r1,ram,Rama,1,claude-opus-5-5,succeeded,end_turn,valid,604,109,0.002298
+s1_rap_r1,rap,Rapanui,1,claude-opus-5-5,succeeded,end_turn,valid,609,328,0.004498
+s1_rus_r1,rus,Russian,1,claude-opus-5-5,succeeded,end_turn,valid,602,2338,0.024584
+s1_san_r1,san,Sango,1,claude-opus-5-5,succeeded,end_turn,valid,608,1447,0.015686
+s1_snm_r1,snm,Sanuma,1,claude-opus-5-5,succeeded,end_turn,valid,607,137,0.002584
+s1_sel_r1,sel,Selknam,1,claude-opus-5-5,succeeded,end_turn,valid,608,142,0.002636
+s1_sml_r1,sml,Semelai,1,claude-opus-5-5,succeeded,end_turn,valid,611,120,0.002422
+s1_snt_r1,snt,Sentani,1,claude-opus-5-5,succeeded,end_turn,valid,599,99,0.002188
+s1_shk_r1,shk,Shipibo-Konibo,1,claude-opus-5-5,succeeded,end_turn,valid,627,806,0.009314
+s1_sla_r1,sla,Slave,1,claude-opus-5-5,succeeded,end_turn,valid,605,196,0.00317
+s1_spa_r1,spa,Spanish,1,claude-opus-5-5,succeeded,end_turn,valid,604,1467,0.015878
+s1_squ_r1,squ,Squamish,1,claude-opus-5-5,succeeded,end_turn,valid,605,148,0.00269
+s1_sue_r1,sue,Suena,1,claude-opus-5-5,succeeded,end_turn,valid,612,77,0.001994
+s1_sup_r1,sup,Supyire,1,claude-opus-5-5,succeeded,end_turn,valid,607,119,0.002404
+s1_swa_r1,swa,Swahili,1,claude-opus-5-5,succeeded,end_turn,valid,609,2328,0.024498
+s1_tab_r1,tab,Taba,1,claude-opus-5-5,succeeded,end_turn,valid,613,82,0.002046
+s1_tag_r1,tag,Tagalog,1,claude-opus-5-5,succeeded,end_turn,valid,614,2230,0.023528
+s1_tha_r1,tha,Thai,1,claude-opus-5-5,succeeded,end_turn,valid,609,2923,0.030448
+s1_tiw_r1,tiw,Tiwi,1,claude-opus-5-5,succeeded,end_turn,valid,600,92,0.00212
+s1_tli_r1,tli,Tlingit,1,claude-opus-5-5,succeeded,end_turn,valid,609,233,0.003548
+s1_tru_r1,tru,Trumai,1,claude-opus-5-5,succeeded,end_turn,valid,597,93,0.002124
+s1_tsi_r1,tsi,Tsimshian (Coast),1,claude-opus-5-5,succeeded,end_turn,valid,623,201,0.003256
+s1_tuk_r1,tuk,Tukang Besi,1,claude-opus-5-5,succeeded,end_turn,valid,616,115,0.002382
+s1_tun_r1,tun,Tunica,1,claude-opus-5-5,succeeded,end_turn,valid,595,174,0.00293
+s1_tur_r1,tur,Turkish,1,claude-opus-5-5,succeeded,end_turn,valid,605,2486,0.02607
+s1_una_r1,una,Una,1,claude-opus-5-5,succeeded,end_turn,valid,604,30,0.001508
+s1_ung_r1,ung,Ungarinjin,1,claude-opus-5-5,succeeded,end_turn,valid,606,101,0.002222
+s1_urk_r1,urk,Urubú-Kaapor,1,claude-opus-5-5,succeeded,end_turn,valid,628,145,0.002706
+s1_usa_r1,usa,Usan,1,claude-opus-5-5,succeeded,end_turn,valid,613,89,0.002116
+s1_vie_r1,vie,Vietnamese,1,claude-opus-5-5,succeeded,end_turn,valid,617,2515,0.026384
+s1_wam_r1,wam,Wambaya,1,claude-opus-5-5,succeeded,end_turn,valid,609,105,0.002268
+s1_wra_r1,wra,Warao,1,claude-opus-5-5,succeeded,end_turn,valid,594,234,0.003528
+s1_wrd_r1,wrd,Wardaman,1,claude-opus-5-5,succeeded,end_turn,valid,601,106,0.002262
+s1_war_r1,war,Wari',1,claude-opus-5-5,succeeded,end_turn,valid,603,193,0.003136
+s1_wic_r1,wic,Wichita,1,claude-opus-5-5,succeeded,end_turn,valid,608,116,0.002376
+s1_wch_r1,wch,Wichí,1,claude-opus-5-5,succeeded,end_turn,valid,604,271,0.003918
+s1_yag_r1,yag,Yagua,1,claude-opus-5-5,succeeded,end_turn,valid,601,95,0.002152
+s1_yaq_r1,yaq,Yaqui,1,claude-opus-5-5,succeeded,end_turn,valid,613,375,0.004976
+s1_yid_r1,yid,Yidiny,1,claude-opus-5-5,succeeded,end_turn,valid,620,156,0.0028
+s1_yim_r1,yim,Yimas,1,claude-opus-5-5,succeeded,end_turn,valid,620,122,0.00246
+s1_yor_r1,yor,Yoruba,1,claude-opus-5-5,succeeded,end_turn,valid,616,2641,0.027642
+s1_yuc_r1,yuc,Yuchi,1,claude-opus-5-5,succeeded,end_turn,valid,599,125,0.002448
+s1_yko_r1,yko,Yukaghir (Kolyma),1,claude-opus-5-5,succeeded,end_turn,valid,625,142,0.00267
+s1_ypk_r1,ypk,Yup'ik (Central),1,claude-opus-5-5,succeeded,end_turn,valid,628,454,0.005796
+s1_yur_r1,yur,Yurok,1,claude-opus-5-5,succeeded,end_turn,valid,602,160,0.002804
+s1_zqc_r1,zqc,Zoque (Copainalá),1,claude-opus-5-5,succeeded,end_turn,valid,623,140,0.002646
+s1_zul_r1,zul,Zulu,1,claude-opus-5-5,succeeded,end_turn,valid,608,2322,0.024436

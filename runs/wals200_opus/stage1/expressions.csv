@@ -1,0 +1,729 @@
+﻿custom_id,wals_code,name,family,macroarea,is_control,control_role,repeat,position,status,expression,romanisation,literal,meaning,register,currency,confidence
+s1_ain_r1,ain,Ainu,Ainu,Eurasia,false,,1,1,valid,wen,,bad,"Bad, evil, wicked. The general term, applied to persons, acts or things. Its strength depends on context, and it does not specifically mean 'cruel'.",everyday,current,high
+s1_ain_r1,ain,Ainu,Ainu,Eurasia,false,,1,2,valid,wen kur,,bad person,"A bad or wicked person, an evildoer.",everyday,current,medium
+s1_ain_r1,ain,Ainu,Ainu,Eurasia,false,,1,3,valid,wenpuri,,bad custom/behaviour,Bad conduct or wicked character; evil behaviour.,everyday,current,medium
+s1_ain_r1,ain,Ainu,Ainu,Eurasia,false,,1,4,valid,nitne,,"hard, stiff","Evil or malevolent, especially of spirits or beings; harsh or malignant.",formal_or_literary,archaic,medium
+s1_ain_r1,ain,Ainu,Ainu,Eurasia,false,,1,5,valid,wenkamuy,,bad god/spirit,Evil spirit or demon; also a bear that has killed people. It can be applied to a monstrously wicked being.,formal_or_literary,archaic,medium
+s1_ain_r1,ain,Ainu,Ainu,Eurasia,false,,1,6,valid,keutum wen,,heart/disposition bad,"Evil-hearted, of bad disposition, malicious.",everyday,current,low
+s1_aeg_r1,aeg,Arabic (Egyptian),Afro-Asiatic,Africa,false,,1,1,valid,حرام عليك,ḥarām ʿalēk,forbidden/sinful upon you,How could you! Shame on you! A reproach that an act is cruel or heartless toward someone.,everyday,current,high
+s1_aeg_r1,aeg,Arabic (Egyptian),Afro-Asiatic,Africa,false,,1,2,valid,ظالم,ẓālim,"wrongdoer, oppressor","Unjust, oppressive, cruel person who wrongs others.",everyday,current,high
+s1_aeg_r1,aeg,Arabic (Egyptian),Afro-Asiatic,Africa,false,,1,3,valid,مفتري,muftari,one who transgresses / oppresses,"Tyrannical, abusive, cruelly unjust person who mistreats others.",everyday,current,high
+s1_aeg_r1,aeg,Arabic (Egyptian),Afro-Asiatic,Africa,false,,1,4,valid,قلبه حجر,ʾalbu ḥagar,his heart (is) stone,He is heartless and pitiless.,everyday,current,high
+s1_aeg_r1,aeg,Arabic (Egyptian),Afro-Asiatic,Africa,false,,1,5,valid,معندوش رحمة,maʿandūš raḥma,he doesn't have mercy,"He is merciless, utterly without compassion.",everyday,current,high
+s1_aeg_r1,aeg,Arabic (Egyptian),Afro-Asiatic,Africa,false,,1,6,valid,ده ما يرضيش ربنا,da ma-yirḍīš rabbina,this doesn't please our Lord,"This is wrong, outrageous and cruel; God would not accept it.",everyday,current,high
+s1_aeg_r1,aeg,Arabic (Egyptian),Afro-Asiatic,Africa,false,,1,7,valid,حسبي الله ونعم الوكيل,ḥasbiya-llāh wi niʿma-l-wakīl,"God suffices me, and (He is) the best guardian","Said against someone who has done grave injustice or cruelty, leaving their punishment to God.",everyday,current,high
+s1_aeg_r1,aeg,Arabic (Egyptian),Afro-Asiatic,Africa,false,,1,8,valid,ما يعرفش ربنا,ma-yiʿrafš rabbina,he doesn't know our Lord,He is godless and unscrupulous; he will do any wicked or cruel thing.,everyday,current,high
+s1_aeg_r1,aeg,Arabic (Egyptian),Afro-Asiatic,Africa,false,,1,9,valid,معندوش ضمير,maʿandūš ḍamīr,he doesn't have a conscience,He is unscrupulous and capable of wicked or cruel acts without remorse.,everyday,current,high
+s1_aeg_r1,aeg,Arabic (Egyptian),Afro-Asiatic,Africa,false,,1,10,valid,قاسي,ʾāsi,hard,"Cruel, harsh, hard-hearted.",everyday,current,high
+s1_aeg_r1,aeg,Arabic (Egyptian),Afro-Asiatic,Africa,false,,1,11,valid,مجرم,mugrim,criminal,Used hyperbolically for someone who has done something monstrous or cruel.,everyday,current,high
+s1_aeg_r1,aeg,Arabic (Egyptian),Afro-Asiatic,Africa,false,,1,12,valid,شيطان,šēṭān,"devil, Satan","An evil, wicked person.",everyday,current,high
+s1_aeg_r1,aeg,Arabic (Egyptian),Afro-Asiatic,Africa,false,,1,13,valid,ربنا ينتقم منه,rabbina yintiʾim minnu,our Lord take-revenge from him,May God punish him; a curse on someone who has committed a cruel or unjust act.,everyday,current,high
+s1_aeg_r1,aeg,Arabic (Egyptian),Afro-Asiatic,Africa,false,,1,14,valid,ابن حرام,ibn ḥarām,son of the forbidden (illegitimate child),"A wicked, vile person who does evil deliberately.",slang_or_insult,current,high
+s1_aeg_r1,aeg,Arabic (Egyptian),Afro-Asiatic,Africa,false,,1,15,valid,وحشي,waḥši,"beast-like, savage","Brutal, savage. Used especially of atrocious acts, often in news-influenced speech.",formal_or_literary,current,medium
+s1_arm_r1,arm,Armenian (Eastern),Indo-European,Eurasia,false,,1,1,valid,դաժան,dažan,cruel,Cruel or brutal. The standard word for a cruel person or act.,everyday,current,high
+s1_arm_r1,arm,Armenian (Eastern),Indo-European,Eurasia,false,,1,2,valid,անխիղճ,anxiłč,without-conscience,Conscienceless or heartless. Condemns someone who does terrible things without remorse.,everyday,current,high
+s1_arm_r1,arm,Armenian (Eastern),Indo-European,Eurasia,false,,1,3,valid,գազան,gazan,"beast, wild animal","Brute or beast. Used of a person who acts with savage cruelty, as in 'he's a beast'.",everyday,current,high
+s1_arm_r1,arm,Armenian (Eastern),Indo-European,Eurasia,false,,1,4,valid,անգութ,angutʻ,without-pity,Merciless or pitiless.,everyday,current,high
+s1_arm_r1,arm,Armenian (Eastern),Indo-European,Eurasia,false,,1,5,valid,չար,čʻar,"evil, bad","Wicked, evil or malicious, of a person or a deed.",everyday,current,high
+s1_arm_r1,arm,Armenian (Eastern),Indo-European,Eurasia,false,,1,6,valid,անմարդկային,anmardkayin,un-human-ly,Inhuman. Condemns an act as monstrously cruel.,everyday,current,high
+s1_arm_r1,arm,Armenian (Eastern),Indo-European,Eurasia,false,,1,7,valid,հրեշ,hreš,monster,A monster: a person capable of atrocious cruelty.,everyday,current,high
+s1_arm_r1,arm,Armenian (Eastern),Indo-European,Eurasia,false,,1,8,valid,անասուն,anasun,"animal, cattle (lit. 'speechless one')",Brute or animal. An insult for a brutal or inhumanly behaving person; it is also used for stupidity.,slang_or_insult,current,high
+s1_arm_r1,arm,Armenian (Eastern),Indo-European,Eurasia,false,,1,9,valid,անաստված,anastvac,without-God,"Godless. Used of someone ruthless, shameless or cruel who fears nothing.",everyday,current,medium
+s1_arm_r1,arm,Armenian (Eastern),Indo-European,Eurasia,false,,1,10,valid,Աստված չունի,Astvac čʻuni,God not-has,'He has no God.' Said of someone utterly merciless or unscrupulous.,everyday,current,medium
+s1_arm_r1,arm,Armenian (Eastern),Indo-European,Eurasia,false,,1,11,valid,քարսիրտ,kʻarsirt,stone-heart(ed),"Hard-hearted or callous, indifferent to suffering.",everyday,current,high
+s1_arm_r1,arm,Armenian (Eastern),Indo-European,Eurasia,false,,1,12,valid,բարբարոս,barbaros,barbarian,"Barbarian or savage. Condemns barbarous, cruel acts or their perpetrators.",everyday,current,high
+s1_arm_r1,arm,Armenian (Eastern),Indo-European,Eurasia,false,,1,13,valid,սադիստ,sadist,sadist,Sadist: a person who enjoys inflicting cruelty.,everyday,current,high
+s1_arm_r1,arm,Armenian (Eastern),Indo-European,Eurasia,false,,1,14,valid,վայրագ,vayrag,"savage, ferocious","Savage or ferocious, of brutal violence.",formal_or_literary,current,high
+s1_arm_r1,arm,Armenian (Eastern),Indo-European,Eurasia,false,,1,15,valid,չարագործ,čʻaragorc,evil-doer,Evildoer or villain.,formal_or_literary,current,high
+s1_aym_r1,aym,Aymara (Central),Aymaran,South America,false,,1,1,valid,jan wali,,not good,"Bad or wicked, said of a person or an act. It is general, but it is the commonest way to condemn wrongdoing (e.g. 'jan wali jaqi', a wicked person).",everyday,current,high
+s1_aym_r1,aym,Aymara (Central),Aymaran,South America,false,,1,2,valid,ñanqha,,evil / wicked (also associated with the devil),Evil or perverse. Describes a person or deed as morally wicked.,everyday,current,medium
+s1_aym_r1,aym,Aymara (Central),Aymaran,South America,false,,1,3,valid,qhuru,,fierce / savage,"Cruel, ferocious or brutal, said of a person who acts savagely (e.g. 'qhuru jaqi', a cruel person).",everyday,current,medium
+s1_aym_r1,aym,Aymara (Central),Aymaran,South America,false,,1,4,valid,saxra,,evil spirit / malignant being,Malignant or diabolical. Applied to a person whose behaviour is seen as demonically wicked.,slang_or_insult,current,medium
+s1_aym_r1,aym,Aymara (Central),Aymaran,South America,false,,1,5,valid,supaya,,devil,Devil. Used as a condemnation of a person who acts with extreme wickedness.,slang_or_insult,current,low
+s1_aym_r1,aym,Aymara (Central),Aymaran,South America,false,,1,6,valid,jan khuyapayasiri,,not one-who-has-pity,Merciless or pitiless. Describes someone who inflicts suffering without compassion.,everyday,current,low
+s1_bam_r1,bam,Bambara,Mande,Africa,false,,1,1,valid,jugu,,bad / wicked,"Wicked, malicious or cruel. Used predicatively (a ka jugu 'he/she is wicked') or after a noun (mɔgɔ jugu 'wicked person'). As a noun it also means 'enemy'.",everyday,current,high
+s1_bam_r1,bam,Bambara,Mande,Africa,false,,1,2,valid,mɔgɔ jugu,,person bad,"A wicked, evil person.",everyday,current,high
+s1_bam_r1,bam,Bambara,Mande,Africa,false,,1,3,valid,kojugu,,thing/matter bad,"An evil deed, a crime or atrocity.",everyday,current,high
+s1_bam_r1,bam,Bambara,Mande,Africa,false,,1,4,valid,kojugukɛla,,bad-thing-doer,"Evildoer, criminal, someone who commits wicked acts.",everyday,current,medium
+s1_bam_r1,bam,Bambara,Mande,Africa,false,,1,5,valid,juguya,,bad-ness,"Wickedness, malice or cruelty as a trait or act.",everyday,current,high
+s1_bam_r1,bam,Bambara,Mande,Africa,false,,1,6,valid,hinɛbali,,pity-without (privative),"Merciless, pitiless, cruel. The derived noun hinɛbaliya means 'cruelty'.",everyday,current,medium
+s1_bam_r1,bam,Bambara,Mande,Africa,false,,1,7,valid,dusukun jugu,,heart bad,"Bad-hearted, malicious and evil-minded (e.g. a ka dusukun ka jugu 'his heart is wicked').",everyday,current,medium
+s1_bam_r1,bam,Bambara,Mande,Africa,false,,1,8,valid,sitanɛ,,Satan / devil,Calling someone a devil to condemn them as wicked or diabolically cruel.,slang_or_insult,current,medium
+s1_bam_r1,bam,Bambara,Mande,Africa,false,,1,9,valid,maaya t'a la,,humanity is-not him in,"He/she has no humanity, i.e. is inhumanly cruel.",everyday,current,low
+s1_bam_r1,bam,Bambara,Mande,Africa,false,,1,10,valid,subaga,,witch / sorcerer (soul-eater),"Witch, used as an accusation or insult for someone malevolent who harms others.",slang_or_insult,current,low
+s1_bam_r1,bam,Bambara,Mande,Africa,false,,1,11,valid,jahanamaden,,hell-child,"Child of hell, used as an insult for a thoroughly wicked person.",slang_or_insult,current,low
+s1_bsq_r1,bsq,Basque,Basque,Eurasia,false,,1,1,valid,gaizto,,"bad, wicked","Wicked, evil, malicious. Used of a person or an act; the general word for moral badness.",everyday,current,high
+s1_bsq_r1,bsq,Basque,Basque,Eurasia,false,,1,2,valid,krudel,,cruel (Romance loan),Cruel. Said of a person or an act that causes suffering without pity.,everyday,current,high
+s1_bsq_r1,bsq,Basque,Basque,Eurasia,false,,1,3,valid,bihozgabe (bihotz gabe),,heart-without,"Heartless, without compassion. Used to condemn someone who acts cruelly.",everyday,current,high
+s1_bsq_r1,bsq,Basque,Basque,Eurasia,false,,1,4,valid,basati,,"wild, savage (from basa 'wild')","Savage, brutal, barbaric. Used of atrocious acts or of the people who commit them.",everyday,current,high
+s1_bsq_r1,bsq,Basque,Basque,Eurasia,false,,1,5,valid,zital,,"vile, base","Vile, mean, despicable. Condemns a nasty or wicked person or deed.",everyday,current,high
+s1_bsq_r1,bsq,Basque,Basque,Eurasia,false,,1,6,valid,piztia,,"beast, wild animal","A beast or monster, said of a person who has acted with extreme cruelty.",slang_or_insult,current,high
+s1_bsq_r1,bsq,Basque,Basque,Eurasia,false,,1,7,valid,anker,,"cruel, ruthless","Cruel, ruthless, pitiless. The native Basque term for cruelty.",formal_or_literary,current,high
+s1_bsq_r1,bsq,Basque,Basque,Eurasia,false,,1,8,valid,doilor,,"vile, cowardly","Despicable, base, cowardly. Often used of contemptible acts, such as attacking the defenceless.",everyday,current,high
+s1_bsq_r1,bsq,Basque,Basque,Eurasia,false,,1,9,valid,ankerkeria,,cruel-act/quality (anker + -keria),"Cruelty, or a cruel act or atrocity.",formal_or_literary,current,high
+s1_bsq_r1,bsq,Basque,Basque,Eurasia,false,,1,10,valid,basakeria,,wild-act (basa + -keria),"Savagery, barbarity; an atrocious or brutal act.",everyday,current,high
+s1_bsq_r1,bsq,Basque,Basque,Eurasia,false,,1,11,valid,gaiztakeria,,wicked-act (gaizto + -keria),"Wickedness, or a malicious or evil deed.",everyday,current,high
+s1_bsq_r1,bsq,Basque,Basque,Eurasia,false,,1,12,valid,gupidagabe,,pity-without,"Merciless, pitiless.",formal_or_literary,current,high
+s1_bsq_r1,bsq,Basque,Basque,Eurasia,false,,1,13,valid,errukigabe,,compassion-without,"Pitiless, merciless, without compassion.",formal_or_literary,current,high
+s1_bsq_r1,bsq,Basque,Basque,Eurasia,false,,1,14,valid,deabru,,devil,"Devil, said of an extremely wicked person.",slang_or_insult,current,medium
+s1_bsq_r1,bsq,Basque,Basque,Eurasia,false,,1,15,valid,maltzur,,"sly, malicious","Malicious, treacherous, sly. Implies wicked intent, more cunning than brutal.",everyday,current,medium
+s1_brm_r1,brm,Burmese,Sino-Tibetan,Eurasia,false,,1,1,valid,ရက်စက်,yet-set,cruel,Cruel or merciless. It is the default word for condemning a cruel act or person. It is often used as an exclamation: ရက်စက်လိုက်တာ 'how cruel!',everyday,current,high
+s1_brm_r1,brm,Burmese,Sino-Tibetan,Eurasia,false,,1,2,valid,လူမဆန်,lu ma hsan,person NEG be-like/befit,"Inhuman. Used of an act or person beyond human decency, as in လူမဆန်တဲ့ လုပ်ရပ် 'an inhuman deed'.",everyday,current,high
+s1_brm_r1,brm,Burmese,Sino-Tibetan,Eurasia,false,,1,3,valid,ယုတ်မာ,youk-ma,base/low + vile,"Vile, wicked, despicable. Used of a morally depraved act or person. It is often an exclamation: ယုတ်မာလိုက်တာ 'how vile!'",everyday,current,high
+s1_brm_r1,brm,Burmese,Sino-Tibetan,Eurasia,false,,1,4,valid,လူယုတ်မာ,lu youk-ma,person vile,"A villain or wicked person, the person who did the despicable act.",everyday,current,high
+s1_brm_r1,brm,Burmese,Sino-Tibetan,Eurasia,false,,1,5,valid,ကြမ်းကြုတ်,kyan-kyout,rough/harsh + fierce,"Brutal, savage, ferocious. Used of violent treatment.",everyday,current,high
+s1_brm_r1,brm,Burmese,Sino-Tibetan,Eurasia,false,,1,6,valid,ရက်ရက်စက်စက်,yet-yet-set-set,cruel (reduplicated),"Cruelly or mercilessly. An adverb describing how an act was done, e.g. a brutal killing.",everyday,current,high
+s1_brm_r1,brm,Burmese,Sino-Tibetan,Eurasia,false,,1,7,valid,တိရစ္ဆာန်,tei-yet-hsan,animal/beast,Beast or animal. Used as an insult for someone who acts with brutal or inhuman wickedness.,slang_or_insult,current,high
+s1_brm_r1,brm,Burmese,Sino-Tibetan,Eurasia,false,,1,8,valid,ဘီလူး,bi-lu,ogre,Ogre or demon. Applied to a person who is monstrously cruel.,slang_or_insult,current,medium
+s1_brm_r1,brm,Burmese,Sino-Tibetan,Eurasia,false,,1,9,valid,ငရဲကြီးမယ်,nga-ye kyi: me,hell big FUT,'(You'll) go to great hell'. Said to condemn a deed as so sinful or cruel that it earns hellish karmic retribution.,everyday,current,medium
+s1_brm_r1,brm,Burmese,Sino-Tibetan,Eurasia,false,,1,10,valid,ဆိုးညစ်,hso:-nyit,bad + dirty/corrupt,Evil or wicked. Used of a person or deed.,formal_or_literary,current,medium
+s1_brm_r1,brm,Burmese,Sino-Tibetan,Eurasia,false,,1,11,valid,ယုတ်ညံ့,youk-nyan.,base + inferior,"Base, mean, contemptible. Used of morally low conduct.",formal_or_literary,current,medium
+s1_brm_r1,brm,Burmese,Sino-Tibetan,Eurasia,false,,1,12,valid,စက်ဆုပ်ရွံရှာဖွယ်,set-hsout ywun-sha-hpwe,loathe + abhor + worthy-of,Abhorrent or disgusting. Used of an atrocity or heinous act.,formal_or_literary,current,medium
+s1_brm_r1,brm,Burmese,Sino-Tibetan,Eurasia,false,,1,13,valid,ကြမ်းကြုတ်ရက်စက်,kyan-kyout yet-set,brutal + cruel,Brutal and cruel. A compound frequent in news and statements condemning atrocities.,formal_or_literary,current,medium
+s1_brm_r1,brm,Burmese,Sino-Tibetan,Eurasia,false,,1,14,valid,လူဆိုး,lu-hso:,person bad,"A bad or wicked person, a criminal or villain.",everyday,current,high
+s1_cha_r1,cha,Chamorro,Austronesian,Papunesia,false,,1,1,valid,baba,,bad,"Bad, evil, wicked. The general word for a morally bad act or person.",everyday,current,high
+s1_cha_r1,cha,Chamorro,Austronesian,Papunesia,false,,1,2,valid,mampos baba,,too-much bad,Extremely bad or wicked. Used to condemn an especially evil act or person.,everyday,current,medium
+s1_cha_r1,cha,Chamorro,Austronesian,Papunesia,false,,1,3,valid,taiase',,without-mercy,"Merciless, pitiless, cruel.",everyday,current,medium
+s1_cha_r1,cha,Chamorro,Austronesian,Papunesia,false,,1,4,valid,tailayi,,without-worth (tai- 'without'),"Wicked, evil, worthless (of a person or deed).",everyday,current,medium
+s1_cha_r1,cha,Chamorro,Austronesian,Papunesia,false,,1,5,valid,taiguinaiya,,without-love,"Loveless, heartless, unkind; used of someone who treats others cruelly.",everyday,current,medium
+s1_cha_r1,cha,Chamorro,Austronesian,Papunesia,false,,1,6,valid,kruet,,cruel (from Spanish cruel),Cruel.,everyday,current,medium
+s1_cha_r1,cha,Chamorro,Austronesian,Papunesia,false,,1,7,valid,diablo,,devil (from Spanish),Devil. Applied to a person as a wicked or evil one.,slang_or_insult,current,medium
+s1_cha_r1,cha,Chamorro,Austronesian,Papunesia,false,,1,8,valid,malisiosu,,malicious (from Spanish malicioso),"Malicious, ill-intentioned.",everyday,current,low
+s1_cha_r1,cha,Chamorro,Austronesian,Papunesia,false,,1,9,valid,bestia,,beast (from Spanish),"Beast, brute. An insult for a person who acts savagely or cruelly.",slang_or_insult,current,low
+s1_cre_r1,cre,Cree (Plains),Algic,North America,false,,1,1,valid,macâyiwiw,,bad/evil-be (s/he),"s/he is evil, wicked",everyday,current,medium
+s1_cre_r1,cre,Cree (Plains),Algic,North America,false,,1,2,valid,macihtwâw,,evil-disposition (s/he has),"s/he is mean, wicked, malicious by nature",everyday,current,medium
+s1_cre_r1,cre,Cree (Plains),Algic,North America,false,,1,3,valid,kitimahêw,,pitiful-make-him/her (s/he),"s/he mistreats someone, is cruel to someone",everyday,current,high
+s1_cre_r1,cre,Cree (Plains),Algic,North America,false,,1,4,valid,kitimahiwêw,,pitiful-make-people (s/he),"s/he is cruel to people, mistreats others",everyday,current,medium
+s1_cre_r1,cre,Cree (Plains),Algic,North America,false,,1,5,valid,kakwâtakihêw,,suffering-cause-him/her (s/he),"s/he torments someone, makes someone suffer",everyday,current,high
+s1_cre_r1,cre,Cree (Plains),Algic,North America,false,,1,6,valid,kakwâtakihiwêw,,suffering-cause-people (s/he),"s/he torments people, is a tormentor",everyday,current,medium
+s1_cre_r1,cre,Cree (Plains),Algic,North America,false,,1,7,valid,maci-ayisiyiniw,,evil-person,an evil or wicked person,everyday,current,medium
+s1_cre_r1,cre,Cree (Plains),Algic,North America,false,,1,8,valid,mâyitôtam,,bad-does (s/he),"s/he does evil, commits a wrong or wicked deed",everyday,current,medium
+s1_cre_r1,cre,Cree (Plains),Algic,North America,false,,1,9,valid,maci-manitow,,evil-spirit,"devil, evil spirit; applied to someone considered utterly wicked",everyday,current,medium
+s1_cre_r1,cre,Cree (Plains),Algic,North America,false,,1,10,valid,pâstâhow,,transgress (s/he),s/he commits a grave transgression or sin that brings retribution,formal_or_literary,current,medium
+s1_eng_r1,eng,English,Indo-European,Eurasia,true,known_language,1,1,valid,evil,,evil,"Profoundly morally wrong or wicked. Used of acts and people, often as 'pure evil'.",everyday,current,high
+s1_eng_r1,eng,English,Indo-European,Eurasia,true,known_language,1,2,valid,monster,,monster,"A person who has done something shockingly cruel, regarded as less than human.",everyday,current,high
+s1_eng_r1,eng,English,Indo-European,Eurasia,true,known_language,1,3,valid,sick,,ill,"Morally perverted or depraved, as in 'that's sick' or 'he's sick'. Said of disturbing cruelty.",everyday,current,high
+s1_eng_r1,eng,English,Indo-European,Eurasia,true,known_language,1,4,valid,cruel,,cruel,Deliberately causing pain or suffering to others.,everyday,current,high
+s1_eng_r1,eng,English,Indo-European,Eurasia,true,known_language,1,5,valid,wicked,,wicked,Morally very bad or evil. In everyday speech it is somewhat old-fashioned or emphatic in this sense.,everyday,current,high
+s1_eng_r1,eng,English,Indo-European,Eurasia,true,known_language,1,6,valid,heartless,,heart-less,Completely lacking compassion or pity.,everyday,current,high
+s1_eng_r1,eng,English,Indo-European,Eurasia,true,known_language,1,7,valid,sick bastard,,ill illegitimate-child,A person who has committed a depraved or sadistic act.,slang_or_insult,current,high
+s1_eng_r1,eng,English,Indo-European,Eurasia,true,known_language,1,8,valid,vile,,vile,Extremely unpleasant and morally despicable.,everyday,current,high
+s1_eng_r1,eng,English,Indo-European,Eurasia,true,known_language,1,9,valid,barbaric,,barbarian-like,"Savagely cruel and brutal, as if uncivilised.",everyday,current,high
+s1_eng_r1,eng,English,Indo-European,Eurasia,true,known_language,1,10,valid,inhuman,,not-human,So cruel as to lack normal human feeling.,everyday,current,high
+s1_eng_r1,eng,English,Indo-European,Eurasia,true,known_language,1,11,valid,sadistic,,Sade-like,Taking pleasure in inflicting pain or suffering.,everyday,current,high
+s1_eng_r1,eng,English,Indo-European,Eurasia,true,known_language,1,12,valid,animal,,animal,"A person who has acted with brutal, savage cruelty, as in 'they're animals'.",slang_or_insult,current,high
+s1_eng_r1,eng,English,Indo-European,Eurasia,true,known_language,1,13,valid,monstrous,,monster-like,Shockingly cruel or wicked.,everyday,current,high
+s1_eng_r1,eng,English,Indo-European,Eurasia,true,known_language,1,14,valid,nasty piece of work,,nasty piece of work,"A spiteful, cruel or malicious person.",everyday,current,high
+s1_eng_r1,eng,English,Indo-European,Eurasia,true,known_language,1,15,valid,heinous,,hateful,"Utterly odious or wicked, typically of a crime. Common in news and legal language.",formal_or_literary,current,high
+s1_ewe_r1,ewe,Ewe,Niger-Congo,Africa,false,,1,1,valid,vɔ̃ɖi,,evil/bad,"Wicked or evil, said of a person or deed.",everyday,current,high
+s1_ewe_r1,ewe,Ewe,Niger-Congo,Africa,false,,1,2,valid,ame vɔ̃ɖi,,person evil,A wicked or cruel person.,everyday,current,high
+s1_ewe_r1,ewe,Ewe,Niger-Congo,Africa,false,,1,3,valid,nu vɔ̃,,thing evil,An evil deed or sin. Used to condemn an act as wicked.,everyday,current,high
+s1_ewe_r1,ewe,Ewe,Niger-Congo,Africa,false,,1,4,valid,ŋutasesẽ,,body/force-hardness,"Violence or brutality. Used of cruel, violent acts.",everyday,current,medium
+s1_ewe_r1,ewe,Ewe,Niger-Congo,Africa,false,,1,5,valid,busu,,taboo/abomination,"An abomination. A deed so wicked it violates sacred norms, as in 'enye busu' ('it is an abomination').",everyday,current,medium
+s1_ewe_r1,ewe,Ewe,Niger-Congo,Africa,false,,1,6,valid,ŋunyɔnu,,body-rot-thing (disgusting thing),"A detestable or abominable thing. A shocking, repulsive deed.",everyday,current,medium
+s1_ewe_r1,ewe,Ewe,Niger-Congo,Africa,false,,1,7,valid,nublanuimakpɔmakpɔ,,pity-not-seeing,Mercilessness or pitilessness. Cruelty without compassion.,formal_or_literary,current,medium
+s1_ewe_r1,ewe,Ewe,Niger-Congo,Africa,false,,1,8,valid,dzi sesẽ,,heart hard,"Hard-heartedness, callousness. Can also mean stubbornness.",everyday,current,medium
+s1_ewe_r1,ewe,Ewe,Niger-Congo,Africa,false,,1,9,valid,abosam,,devil (from Akan),Devil. Used as an insult for an extremely wicked person.,slang_or_insult,current,medium
+s1_ewe_r1,ewe,Ewe,Niger-Congo,Africa,false,,1,10,valid,adzetɔ,,witch-person,Witch. Used insultingly for someone thought maliciously evil.,slang_or_insult,current,medium
+s1_ewe_r1,ewe,Ewe,Niger-Congo,Africa,false,,1,11,valid,amewula,,person-kill-er,Murderer. Used to condemn someone as a killer or brutally cruel.,everyday,current,high
+s1_fij_r1,fij,Fijian,Austronesian,Papunesia,false,,1,1,valid,ca,,bad,"Bad, evil, wicked. The basic word, applied to acts and people. Intensified as 'ca sara' (very bad) or 'ca dina' (truly bad).",everyday,current,high
+s1_fij_r1,fij,Fijian,Austronesian,Papunesia,false,,1,2,valid,tamata ca,,person bad,A wicked or evil person.,everyday,current,high
+s1_fij_r1,fij,Fijian,Austronesian,Papunesia,false,,1,3,valid,ivalavala ca,,conduct bad,"Wicked or evil conduct, an evil deed. Also used for sin.",everyday,current,high
+s1_fij_r1,fij,Fijian,Austronesian,Papunesia,false,,1,4,valid,lomaca,,heart/inside bad,"Malicious, evil-hearted, spiteful. Describes someone who wishes or does harm to others.",everyday,current,medium
+s1_fij_r1,fij,Fijian,Austronesian,Papunesia,false,,1,5,valid,vakararawataka,,cause-suffering-(transitive),"To make someone suffer, to torment or treat cruelly. 'Dau vakararawa' means a habitual tormentor or cruel person.",everyday,current,medium
+s1_fij_r1,fij,Fijian,Austronesian,Papunesia,false,,1,6,valid,vakatevoro,,in-the-manner-of devil,"Devilish, diabolical. Used of acts or people considered monstrously evil.",everyday,current,medium
+s1_fij_r1,fij,Fijian,Austronesian,Papunesia,false,,1,7,valid,sega ni loloma,,not of love/compassion,"Merciless, without compassion. Said of a cruel person or act.",everyday,current,medium
+s1_fij_r1,fij,Fijian,Austronesian,Papunesia,false,,1,8,valid,vakasisila,,in-the-manner-of disgusting,"Disgusting, abhorrent. Used to condemn a vile act.",everyday,current,low
+s1_fin_r1,fin,Finnish,Uralic,Eurasia,false,,1,1,valid,julma,,cruel,"Cruel or brutal, said of a person or an act. It is the basic word for cruelty.",everyday,current,high
+s1_fin_r1,fin,Finnish,Uralic,Eurasia,false,,1,2,valid,raaka,,raw,"Brutal, savage or coarsely violent, e.g. 'raaka teko' (a brutal deed).",everyday,current,high
+s1_fin_r1,fin,Finnish,Uralic,Eurasia,false,,1,3,valid,hirviö,,monster,"A monster, i.e. a person who has committed monstrous, cruel acts.",everyday,current,high
+s1_fin_r1,fin,Finnish,Uralic,Eurasia,false,,1,4,valid,sairas,,sick,"Sick or twisted, condemning an act as perverse or depraved, e.g. 'ihan sairasta!' (that's totally sick!).",everyday,current,high
+s1_fin_r1,fin,Finnish,Uralic,Eurasia,false,,1,5,valid,paha,,bad/evil,"Evil or wicked, e.g. 'paha ihminen' (an evil person).",everyday,current,high
+s1_fin_r1,fin,Finnish,Uralic,Eurasia,false,,1,6,valid,sydämetön,,heart-less,"Heartless, without compassion.",everyday,current,high
+s1_fin_r1,fin,Finnish,Uralic,Eurasia,false,,1,7,valid,armoton,,mercy-less,"Merciless or pitiless, often used of violence or treatment.",everyday,current,high
+s1_fin_r1,fin,Finnish,Uralic,Eurasia,false,,1,8,valid,epäinhimillinen,,un-human-ly,"Inhuman, condemning treatment or acts as beyond humane limits.",formal_or_literary,current,high
+s1_fin_r1,fin,Finnish,Uralic,Eurasia,false,,1,9,valid,raakalainen,,raw-one (brute),"A brute or savage, i.e. a person who acts with brutal cruelty.",everyday,current,high
+s1_fin_r1,fin,Finnish,Uralic,Eurasia,false,,1,10,valid,ihmishirviö,,human-monster,"A human monster, typically used of perpetrators of horrific crimes, frequent in tabloids.",everyday,current,high
+s1_fin_r1,fin,Finnish,Uralic,Eurasia,false,,1,11,valid,pirullinen,,devil-ish,"Devilish or fiendish, describing maliciously cruel or wicked acts or plans.",everyday,current,high
+s1_fin_r1,fin,Finnish,Uralic,Eurasia,false,,1,12,valid,saatanallinen,,satan-ic,"Satanic or diabolical, i.e. extremely evil.",everyday,current,medium
+s1_fin_r1,fin,Finnish,Uralic,Eurasia,false,,1,13,valid,häikäilemätön,,un-hesitating/un-scrupling,"Ruthless or unscrupulous, acting without any moral restraint.",everyday,current,high
+s1_fin_r1,fin,Finnish,Uralic,Eurasia,false,,1,14,valid,ihmisroska,,human-trash,"Human garbage or scum, i.e. a contemptible, wicked person.",slang_or_insult,current,medium
+s1_fin_r1,fin,Finnish,Uralic,Eurasia,false,,1,15,valid,peto,,beast (predator),"A beast, i.e. a savage, cruel person, often a violent or sexual predator. Also used in the compound 'ihmispeto' (human beast).",everyday,current,medium
+s1_fre_r1,fre,French,Indo-European,Eurasia,false,,1,1,valid,monstre,,monster,A person who has committed acts of extreme cruelty; a monster.,everyday,current,high
+s1_fre_r1,fre,French,Indo-European,Eurasia,false,,1,2,valid,monstrueux,,monstrous,Monstrous; describes an act (or person) of shocking cruelty or wickedness.,everyday,current,high
+s1_fre_r1,fre,French,Indo-European,Eurasia,false,,1,3,valid,horrible,,horrible,"Horrible, terrible; used of cruel acts or of a cruel person.",everyday,current,high
+s1_fre_r1,fre,French,Indo-European,Eurasia,false,,1,4,valid,ignoble,,ignoble,"Vile, base, despicable; morally repugnant conduct.",everyday,current,high
+s1_fre_r1,fre,French,Indo-European,Eurasia,false,,1,5,valid,dégueulasse,,disgusting (vomit-inducing),"Disgusting, rotten; strongly condemns a nasty, cruel or unfair act or person.",slang_or_insult,current,high
+s1_fre_r1,fre,French,Indo-European,Eurasia,false,,1,6,valid,salaud,,"dirty one (from 'sale', dirty)",Bastard; a person who has acted in a cruel or despicable way.,slang_or_insult,current,high
+s1_fre_r1,fre,French,Indo-European,Eurasia,false,,1,7,valid,abominable,,abominable,"Abominable; an atrocious, hateful act.",everyday,current,high
+s1_fre_r1,fre,French,Indo-European,Eurasia,false,,1,8,valid,atroce,,atrocious,Atrocious; describes an act of extreme cruelty.,everyday,current,high
+s1_fre_r1,fre,French,Indo-European,Eurasia,false,,1,9,valid,odieux,,odious,"Odious, hateful; used of a cruel act or a cruel, nasty person.",everyday,current,high
+s1_fre_r1,fre,French,Indo-European,Eurasia,false,,1,10,valid,barbare,,barbarian / barbaric,Barbaric; a savagely cruel act or person.,everyday,current,high
+s1_fre_r1,fre,French,Indo-European,Eurasia,false,,1,11,valid,inhumain,,inhuman,"Inhuman; showing no compassion, extremely cruel.",everyday,current,high
+s1_fre_r1,fre,French,Indo-European,Eurasia,false,,1,12,valid,ordure,,"garbage, filth",Scum; insult for a person who acted in a vile or cruel way.,slang_or_insult,current,high
+s1_fre_r1,fre,French,Indo-European,Eurasia,false,,1,13,valid,sans cœur,,without heart,Heartless; a person without pity.,everyday,current,high
+s1_fre_r1,fre,French,Indo-European,Eurasia,false,,1,14,valid,sadique,,sadistic / sadist,Sadist; someone who takes pleasure in being cruel.,everyday,current,high
+s1_fre_r1,fre,French,Indo-European,Eurasia,false,,1,15,valid,crapule,,scoundrel (originally 'debauchery'),"Scoundrel, villain; a dishonest or wicked person.",slang_or_insult,current,medium
+s1_geo_r1,geo,Georgian,Kartvelian,Eurasia,false,,1,1,valid,სასტიკი,sastiki,cruel,"Cruel, brutal. Used of a person or an act. The standard everyday word.",everyday,current,high
+s1_geo_r1,geo,Georgian,Kartvelian,Eurasia,false,,1,2,valid,ბოროტი,boroti,evil,"Evil, wicked, malicious. Used of a person, deed or intention.",everyday,current,high
+s1_geo_r1,geo,Georgian,Kartvelian,Eurasia,false,,1,3,valid,მხეცი,mkheci,"beast, wild animal","A brute, a beast of a person. Said of someone who has acted savagely.",slang_or_insult,current,high
+s1_geo_r1,geo,Georgian,Kartvelian,Eurasia,false,,1,4,valid,დაუნდობელი,daundobeli,un-sparing (one who does not spare),"Merciless, ruthless.",everyday,current,high
+s1_geo_r1,geo,Georgian,Kartvelian,Eurasia,false,,1,5,valid,არაადამიანური,araadamianuri,non-human-like,"Inhuman. Used of an act of extreme cruelty, e.g. 'არაადამიანური საქციელი' (an inhuman deed).",everyday,current,high
+s1_geo_r1,geo,Georgian,Kartvelian,Eurasia,false,,1,6,valid,უგულო,ugulo,heart-less,"Heartless, callous, without compassion.",everyday,current,high
+s1_geo_r1,geo,Georgian,Kartvelian,Eurasia,false,,1,7,valid,ჯალათი,jalati,executioner,"Executioner; figuratively a torturer, a cruel tormentor of others.",slang_or_insult,current,high
+s1_geo_r1,geo,Georgian,Kartvelian,Eurasia,false,,1,8,valid,ურჩხული,urchkhuli,"monster, dragon",A monster. Said of a person who has done something monstrous.,everyday,current,high
+s1_geo_r1,geo,Georgian,Kartvelian,Eurasia,false,,1,9,valid,შეუბრალებელი,sheubralebeli,un-pitying (one who does not pity),"Pitiless, merciless.",everyday,current,high
+s1_geo_r1,geo,Georgian,Kartvelian,Eurasia,false,,1,10,valid,უღმერთო,ughmerto,god-less,"Godless. Colloquially, a person or deed that is shamelessly merciless or unconscionable, e.g. 'უღმერთო ხარ!' (you have no God!).",everyday,current,medium
+s1_geo_r1,geo,Georgian,Kartvelian,Eurasia,false,,1,11,valid,გულქვა,gulkva,heart-stone,"Stone-hearted, hard-hearted, unmoved by others' suffering.",everyday,current,high
+s1_geo_r1,geo,Georgian,Kartvelian,Eurasia,false,,1,12,valid,სადისტი,sadisti,sadist,Sadist. Someone who enjoys inflicting cruelty.,everyday,current,high
+s1_geo_r1,geo,Georgian,Kartvelian,Eurasia,false,,1,13,valid,ბარბაროსული,barbarosuli,barbarian-like,"Barbaric. Used of savage, brutal acts.",everyday,current,high
+s1_geo_r1,geo,Georgian,Kartvelian,Eurasia,false,,1,14,valid,ბოროტმოქმედი,borotmokmedi,evil-doer,"Evildoer, villain, criminal.",everyday,current,high
+s1_geo_r1,geo,Georgian,Kartvelian,Eurasia,false,,1,15,valid,ულმობელი,ulmobeli,without-compassion,"Pitiless, relentless, merciless. Bookish in tone.",formal_or_literary,current,high
+s1_ger_r1,ger,German,Indo-European,Eurasia,true,known_language,1,1,valid,grausam,,cruel (from Graus 'horror' + -sam),cruel; causing or relishing great suffering,everyday,current,high
+s1_ger_r1,ger,German,Indo-European,Eurasia,true,known_language,1,2,valid,brutal,,brutal,"brutal, violently cruel",everyday,current,high
+s1_ger_r1,ger,German,Indo-European,Eurasia,true,known_language,1,3,valid,unmenschlich,,un-human-ly,inhuman; so cruel as to be beyond human decency,everyday,current,high
+s1_ger_r1,ger,German,Indo-European,Eurasia,true,known_language,1,4,valid,Monster,,monster,a monstrously cruel or evil person,everyday,current,high
+s1_ger_r1,ger,German,Indo-European,Eurasia,true,known_language,1,5,valid,Schwein,,pig,"a vile, wicked or contemptible person (strong insult)",slang_or_insult,current,high
+s1_ger_r1,ger,German,Indo-European,Eurasia,true,known_language,1,6,valid,abscheulich,,abhorrent (from Abscheu 'loathing'),"abominable, atrocious, morally repugnant",everyday,current,high
+s1_ger_r1,ger,German,Indo-European,Eurasia,true,known_language,1,7,valid,bestialisch,,beast-like,"bestial, savagely cruel (often of crimes or murders)",everyday,current,high
+s1_ger_r1,ger,German,Indo-European,Eurasia,true,known_language,1,8,valid,teuflisch,,devil-ish,"diabolical, fiendishly wicked",everyday,current,high
+s1_ger_r1,ger,German,Indo-European,Eurasia,true,known_language,1,9,valid,Unmensch,,un-human (non-person),a brute; a person lacking all humanity and compassion,everyday,current,high
+s1_ger_r1,ger,German,Indo-European,Eurasia,true,known_language,1,10,valid,Bestie,,beast,"a savage, cruel person (often of violent criminals)",everyday,current,high
+s1_ger_r1,ger,German,Indo-European,Eurasia,true,known_language,1,11,valid,barbarisch,,barbaric,"barbaric, savagely cruel and uncivilized",everyday,current,high
+s1_ger_r1,ger,German,Indo-European,Eurasia,true,known_language,1,12,valid,menschenverachtend,,human-despising,showing utter contempt for human life and dignity,formal_or_literary,current,high
+s1_ger_r1,ger,German,Indo-European,Eurasia,true,known_language,1,13,valid,niederträchtig,,low-bearing / base-minded,"vile, base, malicious, despicable",formal_or_literary,current,high
+s1_ger_r1,ger,German,Indo-European,Eurasia,true,known_language,1,14,valid,Scheusal,,"horror, monstrous thing (from scheuen 'to shy away from')","a monster, a fiendish or loathsome person",formal_or_literary,current,medium
+s1_ger_r1,ger,German,Indo-European,Eurasia,true,known_language,1,15,valid,Ausgeburt der Hölle,,spawn/offspring of the hell,a hellish creature; an utterly evil person or deed,formal_or_literary,current,medium
+s1_grk_r1,grk,Greek (Modern),Indo-European,Eurasia,false,,1,1,valid,απάνθρωπος,apánthropos,un-human / away-from-human,"inhuman, monstrously cruel (of a person or an act)",everyday,current,high
+s1_grk_r1,grk,Greek (Modern),Indo-European,Eurasia,false,,1,2,valid,κτήνος,ktínos,"beast, brute (livestock animal)","a brute, a bestial person who commits savage, cruel acts",slang_or_insult,current,high
+s1_grk_r1,grk,Greek (Modern),Indo-European,Eurasia,false,,1,3,valid,τέρας,téras,monster,"a monster, a person of extraordinary cruelty or wickedness",everyday,current,high
+s1_grk_r1,grk,Greek (Modern),Indo-European,Eurasia,false,,1,4,valid,κάθαρμα,káTHarma,"refuse, scum (that which is cleaned away)","scumbag, a vile and wicked person",slang_or_insult,current,high
+s1_grk_r1,grk,Greek (Modern),Indo-European,Eurasia,false,,1,5,valid,δεν έχεις Θεό,den éxis Theó,not you-have God,you have no conscience or pity; how can you be so heartless or cruel,everyday,current,high
+s1_grk_r1,grk,Greek (Modern),Indo-European,Eurasia,false,,1,6,valid,άκαρδος,ákardos,without-heart,"heartless, pitiless",everyday,current,high
+s1_grk_r1,grk,Greek (Modern),Indo-European,Eurasia,false,,1,7,valid,βάρβαρος,várvaros,barbarian,"barbaric, savagely cruel (of a person or an act)",everyday,current,high
+s1_grk_r1,grk,Greek (Modern),Indo-European,Eurasia,false,,1,8,valid,σατανικός,satanikós,"satanic, of Satan","diabolical, fiendishly wicked",everyday,current,high
+s1_grk_r1,grk,Greek (Modern),Indo-European,Eurasia,false,,1,9,valid,αδίστακτος,adístaktos,un-hesitating,"ruthless, stopping at nothing",everyday,current,high
+s1_grk_r1,grk,Greek (Modern),Indo-European,Eurasia,false,,1,10,valid,στυγερό έγκλημα,stigeró églima,hateful/abhorrent crime,heinous crime (very frequent in the news),formal_or_literary,current,high
+s1_grk_r1,grk,Greek (Modern),Indo-European,Eurasia,false,,1,11,valid,ειδεχθής,idexthís,"hateful in appearance, odious","heinous, abominable (especially of crimes)",formal_or_literary,current,high
+s1_grk_r1,grk,Greek (Modern),Indo-European,Eurasia,false,,1,12,valid,κτηνωδία,ktinodía,"beast-likeness, bestiality","a bestial act, an atrocity",formal_or_literary,current,high
+s1_grk_r1,grk,Greek (Modern),Indo-European,Eurasia,false,,1,13,valid,σαδιστής,sadistís,sadist,a person who takes pleasure in cruelty,everyday,current,high
+s1_grk_r1,grk,Greek (Modern),Indo-European,Eurasia,false,,1,14,valid,αιμοβόρος,emovóros,blood-eating,"bloodthirsty, savagely cruel",everyday,current,high
+s1_grk_r1,grk,Greek (Modern),Indo-European,Eurasia,false,,1,15,valid,ανελέητος,aneléitos,without-mercy,"merciless, pitiless",everyday,current,high
+s1_grw_r1,grw,Greenlandic (West),Eskimo-Aleut,Eurasia,false,,1,1,valid,ajorluinnartoq,,be.bad-completely-PARTICIPLE (one that is utterly bad),"utterly bad, terrible, wicked (of an act or a person)",everyday,current,medium
+s1_grw_r1,grw,Greenlandic (West),Eskimo-Aleut,Eurasia,false,,1,2,valid,ajortoq,,be.bad-PARTICIPLE (one that is bad),"bad, evil; also used as a noun for evil or wrongdoing",everyday,current,high
+s1_grw_r1,grw,Greenlandic (West),Eskimo-Aleut,Eurasia,false,,1,3,valid,ajortuliortoq,,bad.thing-make-PARTICIPLE (one who makes evil),"evildoer, wrongdoer, sinner; one who commits wicked deeds",formal_or_literary,current,medium
+s1_grw_r1,grw,Greenlandic (West),Eskimo-Aleut,Eurasia,false,,1,4,valid,naakkittaaqanngitsoq,,mercy-have-NEG-PARTICIPLE (one without mercy),"merciless, pitiless, cruel",everyday,current,low
+s1_grw_r1,grw,Greenlandic (West),Eskimo-Aleut,Eurasia,false,,1,5,valid,nakuusertoq,,use.violence-PARTICIPLE (one who uses force/violence),"violent person, one who commits violence or abuse",everyday,current,medium
+s1_grw_r1,grw,Greenlandic (West),Eskimo-Aleut,Eurasia,false,,1,6,valid,kanngunartoq,,shame-cause-PARTICIPLE (that which causes shame),"shameful, disgraceful (said in condemnation of an act)",everyday,current,medium
+s1_grw_r1,grw,Greenlandic (West),Eskimo-Aleut,Eurasia,false,,1,7,valid,ersinartoq,,fear-cause-PARTICIPLE (that which causes fear),"terrible, horrible, dreadful (of a deed)",everyday,current,medium
+s1_grw_r1,grw,Greenlandic (West),Eskimo-Aleut,Eurasia,false,,1,8,valid,alianartoq,,grief-cause-PARTICIPLE (that which causes grief),"terrible, tragic, deplorable (of an act or event)",everyday,current,medium
+s1_gua_r1,gua,Guaraní,Tupian,South America,false,,1,1,valid,ivai,,3rd-person-it/he + bad,He or it is bad or wicked. The general word for a morally bad act or person. It also means 'ugly'.,everyday,current,high
+s1_gua_r1,gua,Guaraní,Tupian,South America,false,,1,2,valid,ivaieterei,,3rd-person + bad + very/truly + excessively,"Extremely bad or evil, used to condemn an outrageous act or person.",everyday,current,high
+s1_gua_r1,gua,Guaraní,Tupian,South America,false,,1,3,valid,añamemby,,devil + child (of a woman),"Son of the devil. A strong insult for a wicked, cruel person.",slang_or_insult,current,high
+s1_gua_r1,gua,Guaraní,Tupian,South America,false,,1,4,valid,ñarõ,,fierce/savage,"Fierce, savage or vicious. Used of animals (jagua ñarõ 'vicious dog') and of cruel, violent people.",everyday,current,high
+s1_gua_r1,gua,Guaraní,Tupian,South America,false,,1,5,valid,tekovai,,way-of-being/conduct + bad,Wickedness or evil conduct. Also used of a person of evil character.,everyday,current,high
+s1_gua_r1,gua,Guaraní,Tupian,South America,false,,1,6,valid,aña,,devil/evil spirit,The devil. Applied to a person to call them diabolically wicked.,slang_or_insult,current,medium
+s1_gua_r1,gua,Guaraní,Tupian,South America,false,,1,7,valid,mba'e vai,,thing + bad,"An evil or terrible deed, as in 'he did a terrible thing'.",everyday,current,medium
+s1_gua_r1,gua,Guaraní,Tupian,South America,false,,1,8,valid,angaipa,,sin/evil,"Sin or wrongdoing. Condemns an act as morally evil, often with religious overtones.",formal_or_literary,current,medium
+s1_gua_r1,gua,Guaraní,Tupian,South America,false,,1,9,valid,ndoiporiahuverekói,,NEG + he + have-compassion-for (poriahu 'poor one' + vereko 'treat as') + NEG,"He has no pity or mercy. Describes a merciless, cruel person.",everyday,current,medium
+s1_gua_r1,gua,Guaraní,Tupian,South America,false,,1,10,valid,ipy'ahatã,,3rd-person + stomach/heart + hard,"Hard-hearted or pitiless. It can also mean 'brave, tough' in other contexts.",everyday,current,low
+s1_hau_r1,hau,Hausa,Afro-Asiatic,Africa,false,,1,1,valid,"mugu (f. muguwa, pl. miyagu)",,wicked one / bad person,"a wicked, cruel or evil person; also used as an adjective ('mugun mutum' = wicked man)",everyday,current,high
+s1_hau_r1,hau,Hausa,Afro-Asiatic,Africa,false,,1,2,valid,mugunta,,wickedness,"wickedness, cruelty, malice; an evil or cruel act ('wannan mugunta ce' = this is wickedness)",everyday,current,high
+s1_hau_r1,hau,Hausa,Afro-Asiatic,Africa,false,,1,3,valid,rashin imani / ba shi da imani,,lack of faith / he has no faith,"heartlessness, pitiless cruelty; said of someone who does something inhumanly cruel",everyday,current,high
+s1_hau_r1,hau,Hausa,Afro-Asiatic,Africa,false,,1,4,valid,"azzalumi (f. azzaluma, pl. azzalumai)",,"oppressor, unjust one",a tyrant or cruel oppressor; someone who treats others with gross injustice and cruelty,everyday,current,high
+s1_hau_r1,hau,Hausa,Afro-Asiatic,Africa,false,,1,5,valid,zalunci,,"oppression, injustice","cruel injustice or oppression; a wicked, unjust act",everyday,current,high
+s1_hau_r1,hau,Hausa,Afro-Asiatic,Africa,false,,1,6,valid,rashin tausayi,,lack of pity,"mercilessness, cruelty",everyday,current,high
+s1_hau_r1,hau,Hausa,Afro-Asiatic,Africa,false,,1,7,valid,shaiɗan,,"devil, Satan",used of a person who is extremely wicked or evil,slang_or_insult,current,high
+s1_hau_r1,hau,Hausa,Afro-Asiatic,Africa,false,,1,8,valid,Allah ya isa,,God is sufficient,"exclamation by or on behalf of a victim of a cruel or unjust act, leaving the wrongdoer to God's judgement; condemns the act as grievous wrong",everyday,current,high
+s1_hau_r1,hau,Hausa,Afro-Asiatic,Africa,false,,1,9,valid,ta'asa,,"atrocity, outrage","an atrocious, horrific act (e.g. a massacre or brutal crime)",everyday,current,medium
+s1_hau_r1,hau,Hausa,Afro-Asiatic,Africa,false,,1,10,valid,ƙeta,,"malice, spite","malicious wickedness, a spiteful cruel act ('mai ƙeta' = malicious person)",everyday,current,medium
+s1_hau_r1,hau,Hausa,Afro-Asiatic,Africa,false,,1,11,valid,la'ananne (f. la'ananniya),,accursed one,"a damned, accursed, evil person; strong condemnation",slang_or_insult,current,medium
+s1_hau_r1,hau,Hausa,Afro-Asiatic,Africa,false,,1,12,valid,dabba,,"animal, beast","insult for someone who acts brutally, without humanity",slang_or_insult,current,medium
+s1_hau_r1,hau,Hausa,Afro-Asiatic,Africa,false,,1,13,valid,fasiƙi,,"sinner, transgressor","a wicked, depraved evildoer",formal_or_literary,current,medium
+s1_hau_r1,hau,Hausa,Afro-Asiatic,Africa,false,,1,14,valid,ɗan ta'adda,,son of atrocity / violence,"terrorist, violent criminal; one who commits atrocities",everyday,current,medium
+s1_hau_r1,hau,Hausa,Afro-Asiatic,Africa,false,,1,15,valid,tsinanne (f. tsinanniya),,cursed one,"a cursed, wretched evil person; insult",slang_or_insult,current,low
+s1_heb_r1,heb,Hebrew (Modern),Afro-Asiatic,Eurasia,false,,1,1,valid,אכזרי,akhzari,cruel,Cruel; said of a person or an act that deliberately causes suffering.,everyday,current,high
+s1_heb_r1,heb,Hebrew (Modern),Afro-Asiatic,Eurasia,false,,1,2,valid,מפלצת,mifletset,monster,A monster; a person who has done something horrifically cruel.,everyday,current,high
+s1_heb_r1,heb,Hebrew (Modern),Afro-Asiatic,Eurasia,false,,1,3,valid,רשע,rasha,wicked (one),"A wicked or evil person; also used as an adjective, 'evil, wicked'.",everyday,current,high
+s1_heb_r1,heb,Hebrew (Modern),Afro-Asiatic,Eurasia,false,,1,4,valid,מרושע,merusha,made-wicked / malicious,"Malicious, nasty, deliberately mean or evil.",everyday,current,high
+s1_heb_r1,heb,Hebrew (Modern),Afro-Asiatic,Eurasia,false,,1,5,valid,אין לו אלוהים,ein lo elohim,there-is-not to-him God,He has no conscience or limits; said of someone who acts shamelessly or cruelly. Also used as the exclamation 'ein lekha elohim!' ('you have no God!').,everyday,current,high
+s1_heb_r1,heb,Hebrew (Modern),Afro-Asiatic,Eurasia,false,,1,6,valid,אין לו לב,ein lo lev,there-is-not to-him heart,He is heartless; he feels no compassion.,everyday,current,high
+s1_heb_r1,heb,Hebrew (Modern),Afro-Asiatic,Eurasia,false,,1,7,valid,חסר לב,khasar lev,lacking heart,"Heartless, unfeeling, cruel.",everyday,current,medium
+s1_heb_r1,heb,Hebrew (Modern),Afro-Asiatic,Eurasia,false,,1,8,valid,זוועה,zva'a,horror,"An atrocity or horror, often in the phrase 'ma'ase zva'a' ('an atrocious act'); also an exclamation of revulsion at cruelty.",everyday,current,high
+s1_heb_r1,heb,Hebrew (Modern),Afro-Asiatic,Eurasia,false,,1,9,valid,חיה,khaya,animal / beast,Said of a person who behaves brutally or inhumanly; '(he is) an animal'.,slang_or_insult,current,high
+s1_heb_r1,heb,Hebrew (Modern),Afro-Asiatic,Eurasia,false,,1,10,valid,סדיסט,sadist,sadist,A sadist; someone who enjoys causing suffering.,everyday,current,high
+s1_heb_r1,heb,Hebrew (Modern),Afro-Asiatic,Eurasia,false,,1,11,valid,נבזה,nivze,despised / despicable,"Despicable, vile; said of a person or an act.",everyday,current,high
+s1_heb_r1,heb,Hebrew (Modern),Afro-Asiatic,Eurasia,false,,1,12,valid,שפל,shafal,low / base,"Vile, base, morally low.",everyday,current,high
+s1_heb_r1,heb,Hebrew (Modern),Afro-Asiatic,Eurasia,false,,1,13,valid,שטן,satan,Satan / devil,A devil; an evil person.,everyday,current,medium
+s1_heb_r1,heb,Hebrew (Modern),Afro-Asiatic,Eurasia,false,,1,14,valid,מעשה נבלה,ma'ase nevala,deed (of) villainy,"A villainous, abominable deed.",formal_or_literary,current,high
+s1_heb_r1,heb,Hebrew (Modern),Afro-Asiatic,Eurasia,false,,1,15,valid,בן בליעל,ben bliya'al,son (of) worthlessness / Belial,"A scoundrel or wicked, lawless person.",formal_or_literary,current,high
+s1_hin_r1,hin,Hindi,Indo-European,Eurasia,false,,1,1,valid,ज़ालिम,zālim,"oppressor, tyrant (from Arabic, 'one who does injustice')","Cruel or tyrannical person. Also used as an adjective, 'cruel', for a person or act.",everyday,current,high
+s1_hin_r1,hin,Hindi,Indo-European,Eurasia,false,,1,2,valid,बेरहम,beraham,without-mercy,"Merciless or pitiless. Describes a person or a deed, e.g. a brutal killing.",everyday,current,high
+s1_hin_r1,hin,Hindi,Indo-European,Eurasia,false,,1,3,valid,हैवान,haivān,"beast, animal","A person who has acted like a beast, a monster of cruelty. Common for perpetrators of rape, murder or abuse.",everyday,current,high
+s1_hin_r1,hin,Hindi,Indo-European,Eurasia,false,,1,4,valid,दरिंदा,darindā,"predatory wild beast, savage animal","A savage, monstrous person, especially a violent criminal. Very frequent in news headlines and speech.",everyday,current,high
+s1_hin_r1,hin,Hindi,Indo-European,Eurasia,false,,1,5,valid,राक्षस,rākṣas,demon (mythological),"A demonic, monstrously cruel or wicked person.",everyday,current,high
+s1_hin_r1,hin,Hindi,Indo-European,Eurasia,false,,1,6,valid,क्रूर,krūr,"cruel, harsh",Cruel or brutal (of a person or act). Standard and somewhat more formal or Sanskritic.,everyday,current,high
+s1_hin_r1,hin,Hindi,Indo-European,Eurasia,false,,1,7,valid,निर्दयी,nirdayī,without-compassion,Heartless or merciless person.,everyday,current,high
+s1_hin_r1,hin,Hindi,Indo-European,Eurasia,false,,1,8,valid,कमीना,kamīnā,"base, low, mean (one)","Despicable, vile wretch. A strong insult for someone who has done something wicked or treacherous.",slang_or_insult,current,high
+s1_hin_r1,hin,Hindi,Indo-European,Eurasia,false,,1,9,valid,पापी,pāpī,"sinner, one with sin","Sinful, wicked person. Used to condemn someone for an evil act.",everyday,current,high
+s1_hin_r1,hin,Hindi,Indo-European,Eurasia,false,,1,10,valid,शैतान,śaitān,"Satan, devil","Devilishly wicked person. Can also be used mildly for a naughty child, but is a serious condemnation when used of a cruel adult.",everyday,current,high
+s1_hin_r1,hin,Hindi,Indo-European,Eurasia,false,,1,11,valid,जल्लाद,jallād,"executioner, hangman","Utterly heartless, brutal person, e.g. an abusive husband or in-laws.",everyday,current,high
+s1_hin_r1,hin,Hindi,Indo-European,Eurasia,false,,1,12,valid,कसाई,kasāī,butcher,"Pitiless, brutal person who treats others without feeling.",everyday,current,medium
+s1_hin_r1,hin,Hindi,Indo-European,Eurasia,false,,1,13,valid,पत्थरदिल,pattharadil,stone-heart(ed),"Heartless and unfeeling, cruel in indifference to suffering.",everyday,current,high
+s1_hin_r1,hin,Hindi,Indo-European,Eurasia,false,,1,14,valid,हैवानियत,haivāniyat,beastliness,"Monstrous cruelty, used of an act ('this is sheer beastliness'). Common in news and speech about atrocities.",everyday,current,high
+s1_hin_r1,hin,Hindi,Indo-European,Eurasia,false,,1,15,valid,इंसानियत को शर्मसार करना,insāniyat ko śarmasār karnā,humanity (object marker) ashamed make,"To shame humanity. Said of an act so cruel it disgraces humankind, e.g. 'इंसानियत को शर्मसार करने वाली घटना' (an incident that shames humanity).",formal_or_literary,current,high
+s1_hmo_r1,hmo,Hmong Njua,Hmong-Mien,Eurasia,false,,1,1,valid,phem,,bad,"Bad, evil, wicked; said of a person or a deed, and intensified for extreme cases (e.g. 'phem kawg').",everyday,current,high
+s1_hmo_r1,hmo,Hmong Njua,Hmong-Mien,Eurasia,false,,1,2,valid,lim hiam,,"fierce, cruel","Cruel, vicious, brutal; describes a person or act that is merciless.",everyday,current,medium
+s1_hmo_r1,hmo,Hmong Njua,Hmong-Mien,Eurasia,false,,1,3,valid,siab phem,,liver bad,"Evil-hearted, malicious; a person with wicked intentions.",everyday,current,medium
+s1_hmo_r1,hmo,Hmong Njua,Hmong-Mien,Eurasia,false,,1,4,valid,siab dlub,,liver black,"Black-hearted; wicked, scheming and cruel.",everyday,current,low
+s1_hmo_r1,hmo,Hmong Njua,Hmong-Mien,Eurasia,false,,1,5,valid,ua phem,,do bad,To commit evil or cruel acts against someone; to abuse or harm.,everyday,current,medium
+s1_hmo_r1,hmo,Hmong Njua,Hmong-Mien,Eurasia,false,,1,6,valid,siab tawv,,liver hard,"Hard-hearted, pitiless; unmoved by others' suffering.",everyday,current,low
+s1_hun_r1,hun,Hungarian,Uralic,Eurasia,false,,1,1,valid,kegyetlen,,mercy-less,"cruel, merciless; said of a person or act",everyday,current,high
+s1_hun_r1,hun,Hungarian,Uralic,Eurasia,false,,1,2,valid,gonosz,,evil,"wicked, evil; said of a person or deed",everyday,current,high
+s1_hun_r1,hun,Hungarian,Uralic,Eurasia,false,,1,3,valid,aljas,,bottom/dregs-ish,"vile, base, despicable; a low, wicked act or person",everyday,current,high
+s1_hun_r1,hun,Hungarian,Uralic,Eurasia,false,,1,4,valid,állat,,animal,brute; insult for someone who acts brutally or savagely,slang_or_insult,current,high
+s1_hun_r1,hun,Hungarian,Uralic,Eurasia,false,,1,5,valid,vadállat,,wild-animal,savage beast; a brutally cruel person,slang_or_insult,current,high
+s1_hun_r1,hun,Hungarian,Uralic,Eurasia,false,,1,6,valid,szörnyeteg,,monster,a monster; a person who commits horrific cruelty,everyday,current,high
+s1_hun_r1,hun,Hungarian,Uralic,Eurasia,false,,1,7,valid,embertelen,,human-less,"inhuman, inhumane; a cruel act or treatment",everyday,current,high
+s1_hun_r1,hun,Hungarian,Uralic,Eurasia,false,,1,8,valid,brutális,,brutal,"brutal, savagely violent",everyday,current,high
+s1_hun_r1,hun,Hungarian,Uralic,Eurasia,false,,1,9,valid,szívtelen,,heart-less,"heartless, without compassion",everyday,current,high
+s1_hun_r1,hun,Hungarian,Uralic,Eurasia,false,,1,10,valid,gazember,,villain/weed-man,"scoundrel, villain; a wicked person",everyday,current,high
+s1_hun_r1,hun,Hungarian,Uralic,Eurasia,false,,1,11,valid,lelketlen,,soul-less,"soulless, callous, pitiless",everyday,current,high
+s1_hun_r1,hun,Hungarian,Uralic,Eurasia,false,,1,12,valid,szadista,,sadist,sadist; someone who enjoys inflicting suffering,everyday,current,high
+s1_hun_r1,hun,Hungarian,Uralic,Eurasia,false,,1,13,valid,ördögi,,devil-ish,"diabolical, fiendishly wicked",everyday,current,high
+s1_hun_r1,hun,Hungarian,Uralic,Eurasia,false,,1,14,valid,elvetemült,,depraved (lit. 'thrown-away/fallen'),"depraved, morally corrupt; capable of heinous acts",formal_or_literary,current,high
+s1_hun_r1,hun,Hungarian,Uralic,Eurasia,false,,1,15,valid,vérszomjas,,blood-thirsty,"bloodthirsty, eager for violence",everyday,current,high
+s1_igb_r1,igb,Igbo,Niger-Congo,Africa,false,,1,1,valid,obi ọjọọ,,heart bad/evil,"wickedness, cruelty; a wicked disposition",everyday,current,high
+s1_igb_r1,igb,Igbo,Niger-Congo,Africa,false,,1,2,valid,onye obi ọjọọ,,person (of) heart bad,"a wicked, cruel person",everyday,current,high
+s1_igb_r1,igb,Igbo,Niger-Congo,Africa,false,,1,3,valid,ajọ mmadụ,,bad person,a wicked or evil person,everyday,current,high
+s1_igb_r1,igb,Igbo,Niger-Congo,Africa,false,,1,4,valid,onye ọjọọ,,person bad/evil,"an evil person, a wrongdoer",everyday,current,high
+s1_igb_r1,igb,Igbo,Niger-Congo,Africa,false,,1,5,valid,arụ / alụ,,abomination,"an abominable act, an outrage against the land and custom; used to condemn shocking deeds",everyday,current,high
+s1_igb_r1,igb,Igbo,Niger-Congo,Africa,false,,1,6,valid,ọ rụrụ arụ,,he/she committed abomination,he/she has done something abominable or monstrous,everyday,current,high
+s1_igb_r1,igb,Igbo,Niger-Congo,Africa,false,,1,7,valid,ihe arụ,,thing (of) abomination,"an abominable, horrific deed",everyday,current,medium
+s1_igb_r1,igb,Igbo,Niger-Congo,Africa,false,,1,8,valid,nsọ ala,,taboo (of the) land,an act forbidden by the earth deity; a grave abomination,formal_or_literary,current,medium
+s1_igb_r1,igb,Igbo,Niger-Congo,Africa,false,,1,9,valid,ekwensu,,devil,called of a person: a devilishly wicked person,slang_or_insult,current,medium
+s1_igb_r1,igb,Igbo,Niger-Congo,Africa,false,,1,10,valid,anụ ọhịa,,animal (of the) bush,"a beast; called of a person: brutal, savage, inhuman",slang_or_insult,current,medium
+s1_igb_r1,igb,Igbo,Niger-Congo,Africa,false,,1,11,valid,ajọ omume,,bad deed/conduct,"wicked conduct, evil deeds",formal_or_literary,current,medium
+s1_igb_r1,igb,Igbo,Niger-Congo,Africa,false,,1,12,valid,o nweghị ọmịiko,,he/she has no pity,"he/she is merciless, heartless",everyday,current,medium
+s1_igb_r1,igb,Igbo,Niger-Congo,Africa,false,,1,13,valid,mmụọ ọjọọ,,spirit evil,an evil spirit; said of a person who behaves with demonic wickedness,slang_or_insult,current,low
+s1_ind_r1,ind,Indonesian,Austronesian,Papunesia,false,,1,1,valid,jahat,,evil/bad,"Wicked or evil, said of a person or deed. It is the most general word for condemning malice.",everyday,current,high
+s1_ind_r1,ind,Indonesian,Austronesian,Papunesia,false,,1,2,valid,kejam,,cruel,"Cruel or merciless, said of a person or act causing suffering.",everyday,current,high
+s1_ind_r1,ind,Indonesian,Austronesian,Papunesia,false,,1,3,valid,tega,,have the heart (to do something),"Heartless, able to do something cruel without pity. It is typical in exclamations such as 'Kok tega sih!' or 'Tega banget!'.",everyday,current,high
+s1_ind_r1,ind,Indonesian,Austronesian,Papunesia,false,,1,4,valid,sadis,,sadistic,"Sadistic or brutally cruel, often of violent crimes or of people who enjoy inflicting pain.",everyday,current,high
+s1_ind_r1,ind,Indonesian,Austronesian,Papunesia,false,,1,5,valid,biadab,,without manners/civilization,"Barbaric or savage. It is a strong condemnation of atrocious, inhuman acts and of their perpetrators.",everyday,current,high
+s1_ind_r1,ind,Indonesian,Austronesian,Papunesia,false,,1,6,valid,keji,,vile/heinous,"Heinous or despicable, used especially of crimes such as murder or rape ('perbuatan keji').",everyday,current,high
+s1_ind_r1,ind,Indonesian,Austronesian,Papunesia,false,,1,7,valid,bejat,,depraved/broken (morally),"Morally depraved or degenerate, often of sexual crimes or corrupt behaviour.",everyday,current,high
+s1_ind_r1,ind,Indonesian,Austronesian,Papunesia,false,,1,8,valid,tidak punya hati,,not have heart,"Heartless, without any compassion.",everyday,current,high
+s1_ind_r1,ind,Indonesian,Austronesian,Papunesia,false,,1,9,valid,keterlaluan,,excessive/gone beyond,"Outrageous, beyond the pale. It condemns an act as having gone too far.",everyday,current,high
+s1_ind_r1,ind,Indonesian,Austronesian,Papunesia,false,,1,10,valid,tidak berperikemanusiaan,,not having humaneness,"Inhumane, lacking all humanity. It is common in news and official condemnation.",formal_or_literary,current,high
+s1_ind_r1,ind,Indonesian,Austronesian,Papunesia,false,,1,11,valid,zalim,,unjust/oppressive (from Arabic),"Tyrannical or cruelly unjust, especially toward the weak. It has religious overtones.",everyday,current,high
+s1_ind_r1,ind,Indonesian,Austronesian,Papunesia,false,,1,12,valid,iblis,,devil,"Devil, applied to a person as fiendishly evil (e.g., 'dasar iblis!').",slang_or_insult,current,medium
+s1_ind_r1,ind,Indonesian,Austronesian,Papunesia,false,,1,13,valid,laknat,,curse/accursed (from Arabic),"Damned or accursed, an insult for someone who has done something abominable.",slang_or_insult,current,medium
+s1_ind_r1,ind,Indonesian,Austronesian,Papunesia,false,,1,14,valid,bengis,,ferocious/cruel,"Ruthless or ferocious, of a cruel, hard-faced person or act.",formal_or_literary,current,high
+s1_ind_r1,ind,Indonesian,Austronesian,Papunesia,false,,1,15,valid,durjana,,evil person (from Sanskrit),Wicked or villainous person. It is mostly literary or dramatic.,formal_or_literary,current,medium
+s1_iri_r1,iri,Irish,Indo-European,Eurasia,false,,1,1,valid,cruálach,,cruel,"cruel, harsh; used of an act or a person",everyday,current,high
+s1_iri_r1,iri,Irish,Indo-European,Eurasia,false,,1,2,valid,olc,,"bad, evil","evil, wicked. As a noun it means 'evil, malice'; also used in 'Is olc an mhaise duit é' (it is bad of you).",everyday,current,high
+s1_iri_r1,iri,Irish,Indo-European,Eurasia,false,,1,3,valid,uafásach,,"horrible, terrible","terrible, appalling; condemns a dreadful act",everyday,current,high
+s1_iri_r1,iri,Irish,Indo-European,Eurasia,false,,1,4,valid,gránna,,ugly,"nasty, vile, mean; used of a cruel deed or a nasty person (e.g. 'rud gránna', a nasty thing)",everyday,current,high
+s1_iri_r1,iri,Irish,Indo-European,Eurasia,false,,1,5,valid,millteanach,,"destructive, ruinous","terrible, dreadful, shocking",everyday,current,high
+s1_iri_r1,iri,Irish,Indo-European,Eurasia,false,,1,6,valid,drochdhuine,,bad-person,"a wicked, evil person",everyday,current,high
+s1_iri_r1,iri,Irish,Indo-European,Eurasia,false,,1,7,valid,bithiúnach,,"scoundrel, villain","a villain, rogue or wicked person",slang_or_insult,current,high
+s1_iri_r1,iri,Irish,Indo-European,Eurasia,false,,1,8,valid,gan trua gan taise,,without pity without compassion,"utterly pitiless, merciless; also 'Níl trua ná taise ann' (there is neither pity nor compassion in him)",everyday,current,high
+s1_iri_r1,iri,Irish,Indo-European,Eurasia,false,,1,9,valid,brúidiúil,,"brutish, brutal","brutal, savage",everyday,current,high
+s1_iri_r1,iri,Irish,Indo-European,Eurasia,false,,1,10,valid,danartha,,"Dane-like, i.e. barbarous","barbarous, inhumanly cruel",formal_or_literary,current,high
+s1_iri_r1,iri,Irish,Indo-European,Eurasia,false,,1,11,valid,mallaithe,,cursed,"wicked, accursed, evil-natured; used of a person or deed",everyday,current,high
+s1_iri_r1,iri,Irish,Indo-European,Eurasia,false,,1,12,valid,urchóideach,,"harmful, injurious","malicious, malevolent, deliberately harmful",formal_or_literary,current,high
+s1_iri_r1,iri,Irish,Indo-European,Eurasia,false,,1,13,valid,mailíseach,,malicious,"malicious, spiteful",everyday,current,medium
+s1_iri_r1,iri,Irish,Indo-European,Eurasia,false,,1,14,valid,neamhthrócaireach,,un-merciful,"merciless, ruthless",formal_or_literary,current,high
+s1_iri_r1,iri,Irish,Indo-European,Eurasia,false,,1,15,valid,diabhalta,,devilish,"devilish, fiendish, wicked; also used as a weakened intensifier",everyday,current,medium
+s1_jpn_r1,jpn,Japanese,Japanese,Eurasia,false,,1,1,valid,ひどい（酷い）,hidoi,severe/terrible,"Cruel, awful, heartless. The most common everyday exclamation condemning an act or person, e.g. 'How cruel!'",everyday,current,high
+s1_jpn_r1,jpn,Japanese,Japanese,Eurasia,false,,1,2,valid,最低,saitei,most-low,"The lowest, the worst. Condemns a person or act as morally contemptible, e.g. 'You're the worst.'",everyday,current,high
+s1_jpn_r1,jpn,Japanese,Japanese,Eurasia,false,,1,3,valid,残酷,zankoku,remaining/cruel-harsh,"Cruel or brutal. Used of acts, people, and situations.",everyday,current,high
+s1_jpn_r1,jpn,Japanese,Japanese,Eurasia,false,,1,4,valid,鬼,oni,ogre/demon,"Calling someone an ogre or demon for being heartlessly cruel, e.g. 鬼だ 'You're a demon!'. Often hyperbolic or jocular.",everyday,current,high
+s1_jpn_r1,jpn,Japanese,Japanese,Eurasia,false,,1,5,valid,人でなし,hitodenashi,person-not-being,An inhuman brute; someone without human feeling or decency.,slang_or_insult,current,high
+s1_jpn_r1,jpn,Japanese,Japanese,Eurasia,false,,1,6,valid,血も涙もない,chi mo namida mo nai,blood also tears also not-exist,Utterly heartless and pitiless; 'cold-blooded'.,everyday,current,high
+s1_jpn_r1,jpn,Japanese,Japanese,Eurasia,false,,1,7,valid,悪魔,akuma,evil-demon,Devil; calling a person a devil for extreme wickedness or cruelty.,everyday,current,high
+s1_jpn_r1,jpn,Japanese,Japanese,Eurasia,false,,1,8,valid,鬼畜,kichiku,demon-beast,A brute or fiend; a person who does monstrously cruel or depraved things.,slang_or_insult,current,high
+s1_jpn_r1,jpn,Japanese,Japanese,Eurasia,false,,1,9,valid,人間のクズ,ningen no kuzu,human of scrap/trash,"Human scum; a morally worthless, despicable person.",slang_or_insult,current,high
+s1_jpn_r1,jpn,Japanese,Japanese,Eurasia,false,,1,10,valid,冷酷,reikoku,cold-harsh,"Cold-hearted, ruthless, pitiless.",everyday,current,high
+s1_jpn_r1,jpn,Japanese,Japanese,Eurasia,false,,1,11,valid,残忍,zannin,remaining/cruel-endure,"Brutal, savage, merciless. Often used of violent crimes.",formal_or_literary,current,high
+s1_jpn_r1,jpn,Japanese,Japanese,Eurasia,false,,1,12,valid,残虐,zangyaku,cruel-tyrannize,"Atrocious, brutal. Used of atrocities and brutal acts, common in news.",formal_or_literary,current,high
+s1_jpn_r1,jpn,Japanese,Japanese,Eurasia,false,,1,13,valid,外道,gedō,outside-path (heresy),A villain or fiend; a person who has abandoned all morality. A strong insult.,slang_or_insult,current,high
+s1_jpn_r1,jpn,Japanese,Japanese,Eurasia,false,,1,14,valid,極悪非道,gokuaku hidō,extreme-evil not-way,Utterly villainous and inhuman; heinous.,formal_or_literary,current,high
+s1_jpn_r1,jpn,Japanese,Japanese,Eurasia,false,,1,15,valid,鬼の所業,oni no shogyō,demon of deed,A demon's deed; an act so cruel that no human should do it. Often hyperbolic.,everyday,current,medium
+s1_knd_r1,knd,Kannada,Dravidian,Eurasia,false,,1,1,valid,ಕ್ರೂರ,krūra,cruel,Cruel or merciless. Describes a person or an act (e.g. ಕ್ರೂರ ಮನುಷ್ಯ 'cruel man').,everyday,current,high
+s1_knd_r1,knd,Kannada,Dravidian,Eurasia,false,,1,2,valid,ರಾಕ್ಷಸ,rākṣasa,demon (mythological ogre),A monstrously cruel person. Also used adjectivally (ರಾಕ್ಷಸ ಕೃತ್ಯ 'monstrous act').,everyday,current,high
+s1_knd_r1,knd,Kannada,Dravidian,Eurasia,false,,1,3,valid,ಪಾಪಿ,pāpi,sinner (one having sin),A wicked wretch. A common exclamation of condemnation for someone who did something heinous.,everyday,current,high
+s1_knd_r1,knd,Kannada,Dravidian,Eurasia,false,,1,4,valid,ದುಷ್ಟ,duṣṭa,"wicked, evil","Wicked or evil, of a person or deed (ದುಷ್ಟ 'evil one').",everyday,current,high
+s1_knd_r1,knd,Kannada,Dravidian,Eurasia,false,,1,5,valid,ನೀಚ,nīca,"low, base","A vile, despicable person or act.",slang_or_insult,current,high
+s1_knd_r1,knd,Kannada,Dravidian,Eurasia,false,,1,6,valid,ಕಟುಕ,kaṭuka,butcher,"A heartless, brutal person who shows no mercy.",everyday,current,high
+s1_knd_r1,knd,Kannada,Dravidian,Eurasia,false,,1,7,valid,ಪೈಶಾಚಿಕ ಕೃತ್ಯ,paiśācika kṛtya,fiendish (of a piśāca ghoul) deed,"A fiendish, diabolical act. Very common in news reports of atrocities.",formal_or_literary,current,high
+s1_knd_r1,knd,Kannada,Dravidian,Eurasia,false,,1,8,valid,ಅಮಾನವೀಯ,amānavīya,not-human-like,"Inhuman or inhumane, of an act or treatment.",formal_or_literary,current,high
+s1_knd_r1,knd,Kannada,Dravidian,Eurasia,false,,1,9,valid,ಹೀನ ಕೃತ್ಯ,hīna kṛtya,low/base deed,"A vile, contemptible act.",formal_or_literary,current,high
+s1_knd_r1,knd,Kannada,Dravidian,Eurasia,false,,1,10,valid,ಕಲ್ಲು ಹೃದಯ,kallu hṛdaya,stone heart,"Stone-hearted, pitiless. Also used as ಕಲ್ಲು ಹೃದಯದವನು 'one with a stone heart'.",everyday,current,high
+s1_knd_r1,knd,Kannada,Dravidian,Eurasia,false,,1,11,valid,ಪಾಪಿಷ್ಠ,pāpiṣṭha,most sinful,"An utterly wicked, sinful person. Stronger than ಪಾಪಿ.",everyday,current,medium
+s1_knd_r1,knd,Kannada,Dravidian,Eurasia,false,,1,12,valid,ಹೃದಯಹೀನ,hṛdayahīna,heart-lacking,"Heartless or callous, of a person or act.",formal_or_literary,current,medium
+s1_knd_r1,knd,Kannada,Dravidian,Eurasia,false,,1,13,valid,ಚಾಂಡಾಲ,cāṇḍāla,outcaste (historically a caste term),"A wretched, wicked scoundrel. A harsh insult with casteist origins.",slang_or_insult,current,medium
+s1_knd_r1,knd,Kannada,Dravidian,Eurasia,false,,1,14,valid,ಕಿರಾತಕ,kirātaka,Kirāta (forest hunter tribe) person,A ruthless brute or savage person. Colloquial insult.,slang_or_insult,current,medium
+s1_knd_r1,knd,Kannada,Dravidian,Eurasia,false,,1,15,valid,ಮೃಗೀಯ,mṛgīya,beast-like,"Bestial or savage, of behaviour or an act (ಮೃಗೀಯ ವರ್ತನೆ 'bestial conduct').",formal_or_literary,current,medium
+s1_kha_r1,kha,Khalkha,Altaic,Eurasia,false,,1,1,valid,харгис хэрцгий,khargis khertsgii,cruel/tyrannical brutal,"Extremely cruel and brutal. A fixed paired compound used of acts, regimes or people.",everyday,current,high
+s1_kha_r1,kha,Khalkha,Altaic,Eurasia,false,,1,2,valid,хэрцгий,khertsgii,"brutal, cruel","Cruel or brutal, of a person or deed.",everyday,current,high
+s1_kha_r1,kha,Khalkha,Altaic,Eurasia,false,,1,3,valid,харгис,khargis,"cruel, tyrannical","Cruel or tyrannical, often implying abuse of power.",everyday,current,high
+s1_kha_r1,kha,Khalkha,Altaic,Eurasia,false,,1,4,valid,араатан,araatan,"wild beast, predator","A beast. Said of a person who has committed savage, inhuman acts.",slang_or_insult,current,high
+s1_kha_r1,kha,Khalkha,Altaic,Eurasia,false,,1,5,valid,хүнлэг бус,khünleg bus,humane not,"Inhumane, of an act or treatment.",formal_or_literary,current,high
+s1_kha_r1,kha,Khalkha,Altaic,Eurasia,false,,1,6,valid,муу санаат,muu sanaat,bad thought-having,"Evil-minded, malicious, wicked.",everyday,current,high
+s1_kha_r1,kha,Khalkha,Altaic,Eurasia,false,,1,7,valid,хорон санаат,khoron sanaat,poisonous thought-having,"Malicious, venomous, deliberately wicked.",everyday,current,high
+s1_kha_r1,kha,Khalkha,Altaic,Eurasia,false,,1,8,valid,балмад,balmad,"savage, brutish","Savage, barbaric, reckless in violence.",everyday,current,high
+s1_kha_r1,kha,Khalkha,Altaic,Eurasia,false,,1,9,valid,зэрлэг,zerleg,wild,"Savage or barbaric, of a brutal act or person.",everyday,current,high
+s1_kha_r1,kha,Khalkha,Altaic,Eurasia,false,,1,10,valid,өршөөлгүй,örshöölgüi,mercy-without,"Merciless, pitiless.",everyday,current,high
+s1_kha_r1,kha,Khalkha,Altaic,Eurasia,false,,1,11,valid,мангас,mangas,"ogre, many-headed monster (of folklore)",A monster. Said of a person who did something monstrous.,slang_or_insult,current,medium
+s1_kha_r1,kha,Khalkha,Altaic,Eurasia,false,,1,12,valid,хүний мөсгүй,khünii mösgüi,human's decency-without,"Lacking basic human decency or conscience. Heartless, inhuman.",everyday,current,medium
+s1_kha_r1,kha,Khalkha,Altaic,Eurasia,false,,1,13,valid,чөтгөр,chötgör,"devil, demon",A devil. Used as an insult for a wicked person.,slang_or_insult,current,medium
+s1_kha_r1,kha,Khalkha,Altaic,Eurasia,false,,1,14,valid,шулам,shulam,"demon, evil spirit, witch","A demon or witch. Used as an insult for a wicked, malevolent person.",slang_or_insult,current,medium
+s1_kha_r1,kha,Khalkha,Altaic,Eurasia,false,,1,15,valid,нүгэлтэй,nügeltei,sin-having,"Sinful, wicked. Said of a deed felt to be morally abhorrent, e.g. 'нүгэлтэй хэрэг'.",everyday,current,medium
+s1_khs_r1,khs,Khasi,Austro-Asiatic,Eurasia,false,,1,1,valid,sniew,,"bad, evil","Bad, evil, wicked. Used of a person or a deed, e.g. 'u briew uba sniew' (an evil person).",everyday,current,high
+s1_khs_r1,khs,Khasi,Austro-Asiatic,Eurasia,false,,1,2,valid,bymman,,not-good,"Bad, wicked, immoral. Applied to people or acts, and somewhat stronger than plain 'not good' when used of conduct.",everyday,current,medium
+s1_khs_r1,khs,Khasi,Austro-Asiatic,Eurasia,false,,1,3,valid,nongleh sniew,,agent-do bad,"Evil-doer, a wicked person who does harm.",everyday,current,medium
+s1_khs_r1,khs,Khasi,Austro-Asiatic,Eurasia,false,,1,4,valid,jingleh sniew,,nominaliser-do bad,"An evil or wicked deed, a misdeed.",everyday,current,medium
+s1_khs_r1,khs,Khasi,Austro-Asiatic,Eurasia,false,,1,5,valid,ksuid,,"demon, evil spirit, devil",Devil or demon. Used as an insult for a person who behaves with diabolical cruelty or wickedness.,slang_or_insult,current,medium
+s1_khs_r1,khs,Khasi,Austro-Asiatic,Eurasia,false,,1,6,valid,mrad,,"animal, beast",Beast. Used insultingly of someone who acts brutally or inhumanly.,slang_or_insult,current,medium
+s1_khs_r1,khs,Khasi,Austro-Asiatic,Eurasia,false,,1,7,valid,bym don jingisynei,,not have love/compassion,"Merciless, without compassion. Said of a cruel person or act.",everyday,current,medium
+s1_khs_r1,khs,Khasi,Austro-Asiatic,Eurasia,false,,1,8,valid,nongleh pop,,agent-do sin,"Sinner, wrongdoer. Has a moral/religious condemnatory tone.",formal_or_literary,current,medium
+s1_khs_r1,khs,Khasi,Austro-Asiatic,Eurasia,false,,1,9,valid,eh mynsiem,,hard heart/spirit,"Hard-hearted, pitiless.",everyday,current,low
+s1_khm_r1,khm,Khmer,Austro-Asiatic,Eurasia,false,,1,1,valid,សាហាវ,sahav,fierce/savage,"Cruel, vicious, brutal. Used of people, animals and acts. The most common everyday word for cruelty.",everyday,current,high
+s1_khm_r1,khm,Khmer,Austro-Asiatic,Eurasia,false,,1,2,valid,ឃោរឃៅ,khaor khau,cruel-brutal (paired compound),"Atrocious, brutally cruel. Common for killings, abuse and regimes.",everyday,current,high
+s1_khm_r1,khm,Khmer,Austro-Asiatic,Eurasia,false,,1,3,valid,អាក្រក់,akrak,bad,"Bad, evil, wicked. A general condemnation of a person or act.",everyday,current,high
+s1_khm_r1,khm,Khmer,Austro-Asiatic,Eurasia,false,,1,4,valid,ចិត្តអាក្រក់,chet akrak,heart bad,"Wicked-hearted, malicious.",everyday,current,high
+s1_khm_r1,khm,Khmer,Austro-Asiatic,Eurasia,false,,1,5,valid,កំណាច,kamnach,wicked/malicious,"Wicked, mean, malicious. Describes someone who deliberately harms others.",everyday,current,high
+s1_khm_r1,khm,Khmer,Austro-Asiatic,Eurasia,false,,1,6,valid,ចិត្តសាហាវ,chet sahav,heart fierce,"Cruel-hearted, vicious by nature.",everyday,current,high
+s1_khm_r1,khm,Khmer,Austro-Asiatic,Eurasia,false,,1,7,valid,ព្រៃផ្សៃ,prey phsai,wild/forest + savage,"Barbaric, savage. Used of atrocious acts. Frequently combined as ឃោរឃៅព្រៃផ្សៃ.",formal_or_literary,current,high
+s1_khm_r1,khm,Khmer,Austro-Asiatic,Eurasia,false,,1,8,valid,ចិត្តដាច់,chet dach,heart severed,"Heartless, merciless, able to do cruel things without pity.",everyday,current,medium
+s1_khm_r1,khm,Khmer,Austro-Asiatic,Eurasia,false,,1,9,valid,ចិត្តខ្មៅ,chet khmau,heart black,"Black-hearted, evil-minded.",everyday,current,medium
+s1_khm_r1,khm,Khmer,Austro-Asiatic,Eurasia,false,,1,10,valid,អមនុស្ស,amanuh,non-human,Inhuman. Used of a person who commits monstrous acts.,formal_or_literary,current,medium
+s1_khm_r1,khm,Khmer,Austro-Asiatic,Eurasia,false,,1,11,valid,គ្មានមនុស្សធម៌,kmean manuhsa thor,without human-dharma (humaneness),"Inhumane, lacking any humanity.",formal_or_literary,current,high
+s1_khm_r1,khm,Khmer,Austro-Asiatic,Eurasia,false,,1,12,valid,ចិត្តសត្វ,chet sat,heart animal,"Bestial-hearted, beastly. An insulting condemnation of a cruel person.",slang_or_insult,current,medium
+s1_khm_r1,khm,Khmer,Austro-Asiatic,Eurasia,false,,1,13,valid,អាមារ,a mear,(contemptuous prefix) + devil/Mara,"Devil, evil wretch. An insult for a wicked person.",slang_or_insult,current,medium
+s1_khm_r1,khm,Khmer,Austro-Asiatic,Eurasia,false,,1,14,valid,ពាលា,peala,fool/wicked person (from Pali bāla),"Wicked, thuggish, malevolent person; evil-doer.",everyday,current,medium
+s1_khm_r1,khm,Khmer,Austro-Asiatic,Eurasia,false,,1,15,valid,ទុច្ចរិត,tuchcharit,bad conduct (Pali duccarita),"Wicked, dishonest, immoral. Leans more toward deceit than physical cruelty.",formal_or_literary,current,medium
+s1_krb_r1,krb,Kiribati,Austronesian,Papunesia,false,,1,1,valid,buakaka,,bad,"Bad, evil, wicked. The general word for condemning an act or a person as wicked; intensified forms are used for extreme wickedness.",everyday,current,high
+s1_krb_r1,krb,Kiribati,Austronesian,Papunesia,false,,1,2,valid,iowawa,,violent / rough,"Violent, brutal, cruel. Said of a person or act involving harsh, abusive treatment.",everyday,current,medium
+s1_krb_r1,krb,Kiribati,Austronesian,Papunesia,false,,1,3,valid,bure,,sin / fault,"Sinful, guilty of wrongdoing. Used, often in a religious framing, to condemn an act as morally wrong.",everyday,current,medium
+s1_krb_r1,krb,Kiribati,Austronesian,Papunesia,false,,1,4,valid,taimonio,,demon / devil (missionary loan),Devil. Applied to a person as an insult to brand them as wicked or evil.,slang_or_insult,current,low
+s1_krb_r1,krb,Kiribati,Austronesian,Papunesia,false,,1,5,valid,kammaraka,,cause-pain,"Hurtful, causing pain. Said of an act that inflicts suffering on others.",everyday,current,low
+s1_kon_r1,kon,Kongo,Niger-Congo,Africa,false,,1,1,valid,mbi,,bad / evil,"Bad or evil. Used of a person (e.g. muntu (wa) mbi, 'a bad/wicked person') or of a deed, to condemn it as wicked.",everyday,current,high
+s1_kon_r1,kon,Kongo,Niger-Congo,Africa,false,,1,2,valid,ndoki,,witch / sorcerer,"Literally a witch. Hurled at someone thought to be malevolent or cruel, implying they do harm to others out of evil intent.",slang_or_insult,current,high
+s1_kon_r1,kon,Kongo,Niger-Congo,Africa,false,,1,3,valid,kindoki,,witchcraft,"Witchcraft. Used to characterise a malicious, harmful deed as diabolically wicked.",everyday,current,medium
+s1_kon_r1,kon,Kongo,Niger-Congo,Africa,false,,1,4,valid,kimbi,,badness / evil (abstract noun from -mbi),"Wickedness or evil, as a quality of a person or act.",everyday,current,medium
+s1_kon_r1,kon,Kongo,Niger-Congo,Africa,false,,1,5,valid,ntima mbi,,heart bad,"A bad heart. Describes a malicious, spiteful or cruel disposition.",everyday,current,medium
+s1_kon_r1,kon,Kongo,Niger-Congo,Africa,false,,1,6,valid,Nkadi-mpemba,,"devil (traditional term, adopted in Christian usage)","The Devil/Satan. Applied to a person, or used in comparison, to brand someone as utterly wicked.",formal_or_literary,current,medium
+s1_kon_r1,kon,Kongo,Niger-Congo,Africa,false,,1,7,valid,ntima ngolo,,heart hard/strong,Hard-hearted. Describes someone pitiless or merciless.,everyday,current,low
+s1_kon_r1,kon,Kongo,Niger-Congo,Africa,false,,1,8,valid,mbi kibeni,,bad truly/very,Really bad or truly evil. An intensified condemnation of a deed or person.,everyday,current,low
+s1_kor_r1,kor,Korean,Korean,Eurasia,false,,1,1,valid,잔인하다,janinhada,cruel-endure (Sino-Korean 殘忍) + be,"to be cruel, brutal; the standard word for describing a cruel act or person",everyday,current,high
+s1_kor_r1,kor,Korean,Korean,Eurasia,false,,1,2,valid,악마 같다,angma gatda,devil like-be,"devilish, like a demon; said of someone who has done something monstrously cruel",everyday,current,high
+s1_kor_r1,kor,Korean,Korean,Eurasia,false,,1,3,valid,피도 눈물도 없다,pido nunmuldo eopda,blood-even tears-even not-exist,"utterly heartless and merciless, without any human feeling",everyday,current,high
+s1_kor_r1,kor,Korean,Korean,Eurasia,false,,1,4,valid,짐승만도 못하다,jimseungmando motada,beast-only-even cannot-do (i.e. not even as good as a beast),worse than an animal; condemns someone whose act is morally depraved or inhumanly cruel,everyday,current,high
+s1_kor_r1,kor,Korean,Korean,Eurasia,false,,1,5,valid,악랄하다,allalhada,evil-pungent/harsh (惡辣) + be,"vicious, malicious, wicked in a calculated, nasty way",everyday,current,high
+s1_kor_r1,kor,Korean,Korean,Eurasia,false,,1,6,valid,잔혹하다,janhokada,cruel-harsh (殘酷) + be,"brutal, atrocious; often used of crimes, violence or punishments",everyday,current,high
+s1_kor_r1,kor,Korean,Korean,Eurasia,false,,1,7,valid,사이코패스,saikopaeseu,psychopath (English loanword),psychopath; used loosely to call someone coldly and shockingly cruel,slang_or_insult,current,high
+s1_kor_r1,kor,Korean,Korean,Eurasia,false,,1,8,valid,악독하다,akdokada,evil-poison (惡毒) + be,"venomously wicked, malicious and cruel",everyday,current,high
+s1_kor_r1,kor,Korean,Korean,Eurasia,false,,1,9,valid,흉악하다,hyungakada,ominous/fierce-evil (凶惡) + be,"atrocious, heinous, vicious; common of crimes and criminals (흉악범 'heinous criminal')",everyday,current,high
+s1_kor_r1,kor,Korean,Korean,Eurasia,false,,1,10,valid,극악무도하다,geugangmudohada,extreme-evil-without-morality (極惡無道) + be,extremely wicked and utterly immoral; heinous beyond measure,formal_or_literary,current,high
+s1_kor_r1,kor,Korean,Korean,Eurasia,false,,1,11,valid,인간의 탈을 쓴 악마,ingane tareul sseun angma,human-of mask-OBJ wearing devil,a devil wearing a human mask; a monster in human form,everyday,current,high
+s1_kor_r1,kor,Korean,Korean,Eurasia,false,,1,12,valid,천벌 받을 놈,cheonbeol badeul nom,heaven-punishment will-receive guy,a wretch who deserves divine punishment; curse for someone who did something wicked,slang_or_insult,current,high
+s1_kor_r1,kor,Korean,Korean,Eurasia,false,,1,13,valid,인면수심,inmyeonsusim,human-face-beast-heart (人面獸心),having a human face but the heart of a beast; describes an inhumanly cruel or depraved person,formal_or_literary,current,high
+s1_kor_r1,kor,Korean,Korean,Eurasia,false,,1,14,valid,천인공노할,cheoningongnohal,heaven-people-together-angry (天人共怒) + will-be,so heinous that heaven and humanity alike are outraged; used of atrocious crimes,formal_or_literary,current,high
+s1_kor_r1,kor,Korean,Korean,Eurasia,false,,1,15,valid,몹쓸 놈,mopsseul nom,cannot-be-used guy,"a wicked, evil scoundrel; someone who has done something terrible to others",slang_or_insult,current,medium
+s1_lkt_r1,lkt,Lakhota,Siouan,North America,false,,1,1,valid,šíča,,bad,"Bad, evil, wicked. The general word for condemning a person or act as morally bad. It covers a wide range of severity.",everyday,current,high
+s1_lkt_r1,lkt,Lakhota,Siouan,North America,false,,1,2,valid,líla šíča,,very bad,Very bad or very wicked. Used to stress that an act or person is exceptionally evil.,everyday,current,high
+s1_lkt_r1,lkt,Lakhota,Siouan,North America,false,,1,3,valid,wičháša šíča,,man bad,A bad or wicked man; an evil person.,everyday,current,medium
+s1_lkt_r1,lkt,Lakhota,Siouan,North America,false,,1,4,valid,šičáya,,bad-ly,"Badly or wickedly. Used of how someone treated another, e.g. cruelly or abusively.",everyday,current,medium
+s1_lkt_r1,lkt,Lakhota,Siouan,North America,false,,1,5,valid,wahtéšni,,good/worthy-not,"Worthless, bad, wicked. A condemnation of a person's character.",everyday,current,medium
+s1_lkt_r1,lkt,Lakhota,Siouan,North America,false,,1,6,valid,tȟawáčhiŋ šíča,,mind/disposition bad,Having an evil or malicious disposition; mean-spirited or wicked-minded.,everyday,current,medium
+s1_lkt_r1,lkt,Lakhota,Siouan,North America,false,,1,7,valid,tȟéȟiya,,hard-ly,Harshly or cruelly. Used of treating someone with severity or cruelty.,everyday,current,low
+s1_lkt_r1,lkt,Lakhota,Siouan,North America,false,,1,8,valid,šičáȟča,,bad-truly/very,"Truly or extremely bad, thoroughly wicked.",everyday,current,low
+s1_lkt_r1,lkt,Lakhota,Siouan,North America,false,,1,9,valid,wóahtani,,NOMINALIZER-transgress,Sin or wrongdoing. Mainly used in Christian or formal moral discourse to condemn an act as sinful.,formal_or_literary,current,medium
+s1_lkt_r1,lkt,Lakhota,Siouan,North America,false,,1,10,valid,wakȟáŋ šíča,,sacred/mysterious-power bad,Evil spirit or evil power. Used figuratively of something or someone diabolically wicked.,formal_or_literary,current,low
+s1_lat_r1,lat,Latvian,Indo-European,Eurasia,false,,1,1,valid,nežēlīgs,,not-pitying,"cruel, merciless (of a person or an act)",everyday,current,high
+s1_lat_r1,lat,Latvian,Indo-European,Eurasia,false,,1,2,valid,ļauns,,evil,"evil, wicked, malicious",everyday,current,high
+s1_lat_r1,lat,Latvian,Indo-European,Eurasia,false,,1,3,valid,neģēlis,,scoundrel / villain,"a vile, wicked person; a scoundrel who does monstrous things",slang_or_insult,current,high
+s1_lat_r1,lat,Latvian,Indo-European,Eurasia,false,,1,4,valid,nelietis,,not-useful-one (good-for-nothing),"villain, scoundrel, a base and wicked person",everyday,current,high
+s1_lat_r1,lat,Latvian,Indo-European,Eurasia,false,,1,5,valid,zvērs,,"beast, wild animal","a brutal, cruel person ('he is a real beast')",everyday,current,high
+s1_lat_r1,lat,Latvian,Indo-European,Eurasia,false,,1,6,valid,briesmonis,,monster (terror-one),a monstrously cruel or evil person,everyday,current,high
+s1_lat_r1,lat,Latvian,Indo-European,Eurasia,false,,1,7,valid,cietsirdīgs,,hard-hearted,"callous, cruel, without compassion",everyday,current,high
+s1_lat_r1,lat,Latvian,Indo-European,Eurasia,false,,1,8,valid,zvērīgs,,beast-like,"brutal, savage, atrocious (e.g. 'zvērīga slepkavība', a brutal murder)",everyday,current,high
+s1_lat_r1,lat,Latvian,Indo-European,Eurasia,false,,1,9,valid,necilvēcīgs,,not-human-like,"inhuman, inhumane, atrociously cruel",everyday,current,high
+s1_lat_r1,lat,Latvian,Indo-European,Eurasia,false,,1,10,valid,bezsirdīgs,,without-heart-ed,"heartless, pitiless",everyday,current,high
+s1_lat_r1,lat,Latvian,Indo-European,Eurasia,false,,1,11,valid,izdzimums,,out-born thing (degenerate offspring),"a monster, degenerate; strong insult for someone who did something vile",slang_or_insult,current,high
+s1_lat_r1,lat,Latvian,Indo-European,Eurasia,false,,1,12,valid,brutāls,,brutal,"brutal, violently cruel",everyday,current,high
+s1_lat_r1,lat,Latvian,Indo-European,Eurasia,false,,1,13,valid,mežonīgs,,"forest-like (wild, savage)","savage, barbaric (of an act)",everyday,current,high
+s1_lat_r1,lat,Latvian,Indo-European,Eurasia,false,,1,14,valid,sadists,,sadist,someone who enjoys inflicting cruelty,everyday,current,high
+s1_lat_r1,lat,Latvian,Indo-European,Eurasia,false,,1,15,valid,nekrietns,,not-decent,"base, vile, morally wicked (of an act or person)",formal_or_literary,current,medium
+s1_lez_r1,lez,Lezgian,Nakh-Daghestanian,Eurasia,false,,1,1,valid,залум,zalum,cruel / tyrant (Arabic loan),"cruel, tyrannical; a cruel person",everyday,current,high
+s1_lez_r1,lez,Lezgian,Nakh-Daghestanian,Eurasia,false,,1,2,valid,зулумкар,zulumkar,oppression-doer,"oppressor, tormentor; someone who commits cruelty",everyday,current,medium
+s1_lez_r1,lez,Lezgian,Nakh-Daghestanian,Eurasia,false,,1,3,valid,регьимсуз,rehimsuz,mercy-less,"merciless, pitiless",everyday,current,medium
+s1_lez_r1,lez,Lezgian,Nakh-Daghestanian,Eurasia,false,,1,4,valid,инсафсуз,insafsuz,conscience/fairness-less,"without conscience, unjust and heartless",everyday,current,medium
+s1_lez_r1,lez,Lezgian,Nakh-Daghestanian,Eurasia,false,,1,5,valid,вагьши,vahši,"wild, savage","savage, brutal (of a person or deed)",everyday,current,medium
+s1_lez_r1,lez,Lezgian,Nakh-Daghestanian,Eurasia,false,,1,6,valid,жаллад,žallad,executioner,"butcher, executioner: a brutally cruel person",slang_or_insult,current,medium
+s1_lez_r1,lez,Lezgian,Nakh-Daghestanian,Eurasia,false,,1,7,valid,шейтIан,šejt'an,"devil, Satan","devil, used of a wicked person",slang_or_insult,current,medium
+s1_lez_r1,lez,Lezgian,Nakh-Daghestanian,Eurasia,false,,1,8,valid,алчах,alčax,"low, base","vile, base, despicable person",slang_or_insult,current,medium
+s1_lez_r1,lez,Lezgian,Nakh-Daghestanian,Eurasia,false,,1,9,valid,кафир,kafir,infidel,"godless wretch, used as an insult for a cruel or wicked person",slang_or_insult,current,low
+s1_lez_r1,lez,Lezgian,Nakh-Daghestanian,Eurasia,false,,1,10,valid,явуз,javuz,"fierce, cruel (Turkic loan)","fierce, cruel, harsh",formal_or_literary,current,low
+s1_lez_r1,lez,Lezgian,Nakh-Daghestanian,Eurasia,false,,1,11,valid,рикI авачир,rik' avačir,heart not-having,heartless,everyday,current,low
+s1_mal_r1,mal,Malagasy,Austronesian,Africa,false,,1,1,valid,ratsy fanahy,,bad spirit/soul,"wicked, evil-hearted (of a person)",everyday,current,high
+s1_mal_r1,mal,Malagasy,Austronesian,Africa,false,,1,2,valid,masiaka,,"fierce, savage","cruel, ferocious, brutal (of a person or act)",everyday,current,high
+s1_mal_r1,mal,Malagasy,Austronesian,Africa,false,,1,3,valid,mahatsiravina,,causing horror,"horrifying, atrocious (of an act)",everyday,current,high
+s1_mal_r1,mal,Malagasy,Austronesian,Africa,false,,1,4,valid,mampihoron-koditra,,makes the skin shudder,"spine-chilling, appalling (of a cruel deed)",everyday,current,medium
+s1_mal_r1,mal,Malagasy,Austronesian,Africa,false,,1,5,valid,habibiana,,animal-ness (from biby 'animal'),"bestiality, savage cruelty; an atrocity",formal_or_literary,current,high
+s1_mal_r1,mal,Malagasy,Austronesian,Africa,false,,1,6,valid,biby,,"animal, beast","used as an insult for a brutal, inhuman person",slang_or_insult,current,medium
+s1_mal_r1,mal,Malagasy,Austronesian,Africa,false,,1,7,valid,tsy manam-po,,not having heart,"heartless, pitiless",everyday,current,medium
+s1_mal_r1,mal,Malagasy,Austronesian,Africa,false,,1,8,valid,tsy mahaolona,,not human-making,"inhumane, inhuman (of an act)",formal_or_literary,current,medium
+s1_mal_r1,mal,Malagasy,Austronesian,Africa,false,,1,9,valid,haratsiam-panahy,,badness of spirit,"wickedness, malice",formal_or_literary,current,high
+s1_mal_r1,mal,Malagasy,Austronesian,Africa,false,,1,10,valid,fahasiahana,,fierceness (noun from masiaka),"cruelty, ferocity",formal_or_literary,current,medium
+s1_mal_r1,mal,Malagasy,Austronesian,Africa,false,,1,11,valid,mpamosavy,,"sorcerer, witch",used to condemn someone as malevolent and evil,slang_or_insult,current,medium
+s1_mal_r1,mal,Malagasy,Austronesian,Africa,false,,1,12,valid,feno lolompo,,full of hatred/rancour,"malicious, vindictive",everyday,current,medium
+s1_mal_r1,mal,Malagasy,Austronesian,Africa,false,,1,13,valid,mahery setra,,strong (in) violence,"violent, brutal",everyday,current,medium
+s1_mal_r1,mal,Malagasy,Austronesian,Africa,false,,1,14,valid,dahalo,,cattle bandit,"used as an insult for a ruthless, brutal criminal",slang_or_insult,current,low
+s1_mnd_r1,mnd,Mandarin,Sino-Tibetan,Eurasia,true,known_language,1,1,valid,残忍,cánrěn,cruel-endure (harm),Cruel or brutal. The basic everyday word for a cruel act or person.,everyday,current,high
+s1_mnd_r1,mnd,Mandarin,Sino-Tibetan,Eurasia,true,known_language,1,2,valid,畜生,chùsheng,livestock-born (beast),Beast or animal. A harsh insult for someone who has done something inhumanly cruel or vile.,slang_or_insult,current,high
+s1_mnd_r1,mnd,Mandarin,Sino-Tibetan,Eurasia,true,known_language,1,3,valid,没人性,méi rénxìng,not-have human-nature,"Inhuman, lacking all humanity. Said of a cruel person or act.",everyday,current,high
+s1_mnd_r1,mnd,Mandarin,Sino-Tibetan,Eurasia,true,known_language,1,4,valid,丧心病狂,sàng xīn bìng kuáng,"lose heart, sick (and) mad","Frenziedly wicked, utterly depraved. Used for shockingly cruel or outrageous acts.",everyday,current,high
+s1_mnd_r1,mnd,Mandarin,Sino-Tibetan,Eurasia,true,known_language,1,5,valid,禽兽不如,qínshòu bùrú,birds-beasts not-equal,Worse than a beast. Strong condemnation of someone's depravity or cruelty.,slang_or_insult,current,high
+s1_mnd_r1,mnd,Mandarin,Sino-Tibetan,Eurasia,true,known_language,1,6,valid,心狠手辣,xīn hěn shǒu là,"heart ruthless, hand spicy (vicious)","Ruthless and vicious, merciless in action.",everyday,current,high
+s1_mnd_r1,mnd,Mandarin,Sino-Tibetan,Eurasia,true,known_language,1,7,valid,恶毒,èdú,evil-poisonous,"Malicious, vicious, venomous. Used of people, words or deeds.",everyday,current,high
+s1_mnd_r1,mnd,Mandarin,Sino-Tibetan,Eurasia,true,known_language,1,8,valid,狠毒,hěndú,ruthless-poisonous,"Vicious and cruel, venomously ruthless.",everyday,current,high
+s1_mnd_r1,mnd,Mandarin,Sino-Tibetan,Eurasia,true,known_language,1,9,valid,丧尽天良,sàng jìn tiānliáng,lose completely heaven-(given) conscience,"Utterly without conscience, heartless and wicked beyond redemption.",everyday,current,high
+s1_mnd_r1,mnd,Mandarin,Sino-Tibetan,Eurasia,true,known_language,1,10,valid,伤天害理,shāng tiān hài lǐ,"harm heaven, injure principle","Outrageously immoral and cruel, an offence against heaven and reason.",everyday,current,high
+s1_mnd_r1,mnd,Mandarin,Sino-Tibetan,Eurasia,true,known_language,1,11,valid,惨无人道,cǎn wú réndào,brutal without human-way,Atrociously inhumane and barbaric. Often used of atrocities or massacres.,formal_or_literary,current,high
+s1_mnd_r1,mnd,Mandarin,Sino-Tibetan,Eurasia,true,known_language,1,12,valid,灭绝人性,mièjué rénxìng,extinguish human-nature,"Completely devoid of humanity, monstrously cruel.",formal_or_literary,current,high
+s1_mnd_r1,mnd,Mandarin,Sino-Tibetan,Eurasia,true,known_language,1,13,valid,十恶不赦,shí è bù shè,ten evils not pardon,"Guilty of unpardonable crimes, utterly wicked. Originally referred to the ten unpardonable offences of old law codes.",everyday,current,high
+s1_mnd_r1,mnd,Mandarin,Sino-Tibetan,Eurasia,true,known_language,1,14,valid,罪大恶极,zuì dà è jí,"crime great, evil extreme","Guilty of the most heinous crimes, extremely wicked.",formal_or_literary,current,high
+s1_mnd_r1,mnd,Mandarin,Sino-Tibetan,Eurasia,true,known_language,1,15,valid,天理难容,tiānlǐ nán róng,heaven's-principle hard tolerate,"So wicked that heaven's justice cannot tolerate it, an unforgivable outrage.",formal_or_literary,current,high
+s1_mao_r1,mao,Maori,Austronesian,Papunesia,false,,1,1,valid,kino rawa atu,,bad very away,"extremely bad, terribly evil; used of a wicked act or person",everyday,current,high
+s1_mao_r1,mao,Maori,Austronesian,Papunesia,false,,1,2,valid,nanakia,,cruel/treacherous (one),"cruel, vicious, treacherous; a nasty or wicked person (also 'fierce')",everyday,current,high
+s1_mao_r1,mao,Maori,Austronesian,Papunesia,false,,1,3,valid,mahi kino,,work/deed bad,"an evil or wicked deed, wrongdoing",everyday,current,high
+s1_mao_r1,mao,Maori,Austronesian,Papunesia,false,,1,4,valid,tūkino,,treat badly,"to abuse, ill-treat or brutalise; abusive, cruel (tūkinotanga = abuse, cruelty)",everyday,current,high
+s1_mao_r1,mao,Maori,Austronesian,Papunesia,false,,1,5,valid,whakarihariha,,make-disgusting,"abominable, disgusting, loathsome; condemns a vile act",everyday,current,high
+s1_mao_r1,mao,Maori,Austronesian,Papunesia,false,,1,6,valid,weriweri,,disgusting/repulsive,"loathsome, hateful, repulsive; used of despicable behaviour or people",everyday,current,high
+s1_mao_r1,mao,Maori,Austronesian,Papunesia,false,,1,7,valid,kōhuru,,murder/treachery,"murder, treacherous killing; to murder; a treacherous, murderous act",everyday,current,high
+s1_mao_r1,mao,Maori,Austronesian,Papunesia,false,,1,8,valid,taikaha,,violent/excessive,"violent, brutal, oppressive; acting with cruel force",formal_or_literary,current,medium
+s1_mao_r1,mao,Maori,Austronesian,Papunesia,false,,1,9,valid,ngākau kino,,heart bad,"evil-hearted, malicious, spiteful",everyday,current,medium
+s1_mao_r1,mao,Maori,Austronesian,Papunesia,false,,1,10,valid,taurekareka,,slave/captive,"scoundrel, rascal, wretch; strong insult for a contemptible person",slang_or_insult,current,medium
+s1_mao_r1,mao,Maori,Austronesian,Papunesia,false,,1,11,valid,kaikōhuru,,agent-murder,murderer; a treacherous killer,everyday,current,medium
+s1_mao_r1,mao,Maori,Austronesian,Papunesia,false,,1,12,valid,whanoke,,mischievous/roguish,"wicked, mischievous, delinquent; a rogue",everyday,current,medium
+s1_map_r1,map,Mapudungun,Araucanian,South America,false,,1,1,valid,"weda che (also spelled wesa che, weza che)",,bad person,A bad or wicked person. It is the general way to condemn someone morally and is not specific to extreme cruelty.,everyday,current,high
+s1_map_r1,map,Mapudungun,Araucanian,South America,false,,1,2,valid,"weda (wesa, weza)",,bad,"Bad, evil, wicked. Applied to acts or people. Spelling and pronunciation vary by dialect and orthography.",everyday,current,high
+s1_map_r1,map,Mapudungun,Araucanian,South America,false,,1,3,valid,kalku,,"sorcerer, witch","A practitioner of harmful magic. Applied to a person, it condemns them as malevolent and ill-intentioned, a source of evil and harm.",slang_or_insult,current,medium
+s1_map_r1,map,Mapudungun,Araucanian,South America,false,,1,4,valid,wekufe (wekufü),,evil spirit or force,A malign supernatural being. It can be used figuratively for a person or act regarded as diabolically evil.,everyday,current,low
+s1_map_r1,map,Mapudungun,Araucanian,South America,false,,1,5,valid,weda dungu (wesa dungu),,bad matter/thing/word,"A bad or evil thing, an evil deed or affair. Used to condemn an act.",everyday,current,medium
+s1_mei_r1,mei,Meithei,Sino-Tibetan,Eurasia,false,,1,1,valid,ꯐꯠꯇꯕ,phattaba,not-good (phat- 'be good' + -ta negative + -ba nominaliser),"bad, evil, wicked; the general word for a wicked act or person",everyday,current,high
+s1_mei_r1,mei,Meithei,Sino-Tibetan,Eurasia,false,,1,2,valid,ꯃꯤꯅꯨꯡꯁꯤ ꯂꯩꯇꯕ,minungsi leitaba,compassion/humanity not-having,"merciless, inhuman, cruel (of a person or deed)",everyday,current,medium
+s1_mei_r1,mei,Meithei,Sino-Tibetan,Eurasia,false,,1,3,valid,ꯄꯥꯄꯤ,papi,"sinner (Indo-Aryan loan, from pap 'sin')","sinful, wicked person; used to condemn someone as evil",everyday,current,medium
+s1_mei_r1,mei,Meithei,Sino-Tibetan,Eurasia,false,,1,4,valid,ꯑꯀꯅꯕ,akanba,"hard, harsh","harsh, severe, hard-hearted; can describe cruel treatment",everyday,current,low
+s1_mei_r1,mei,Meithei,Sino-Tibetan,Eurasia,false,,1,5,valid,ꯊꯃꯣꯏ ꯂꯩꯇꯕ,thamoi leitaba,heart not-having,"heartless, pitiless",everyday,current,low
+s1_nav_r1,nav,Navajo,Na-Dene,North America,false,,1,1,valid,doo yáʼátʼééh da,,not it-is-good (negative frame),"bad, wrong, wicked. This is the general everyday condemnation of an act or person, intensified with ayóo or yéego ('very, greatly').",everyday,current,high
+s1_nav_r1,nav,Navajo,Na-Dene,North America,false,,1,2,valid,hashkééh,,he/she is fierce/mean,"mean, cruel, vicious, fierce (of a person or animal). Often used as 'ayóo hashkééh' (he is very mean/cruel).",everyday,current,medium
+s1_nav_r1,nav,Navajo,Na-Dene,North America,false,,1,3,valid,hóchxǫ́ʼ,,"it/things are ugly, disordered (opposite of hózhǫ́)","evil, ugly, disharmonious. It describes something terribly wrong or wicked, in the sense of a violation of harmony.",formal_or_literary,current,medium
+s1_nav_r1,nav,Navajo,Na-Dene,North America,false,,1,4,valid,bíniʼ doo yáʼátʼééh da,,his/her-mind not it-is-good,"he or she has a bad or evil mind; a malicious, wicked person.",everyday,current,low
+s1_nav_r1,nav,Navajo,Na-Dene,North America,false,,1,5,valid,chʼįįdii,,"ghost, evil spirit (devil)","devil, evil spirit. It is used as an insult or curse for a wicked person or a hateful thing.",slang_or_insult,current,medium
+s1_nav_r1,nav,Navajo,Na-Dene,North America,false,,1,6,valid,adilgashii,,one who witches (casts corpse-poison),"witch, sorcerer. It is applied to a person regarded as deeply evil and malevolent.",everyday,current,low
+s1_nav_r1,nav,Navajo,Na-Dene,North America,false,,1,7,valid,naayééʼ,,"monster, enemy (that which kills/harms)","monster. It is figuratively used for a destructive, cruel being or person.",formal_or_literary,current,low
+s1_ndy_r1,ndy,Ndyuka,other,South America,false,,1,1,valid,takuu,,bad / ugly,"Bad, evil, wicked. Used of acts and of people to condemn them as wicked.",everyday,current,medium
+s1_ndy_r1,ndy,Ndyuka,other,South America,false,,1,2,valid,takuu sama,,bad person,"An evil, wicked person.",everyday,current,medium
+s1_ndy_r1,ndy,Ndyuka,other,South America,false,,1,3,valid,ogii,,evil / danger / harm,"Evil, wickedness, harm. Also used adjectivally for a wicked or dangerous act or person.",everyday,current,medium
+s1_ndy_r1,ndy,Ndyuka,other,South America,false,,1,4,valid,ogii sama,,evil person,"A wicked, malicious or harmful person.",everyday,current,low
+s1_ndy_r1,ndy,Ndyuka,other,South America,false,,1,5,valid,wisiman,,witchcraft man,Witch or sorcerer. Used as a strong condemnation of someone who harms others out of malice.,everyday,current,medium
+s1_ndy_r1,ndy,Ndyuka,other,South America,false,,1,6,valid,wisi,,witchcraft,"Witchcraft or evil magic. Applied to malicious, harmful deeds as the epitome of wickedness.",everyday,current,medium
+s1_ndy_r1,ndy,Ndyuka,other,South America,false,,1,7,valid,takuu ati,,bad heart,"Evil-heartedness, malice. A cruel or malicious disposition.",everyday,current,low
+s1_ndy_r1,ndy,Ndyuka,other,South America,false,,1,8,valid,didibi,,devil,Devil. Used of a person to call them diabolically wicked.,slang_or_insult,current,low
+s1_nko_r1,nko,Nkore-Kiga,Niger-Congo,Africa,false,,1,1,valid,omubi,,person-bad,a bad or wicked person; a general condemnation of someone who has done evil,everyday,current,medium
+s1_nko_r1,nko,Nkore-Kiga,Niger-Congo,Africa,false,,1,2,valid,kibi munonga,,it(thing)-bad very,"it is very bad, said of a terrible or wicked act",everyday,current,medium
+s1_nko_r1,nko,Nkore-Kiga,Niger-Congo,Africa,false,,1,3,valid,obubi,,badness,"evil, wickedness (the abstract quality or the wicked deeds)",everyday,current,medium
+s1_nko_r1,nko,Nkore-Kiga,Niger-Congo,Africa,false,,1,4,valid,omutima mubi,,heart bad,"a bad or evil heart; describes a cruel, malicious person",everyday,current,low
+s1_nko_r1,nko,Nkore-Kiga,Niger-Congo,Africa,false,,1,5,valid,tarikugira mbabazi,,he/she-not-is-having mercy,he or she has no mercy; is pitiless or cruel,everyday,current,low
+s1_nko_r1,nko,Nkore-Kiga,Niger-Congo,Africa,false,,1,6,valid,omurogi,,witch/sorcerer (one who bewitches),"a witch; also used abusively for a malicious, evil-doing person",slang_or_insult,current,low
+s1_nko_r1,nko,Nkore-Kiga,Niger-Congo,Africa,false,,1,7,valid,omunyabibi,,person-of-bad-things,"sinner, evildoer (common in church usage)",formal_or_literary,current,low
+s1_orh_r1,orh,Oromo (Harar),Afro-Asiatic,Africa,false,,1,1,valid,hamaa,,bad/evil,"evil, wicked, cruel (of a person or deed); the general word for a malicious or harmful person",everyday,current,high
+s1_orh_r1,orh,Oromo (Harar),Afro-Asiatic,Africa,false,,1,2,valid,gara-jabeessa,,stomach/heart-hard-(one who is),"cruel, merciless, hard-hearted person",everyday,current,high
+s1_orh_r1,orh,Oromo (Harar),Afro-Asiatic,Africa,false,,1,3,valid,garaa jabaa,,stomach/heart hard,"hard-hearted, pitiless (descriptive phrase for a cruel person)",everyday,current,medium
+s1_orh_r1,orh,Oromo (Harar),Afro-Asiatic,Africa,false,,1,4,valid,hammeenya,,badness/evil,"wickedness, evil, cruelty (used to condemn an act as evil)",everyday,current,high
+s1_orh_r1,orh,Oromo (Harar),Afro-Asiatic,Africa,false,,1,5,valid,gara-jabina,,stomach/heart-hardness,"cruelty, mercilessness (of an act)",everyday,current,high
+s1_orh_r1,orh,Oromo (Harar),Afro-Asiatic,Africa,false,,1,6,valid,gadhee,,bad,"bad, wicked (common in Eastern/Harar Oromo for a bad person or deed)",everyday,regional,medium
+s1_orh_r1,orh,Oromo (Harar),Afro-Asiatic,Africa,false,,1,7,valid,namummaa hin qabu,,humanity not he-has,he has no humanity; condemns someone as inhumanly cruel,everyday,current,medium
+s1_orh_r1,orh,Oromo (Harar),Afro-Asiatic,Africa,false,,1,8,valid,Waaqa hin sodaatu,,God not he-fears,he does not fear God; condemns someone as shamelessly wicked,everyday,current,medium
+s1_orh_r1,orh,Oromo (Harar),Afro-Asiatic,Africa,false,,1,9,valid,seexana,,Satan,devil; calling a person diabolically wicked,slang_or_insult,current,medium
+s1_orh_r1,orh,Oromo (Harar),Afro-Asiatic,Africa,false,,1,10,valid,bineensa,,wild beast,"beast; insult for a savage, brutal person",slang_or_insult,current,medium
+s1_orh_r1,orh,Oromo (Harar),Afro-Asiatic,Africa,false,,1,11,valid,jal'aa,,crooked,"unjust, perverse, wicked person",everyday,current,medium
+s1_orh_r1,orh,Oromo (Harar),Afro-Asiatic,Africa,false,,1,12,valid,jibbisiisaa,,causing-hatred,"abhorrent, detestable (of a deed)",everyday,current,medium
+s1_orh_r1,orh,Oromo (Harar),Afro-Asiatic,Africa,false,,1,13,valid,suukaneessaa,,horrifying,"horrifying, shocking (of an atrocious act)",formal_or_literary,current,low
+s1_prs_r1,prs,Persian,Indo-European,Eurasia,false,,1,1,valid,ظالم,zâlem,oppressor / one who does injustice,"cruel, tyrannical person; someone who wrongs others without mercy; also used as an exclamation at a cruel act",everyday,current,high
+s1_prs_r1,prs,Persian,Indo-European,Eurasia,false,,1,2,valid,بی‌رحم,bi-rahm,without-mercy,"merciless, cruel (of a person or act; the adverb بی‌رحمانه bi-rahmâne means 'cruelly')",everyday,current,high
+s1_prs_r1,prs,Persian,Indo-European,Eurasia,false,,1,3,valid,نامرد,nâmard,not-man,"base, treacherous, cowardly person who harms others unfairly; نامردی nâmardi = such an act",everyday,current,high
+s1_prs_r1,prs,Persian,Indo-European,Eurasia,false,,1,4,valid,بی‌شرف,bi-sharaf,without-honour,"scoundrel, vile person; strong insult for someone who did something wicked",slang_or_insult,current,high
+s1_prs_r1,prs,Persian,Indo-European,Eurasia,false,,1,5,valid,وحشی,vahshi,wild / savage,"savage, brutal (of a person or act)",everyday,current,high
+s1_prs_r1,prs,Persian,Indo-European,Eurasia,false,,1,6,valid,بی‌وجدان,bi-vejdân,without-conscience,"conscienceless, heartless person",everyday,current,high
+s1_prs_r1,prs,Persian,Indo-European,Eurasia,false,,1,7,valid,سنگدل,sangdel,stone-heart,"hard-hearted, pitiless",everyday,current,high
+s1_prs_r1,prs,Persian,Indo-European,Eurasia,false,,1,8,valid,از خدا بی‌خبر,az khodâ bi-khabar,from God without-news (unaware of God),godless wretch; someone who does wicked things with no fear of God,everyday,current,high
+s1_prs_r1,prs,Persian,Indo-European,Eurasia,false,,1,9,valid,خدا ازش نگذره,khodâ azash nagzare,God from-him/her not-pass (may God not pardon him/her),curse uttered against someone who has done something cruel or wicked,everyday,current,high
+s1_prs_r1,prs,Persian,Indo-European,Eurasia,false,,1,10,valid,پست‌فطرت,past-fetrat,low-nature,"base-natured, vile person",slang_or_insult,current,high
+s1_prs_r1,prs,Persian,Indo-European,Eurasia,false,,1,11,valid,جنایتکار,jenâyatkâr,crime-doer,"criminal, perpetrator of atrocious crimes",everyday,current,high
+s1_prs_r1,prs,Persian,Indo-European,Eurasia,false,,1,12,valid,خبیث,khabis,foul / wicked (Arabic loan),"malicious, wicked, evil",everyday,current,high
+s1_prs_r1,prs,Persian,Indo-European,Eurasia,false,,1,13,valid,شیطان‌صفت,sheytân-sefat,Satan-quality,"devilish, fiendish person",everyday,current,high
+s1_prs_r1,prs,Persian,Indo-European,Eurasia,false,,1,14,valid,سفاک,saffâk,blood-shedder,"bloodthirsty, ruthless killer",formal_or_literary,current,high
+s1_prs_r1,prs,Persian,Indo-European,Eurasia,false,,1,15,valid,قسی‌القلب,qasi-ol-qalb,hard-of-the-heart,"hard-hearted, cruel",formal_or_literary,current,high
+s1_pit_r1,pit,Pitjantjatjara,Pama-Nyungan,Australia,false,,1,1,valid,kura,,bad,"Bad, wrong, wicked. This is the general word for condemning an act or a person as morally bad. It is not specifically 'extraordinarily cruel', but it is the usual everyday term.",everyday,current,high
+s1_pit_r1,pit,Pitjantjatjara,Pama-Nyungan,Australia,false,,1,2,valid,kuya,,bad,"Bad, wicked. This is the Yankunytjatjara-leaning equivalent of kura, heard in mixed Pitjantjatjara/Yankunytjatjara communities.",everyday,regional,medium
+s1_pit_r1,pit,Pitjantjatjara,Pama-Nyungan,Australia,false,,1,3,valid,mamu,,"evil spirit, monster",A malevolent spirit or demon. It can be applied to a person whose behaviour is monstrous or evil.,everyday,current,medium
+s1_pit_r1,pit,Pitjantjatjara,Pama-Nyungan,Australia,false,,1,4,valid,wati kura,,man bad,"A bad or wicked man, a wrongdoer.",everyday,current,medium
+s1_pit_r1,pit,Pitjantjatjara,Pama-Nyungan,Australia,false,,1,5,valid,rama,,"mad, crazy",Crazy or out of control. It is used of someone who behaves violently or without restraint.,everyday,current,medium
+s1_pit_r1,pit,Pitjantjatjara,Pama-Nyungan,Australia,false,,1,6,valid,mulyamiri,,nose-? (unclear),"Cheeky, disrespectful, defiant. This condemns bad behaviour, but it is milder than 'cruel'.",everyday,current,low
+s1_qim_r1,qim,Quechua (Imbabura),Quechuan,South America,false,,1,1,valid,millay,,ugly / nasty / fierce,"Bad, nasty, mean or cruel, of a person or an act. Also means 'ugly' and 'disgusting'.",everyday,current,high
+s1_qim_r1,qim,Quechua (Imbabura),Quechuan,South America,false,,1,2,valid,millay runa,,nasty person,"A wicked, mean or cruel person.",everyday,current,medium
+s1_qim_r1,qim,Quechua (Imbabura),Quechuan,South America,false,,1,3,valid,mana alli,,not good,"Bad or wicked, of a deed or a person. A general term of moral condemnation.",everyday,current,high
+s1_qim_r1,qim,Quechua (Imbabura),Quechuan,South America,false,,1,4,valid,mana alli runa,,not good person,A bad or wicked person.,everyday,current,medium
+s1_qim_r1,qim,Quechua (Imbabura),Quechuan,South America,false,,1,5,valid,piña,,fierce / angry,"Fierce, violent or bad-tempered. Used of people or animals that act harshly or cruelly.",everyday,current,medium
+s1_qim_r1,qim,Quechua (Imbabura),Quechuan,South America,false,,1,6,valid,supay,,devil,Devil. Applied to a person to brand them as diabolically wicked.,slang_or_insult,current,medium
+s1_qim_r1,qim,Quechua (Imbabura),Quechuan,South America,false,,1,7,valid,supay shina,,devil like,Like a devil; describes someone who acts with diabolical cruelty or wickedness.,everyday,current,low
+s1_qim_r1,qim,Quechua (Imbabura),Quechuan,South America,false,,1,8,valid,awka,,savage / heathen / enemy,Savage or barbarous. Used pejoratively of someone who behaves brutally or without moral restraint.,slang_or_insult,current,low
+s1_qim_r1,qim,Quechua (Imbabura),Quechuan,South America,false,,1,9,valid,mana kuyak,,not loving/pitying-AGENT,"One without love or compassion; heartless, merciless.",everyday,current,low
+s1_rus_r1,rus,Russian,Indo-European,Eurasia,true,known_language,1,1,valid,жестокий,zhestokiy,cruel / hard,Cruel. The basic adjective for a cruel person or act.,everyday,current,high
+s1_rus_r1,rus,Russian,Indo-European,Eurasia,true,known_language,1,2,valid,изверг,izverg,"one cast out (from izvergnut' 'to cast out, expel')","A monster of cruelty. Used of someone who has done something outrageously cruel, e.g. to a child or animal.",everyday,current,high
+s1_rus_r1,rus,Russian,Indo-European,Eurasia,true,known_language,1,3,valid,зверство,zverstvo,beast-ness,"An atrocity, a savagely cruel act. Often 'это зверство!' ('this is barbaric!'). The related 'зверь' ('beast') is used of the person.",everyday,current,high
+s1_rus_r1,rus,Russian,Indo-European,Eurasia,true,known_language,1,4,valid,нелюдь,nelyud',non-human / not-people,An inhuman monster. Strong condemnation of someone whose cruelty puts them outside humanity.,slang_or_insult,current,high
+s1_rus_r1,rus,Russian,Indo-European,Eurasia,true,known_language,1,5,valid,садист,sadist,sadist,Someone who enjoys inflicting suffering. Used loosely in everyday speech for any cruel tormentor.,everyday,current,high
+s1_rus_r1,rus,Russian,Indo-European,Eurasia,true,known_language,1,6,valid,бесчеловечный,beschelovechnyy,without-human-ness,"Inhuman, inhumane. Used of acts, treatment or people.",formal_or_literary,current,high
+s1_rus_r1,rus,Russian,Indo-European,Eurasia,true,known_language,1,7,valid,чудовище,chudovishche,monster,A monster. Said of a person who has done something terribly cruel or wicked. 'Монстр' is used similarly.,everyday,current,high
+s1_rus_r1,rus,Russian,Indo-European,Eurasia,true,known_language,1,8,valid,мразь,mraz',"filth, scum (originally 'frost, slush')","Scum. A harsh insult for a vile, wicked or cruel person.",slang_or_insult,current,high
+s1_rus_r1,rus,Russian,Indo-European,Eurasia,true,known_language,1,9,valid,ирод,irod,Herod,"A tormentor, a heartless villain. Alludes to the biblical King Herod; colloquial and somewhat folksy.",everyday,current,high
+s1_rus_r1,rus,Russian,Indo-European,Eurasia,true,known_language,1,10,valid,изувер,izuver,fanatic (originally a religious zealot),"A savage torturer, someone who commits monstrously cruel acts. 'Изуверство' means atrocious cruelty.",formal_or_literary,current,high
+s1_rus_r1,rus,Russian,Indo-European,Eurasia,true,known_language,1,11,valid,живодёр,zhivodyor,live-flayer (originally a knacker),"A cruel person, especially one who tortures animals; a heartless brute.",everyday,current,high
+s1_rus_r1,rus,Russian,Indo-European,Eurasia,true,known_language,1,12,valid,злодей,zlodey,evil-doer,"A villain, an evildoer. 'Злодеяние' means an evil, heinous deed.",everyday,current,high
+s1_rus_r1,rus,Russian,Indo-European,Eurasia,true,known_language,1,13,valid,креста на тебе нет,kresta na tebe net,of-cross on you there-is-not,"'You have no cross on you', i.e. you have no conscience. A reproach for a heartless or cruel act.",everyday,current,high
+s1_rus_r1,rus,Russian,Indo-European,Eurasia,true,known_language,1,14,valid,выродок,vyrodok,degenerate / one born out (of the kind),"A degenerate, a monster. A harsh insult for someone who did something vile or cruel.",slang_or_insult,current,high
+s1_rus_r1,rus,Russian,Indo-European,Eurasia,true,known_language,1,15,valid,душегуб,dushegub,soul-destroyer,"A murderer, a cruel killer or tormentor. Folk-flavoured and somewhat old-fashioned.",formal_or_literary,current,medium
+s1_san_r1,san,Sango,Niger-Congo,Africa,false,,1,1,valid,sioni,,bad,"Bad, evil, wicked. It is the general word, applied to acts or people and intensified for strong condemnation.",everyday,current,high
+s1_san_r1,san,Sango,Niger-Congo,Africa,false,,1,2,valid,sioni zo,,bad person,A wicked or evil person.,everyday,current,high
+s1_san_r1,san,Sango,Niger-Congo,Africa,false,,1,3,valid,zo ti sioni,,person of badness,An evil person or evildoer.,everyday,current,medium
+s1_san_r1,san,Sango,Niger-Congo,Africa,false,,1,4,valid,bê ti lo ayeke sioni,,heart of him/her is bad,He/she is malicious or wicked-hearted.,everyday,current,medium
+s1_san_r1,san,Sango,Niger-Congo,Africa,false,,1,5,valid,bê ngangü,,heart hard,"Hard-heartedness, pitilessness, cruelty.",everyday,current,low
+s1_san_r1,san,Sango,Niger-Congo,Africa,false,,1,6,valid,wasioni,,agent-bad (one who does evil),"Evildoer, wicked person (also 'the Evil One' in religious usage).",formal_or_literary,current,low
+s1_san_r1,san,Sango,Niger-Congo,Africa,false,,1,7,valid,wali-kundu / zo ti likundu,,witch / person of witchcraft,"A witch, i.e. a person with an evil inner power. It is used as an accusation against someone thought to do monstrous, harmful things.",slang_or_insult,current,medium
+s1_shk_r1,shk,Shipibo-Konibo,Pano-Tacanan,South America,false,,1,1,valid,chaka,,bad / evil,"Bad, wicked, evil. Said of a person or a deed judged morally bad. It can be intensified to condemn especially wicked behaviour.",everyday,current,medium
+s1_shk_r1,shk,Shipibo-Konibo,Pano-Tacanan,South America,false,,1,2,valid,jakóma,,good-NEG (not good),"Bad, not good. A general term of disapproval for a person or an act. It is milder and less specific than a word for 'cruel'.",everyday,current,medium
+s1_shk_r1,shk,Shipibo-Konibo,Pano-Tacanan,South America,false,,1,3,valid,yoshin,,evil spirit / demon,Demon or evil spirit. Applying it to a person brands them as demonic or wicked. Its use as a personal condemnation is uncertain.,slang_or_insult,current,low
+s1_spa_r1,spa,Spanish,Indo-European,Eurasia,false,,1,1,valid,una barbaridad,,a barbarity,"an atrocious, outrageous act; something shockingly cruel or excessive",everyday,current,high
+s1_spa_r1,spa,Spanish,Indo-European,Eurasia,false,,1,2,valid,una salvajada,,a savage-act,"a brutal, savage act of cruelty or violence",everyday,current,high
+s1_spa_r1,spa,Spanish,Indo-European,Eurasia,false,,1,3,valid,una monstruosidad,,a monstrosity,"a monstrous, atrocious act",everyday,current,high
+s1_spa_r1,spa,Spanish,Indo-European,Eurasia,false,,1,4,valid,un monstruo,,a monster,a person who commits extraordinarily cruel acts,everyday,current,high
+s1_spa_r1,spa,Spanish,Indo-European,Eurasia,false,,1,5,valid,una atrocidad,,an atrocity,"an atrocious, extremely cruel act",everyday,current,high
+s1_spa_r1,spa,Spanish,Indo-European,Eurasia,false,,1,6,valid,una crueldad,,a cruelty,a cruel act,everyday,current,high
+s1_spa_r1,spa,Spanish,Indo-European,Eurasia,false,,1,7,valid,una animalada,,an animal-act,"a brutish, savage or senseless act, often violent",everyday,current,high
+s1_spa_r1,spa,Spanish,Indo-European,Eurasia,false,,1,8,valid,un salvaje,,a savage,"a brutal, cruel person",everyday,current,high
+s1_spa_r1,spa,Spanish,Indo-European,Eurasia,false,,1,9,valid,un animal,,an animal,"a brutish, violent person",slang_or_insult,current,high
+s1_spa_r1,spa,Spanish,Indo-European,Eurasia,false,,1,10,valid,un desalmado,,a de-souled (one),"a heartless, merciless person",everyday,current,high
+s1_spa_r1,spa,Spanish,Indo-European,Eurasia,false,,1,11,valid,no tener corazón,,not to have heart,"to be heartless, without compassion",everyday,current,high
+s1_spa_r1,spa,Spanish,Indo-European,Eurasia,false,,1,12,valid,un sádico,,a sadist,a person who enjoys inflicting cruelty,everyday,current,high
+s1_spa_r1,spa,Spanish,Indo-European,Eurasia,false,,1,13,valid,un hijo de puta,,a son of whore,"a vile, wicked person (strong insult, used for someone who has done something cruel)",slang_or_insult,current,high
+s1_spa_r1,spa,Spanish,Indo-European,Eurasia,false,,1,14,valid,tener mala leche,,to have bad milk,"to be ill-intentioned, malicious, spiteful",slang_or_insult,current,high
+s1_spa_r1,spa,Spanish,Indo-European,Eurasia,false,,1,15,valid,una canallada,,a scoundrel-act,"a vile, despicable, wicked act",everyday,current,high
+s1_swa_r1,swa,Swahili,Niger-Congo,Africa,false,,1,1,valid,katili / mkatili,,cruel / cruel person (m- person-class prefix + katili),"Cruel, merciless; a cruel, brutal person.",everyday,current,high
+s1_swa_r1,swa,Swahili,Niger-Congo,Africa,false,,1,2,valid,ukatili,,u- (abstract noun prefix) + cruel = cruelty,"Cruelty, brutality, used to condemn an act, e.g. 'huu ni ukatili' (this is cruelty).",everyday,current,high
+s1_swa_r1,swa,Swahili,Niger-Congo,Africa,false,,1,3,valid,unyama,,"u- (abstract prefix) + animal = animality, beastliness","Barbarity, an inhuman act, e.g. 'huu ni unyama'. Very common in Tanzanian speech and media for atrocious acts.",everyday,current,high
+s1_swa_r1,swa,Swahili,Niger-Congo,Africa,false,,1,4,valid,kinyama,,ki- (manner prefix) + animal = in an animal-like way,"Brutally, savagely, e.g. 'aliuawa kinyama' (he was killed brutally).",everyday,current,high
+s1_swa_r1,swa,Swahili,Niger-Congo,Africa,false,,1,5,valid,mnyama,,"animal, beast","Said of a person ('wewe ni mnyama', you are a beast) to brand them as inhumanly cruel.",slang_or_insult,current,high
+s1_swa_r1,swa,Swahili,Niger-Congo,Africa,false,,1,6,valid,roho mbaya,,soul/spirit bad,"Malice, wickedness, a cruel heart; 'ana roho mbaya' means he is malicious or wicked.",everyday,current,high
+s1_swa_r1,swa,Swahili,Niger-Congo,Africa,false,,1,7,valid,hana huruma,,he/she-has-not mercy/compassion,He or she is merciless or heartless.,everyday,current,high
+s1_swa_r1,swa,Swahili,Niger-Congo,Africa,false,,1,8,valid,hana utu,,"he/she-has-not humanity (utu = humaneness, personhood)","He or she lacks basic humanity, is inhuman.",everyday,current,high
+s1_swa_r1,swa,Swahili,Niger-Congo,Africa,false,,1,9,valid,mwovu / uovu,,"evil person / evil(ness) (from -ovu 'evil, bad')","A wicked person / wickedness, evil.",everyday,current,high
+s1_swa_r1,swa,Swahili,Niger-Congo,Africa,false,,1,10,valid,shetani,,"Satan, devil",Applied to a person ('ni shetani') to call them devilishly wicked.,slang_or_insult,current,high
+s1_swa_r1,swa,Swahili,Niger-Congo,Africa,false,,1,11,valid,dhalimu,,"oppressor, unjust one (Arabic loan)","A tyrant or oppressor who treats others cruelly and unjustly; also 'udhalimu', tyranny or cruelty.",formal_or_literary,current,high
+s1_swa_r1,swa,Swahili,Niger-Congo,Africa,false,,1,12,valid,ibilisi,,"devil (Arabic loan, Iblis)",Used of a person as an insult for extreme wickedness.,slang_or_insult,current,medium
+s1_swa_r1,swa,Swahili,Niger-Congo,Africa,false,,1,13,valid,moyo wa jiwe,,heart of stone,"Hard-hearted, pitiless.",everyday,current,medium
+s1_swa_r1,swa,Swahili,Niger-Congo,Africa,false,,1,14,valid,roho ya kinyama,,soul of beastly (kind),"A savage, beastly disposition; said of someone capable of atrocious cruelty.",everyday,current,medium
+s1_tag_r1,tag,Tagalog,Austronesian,Papunesia,false,,1,1,valid,malupit,,cruel (ma- adjective prefix + lupit 'cruelty'),Cruel or harsh; describes a person or act that inflicts suffering without mercy.,everyday,current,high
+s1_tag_r1,tag,Tagalog,Austronesian,Papunesia,false,,1,2,valid,walang puso,,without heart,"Heartless; callous and cruel, without compassion.",everyday,current,high
+s1_tag_r1,tag,Tagalog,Austronesian,Papunesia,false,,1,3,valid,walang awa,,without pity,"Merciless or pitiless; often used of brutal acts, e.g. 'walang awang pinatay' (killed mercilessly).",everyday,current,high
+s1_tag_r1,tag,Tagalog,Austronesian,Papunesia,false,,1,4,valid,hayop,,"animal, beast",Insult calling someone a beast for brutal or depraved behaviour; also used as an exclamation ('Hayop ka!').,slang_or_insult,current,high
+s1_tag_r1,tag,Tagalog,Austronesian,Papunesia,false,,1,5,valid,demonyo,,demon (from Spanish demonio),"Calls a person a devil, i.e. evil and wicked.",slang_or_insult,current,high
+s1_tag_r1,tag,Tagalog,Austronesian,Papunesia,false,,1,6,valid,halimaw,,"monster, beast","A monster; used of a person who commits monstrous, inhuman acts.",everyday,current,high
+s1_tag_r1,tag,Tagalog,Austronesian,Papunesia,false,,1,7,valid,masama,,bad (ma- + sama 'badness'),Bad or evil; 'masamang tao' means a wicked person. Intensified as 'napakasama' (extremely wicked).,everyday,current,high
+s1_tag_r1,tag,Tagalog,Austronesian,Papunesia,false,,1,8,valid,walang konsensya,,without conscience,Conscienceless; does evil without remorse.,everyday,current,high
+s1_tag_r1,tag,Tagalog,Austronesian,Papunesia,false,,1,9,valid,halang ang bituka,,crosswise the intestines,"Describes a ruthless, hardened person (typically a criminal) capable of killing without hesitation.",everyday,current,medium
+s1_tag_r1,tag,Tagalog,Austronesian,Papunesia,false,,1,10,valid,karumal-dumal,,heinous (reduplicated form related to dumal 'foulness'),"Heinous or atrocious; used especially of crimes, e.g. 'karumal-dumal na krimen'.",formal_or_literary,current,high
+s1_tag_r1,tag,Tagalog,Austronesian,Papunesia,false,,1,11,valid,kasuklam-suklam,,loathsome (reduplicated form of suklam 'loathing'),Abominable or detestable; describes a disgustingly evil act.,formal_or_literary,current,high
+s1_tag_r1,tag,Tagalog,Austronesian,Papunesia,false,,1,12,valid,salbahe,,savage (from Spanish salvaje),"Wicked, mean or nasty; ranges from naughty to cruel.",everyday,current,high
+s1_tag_r1,tag,Tagalog,Austronesian,Papunesia,false,,1,13,valid,berdugo,,executioner (from Spanish verdugo),A brutal tormentor or butcher; a person who cruelly abuses or kills others.,everyday,current,medium
+s1_tag_r1,tag,Tagalog,Austronesian,Papunesia,false,,1,14,valid,imbi,,"vile, base","Vile, mean or despicable in character.",formal_or_literary,current,medium
+s1_tag_r1,tag,Tagalog,Austronesian,Papunesia,false,,1,15,valid,buktot,,"wicked, crooked",Wicked or evil-minded; literary.,formal_or_literary,archaic,medium
+s1_tha_r1,tha,Thai,Tai-Kadai,Eurasia,false,,1,1,valid,เลว,leo,"bad, base","Wicked, rotten, morally bad. Used of a person or a deed. It is the most general everyday word of moral condemnation.",everyday,current,high
+s1_tha_r1,tha,Thai,Tai-Kadai,Eurasia,false,,1,2,valid,ใจร้าย,chai rai,heart fierce/bad,"Cruel, mean-hearted, unkind. It ranges from mild to strong depending on context.",everyday,current,high
+s1_tha_r1,tha,Thai,Tai-Kadai,Eurasia,false,,1,3,valid,ชั่ว,chua,"evil, bad","Evil, wicked. It is stronger than เลว and morally loaded, with Buddhist overtones of evil deeds.",everyday,current,high
+s1_tha_r1,tha,Thai,Tai-Kadai,Eurasia,false,,1,4,valid,โหดร้าย,hot rai,savage + fierce/bad,"Cruel, brutal. Typical of violent acts, abuse of animals and atrocities.",everyday,current,high
+s1_tha_r1,tha,Thai,Tai-Kadai,Eurasia,false,,1,5,valid,ชั่วช้า,chua cha,evil + base,"Utterly wicked, vile, villainous.",everyday,current,high
+s1_tha_r1,tha,Thai,Tai-Kadai,Eurasia,false,,1,6,valid,เลวทราม,leo sam,bad + low/vile,"Vile, despicable, morally depraved.",everyday,current,high
+s1_tha_r1,tha,Thai,Tai-Kadai,Eurasia,false,,1,7,valid,ใจดำ,chai dam,heart black,"Heartless, callous, having no pity for others' suffering.",everyday,current,high
+s1_tha_r1,tha,Thai,Tai-Kadai,Eurasia,false,,1,8,valid,เหี้ยมโหด,hiam hot,ruthless + savage,"Ruthlessly brutal, merciless. Common in news reports of murders and violent crimes.",everyday,current,high
+s1_tha_r1,tha,Thai,Tai-Kadai,Eurasia,false,,1,9,valid,อำมหิต,ammahit,ruthless/cruel (loan from Pali/Sanskrit),"Cold-bloodedly cruel, savage. Often used of killings, as in ฆาตกรรมอย่างอำมหิต 'savage murder'.",formal_or_literary,current,high
+s1_tha_r1,tha,Thai,Tai-Kadai,Eurasia,false,,1,10,valid,ทารุณ,tharun,"harsh, cruel (Sanskrit loan)","Cruel, inhumane in treatment, especially of animals, children or prisoners. Also found in ทารุณกรรม 'cruelty, abuse'.",formal_or_literary,current,high
+s1_tha_r1,tha,Thai,Tai-Kadai,Eurasia,false,,1,11,valid,ใจยักษ์ใจมาร,chai yak chai man,heart giant/ogre heart demon,"Demonically cruel-hearted, monstrous.",everyday,current,medium
+s1_tha_r1,tha,Thai,Tai-Kadai,Eurasia,false,,1,12,valid,สารเลว,san leo,substance/essence bad,"Scoundrel, bastard. A strong insult for a vile, wicked person.",slang_or_insult,current,high
+s1_tha_r1,tha,Thai,Tai-Kadai,Eurasia,false,,1,13,valid,ระยำ,rayam,"vile, damned","Despicable, vile. A coarse insult for a person or an act.",slang_or_insult,current,high
+s1_tha_r1,tha,Thai,Tai-Kadai,Eurasia,false,,1,14,valid,นรกส่งมาเกิด,narok song ma koet,hell sent come be-born,Spawn of hell. Said of someone so wicked they seem to have been sent from hell.,slang_or_insult,current,medium
+s1_tha_r1,tha,Thai,Tai-Kadai,Eurasia,false,,1,15,valid,เดรัจฉาน,deratchan,"beast, animal (lower being, Buddhist term)","Beast, brute. An insult for someone whose cruelty is seen as inhuman.",slang_or_insult,current,high
+s1_tur_r1,tur,Turkish,Altaic,Eurasia,false,,1,1,valid,vicdansız,,conscience-less,"Heartless, without conscience. Used of a person or act shockingly cruel or callous; a very common everyday condemnation.",everyday,current,high
+s1_tur_r1,tur,Turkish,Altaic,Eurasia,false,,1,2,valid,acımasız,,pity-less,"Merciless, ruthless. Used of a person or an act.",everyday,current,high
+s1_tur_r1,tur,Turkish,Altaic,Eurasia,false,,1,3,valid,zalim,,oppressor / cruel one (Arabic loan),"Cruel, tyrannical. A cruel person or oppressor, often used in exclamations ('Zalim!').",everyday,current,high
+s1_tur_r1,tur,Turkish,Altaic,Eurasia,false,,1,4,valid,canavar,,monster / wild beast,"Monster. Said of someone who commits an atrocious act, e.g. a murderer or child abuser.",everyday,current,high
+s1_tur_r1,tur,Turkish,Altaic,Eurasia,false,,1,5,valid,insafsız,,fairness/equity-less,"Merciless, unconscionable. Without any sense of fairness or compassion.",everyday,current,high
+s1_tur_r1,tur,Turkish,Altaic,Eurasia,false,,1,6,valid,zulüm,,oppression / cruelty,"Cruelty, atrocity, oppression. Used to condemn an act ('Bu ne zulüm!' 'What cruelty is this!').",everyday,current,high
+s1_tur_r1,tur,Turkish,Altaic,Eurasia,false,,1,7,valid,insanlık dışı,,humanity outside,Inhuman. Used of an act beyond the bounds of humane behaviour; common in news and everyday speech.,everyday,current,high
+s1_tur_r1,tur,Turkish,Altaic,Eurasia,false,,1,8,valid,kalpsiz,,heart-less,"Heartless, unfeeling, cruel.",everyday,current,high
+s1_tur_r1,tur,Turkish,Altaic,Eurasia,false,,1,9,valid,merhametsiz,,mercy-less,"Merciless, pitiless.",everyday,current,high
+s1_tur_r1,tur,Turkish,Altaic,Eurasia,false,,1,10,valid,gaddar,,cruel / treacherous one (Arabic loan),"Cruel, ruthless, brutal.",everyday,current,high
+s1_tur_r1,tur,Turkish,Altaic,Eurasia,false,,1,11,valid,vahşet,,savagery / wildness,"Savagery, atrocity. Used of a brutally cruel act such as a massacre or gruesome murder.",everyday,current,high
+s1_tur_r1,tur,Turkish,Altaic,Eurasia,false,,1,12,valid,alçak,,low,"Vile, despicable, base. Used of a wicked person or act; a strong insult.",slang_or_insult,current,high
+s1_tur_r1,tur,Turkish,Altaic,Eurasia,false,,1,13,valid,Allah'tan korkmaz,,God-from not-fear(s),"Godless, one who fears nothing. Describes someone capable of any wickedness; also used as the reproach 'Allah'tan korkmaz mısın?' ('Don't you fear God?').",everyday,current,high
+s1_tur_r1,tur,Turkish,Altaic,Eurasia,false,,1,14,valid,şeytan,,devil / Satan,"Devil. Said of a wicked, evil person (also used jokingly for a cunning person).",everyday,current,medium
+s1_tur_r1,tur,Turkish,Altaic,Eurasia,false,,1,15,valid,yezit,,Yazid (the Umayyad caliph blamed for the killing of Husayn at Karbala),"Evil, cruel, wicked person. A curse-like insult for someone malevolent.",slang_or_insult,current,medium
+s1_vie_r1,vie,Vietnamese,Austro-Asiatic,Eurasia,false,,1,1,valid,ác,,evil/cruel,"Cruel or wicked. The basic everyday word, often intensified (e.g. 'ác quá', 'ác thế').",everyday,current,high
+s1_vie_r1,vie,Vietnamese,Austro-Asiatic,Eurasia,false,,1,2,valid,độc ác,,poisonous evil,"Wicked, malicious, deliberately cruel. Used of people and their deeds.",everyday,current,high
+s1_vie_r1,vie,Vietnamese,Austro-Asiatic,Eurasia,false,,1,3,valid,tàn nhẫn,,cruel hard-hearted,"Ruthless, merciless, cruel without pity.",everyday,current,high
+s1_vie_r1,vie,Vietnamese,Austro-Asiatic,Eurasia,false,,1,4,valid,dã man,,wild barbarian,"Savage, barbaric. Used of atrocious, brutal acts. In slang it also works as an intensifier ('extremely').",everyday,current,high
+s1_vie_r1,vie,Vietnamese,Austro-Asiatic,Eurasia,false,,1,5,valid,thất đức,,lose virtue,"Wicked, heartless, morally depraved. Said of an act so bad it damages one's karma or invites retribution.",everyday,current,high
+s1_vie_r1,vie,Vietnamese,Austro-Asiatic,Eurasia,false,,1,6,valid,ác độc,,evil poisonous,"Vicious, wicked. A near-synonym of 'độc ác'.",everyday,current,high
+s1_vie_r1,vie,Vietnamese,Austro-Asiatic,Eurasia,false,,1,7,valid,tàn ác,,cruel evil,"Brutally cruel, atrocious.",everyday,current,high
+s1_vie_r1,vie,Vietnamese,Austro-Asiatic,Eurasia,false,,1,8,valid,vô nhân tính,,without human nature,Inhuman. Describes acts so cruel they lack all humanity.,everyday,current,high
+s1_vie_r1,vie,Vietnamese,Austro-Asiatic,Eurasia,false,,1,9,valid,táng tận lương tâm,,lose entirely good heart/conscience,"Utterly devoid of conscience. A strong condemnation of monstrous acts, common in the press.",formal_or_literary,current,high
+s1_vie_r1,vie,Vietnamese,Austro-Asiatic,Eurasia,false,,1,10,valid,man rợ,,barbarian savage,"Barbaric, savage, horrifyingly brutal.",everyday,current,high
+s1_vie_r1,vie,Vietnamese,Austro-Asiatic,Eurasia,false,,1,11,valid,tàn bạo,,cruel violent,"Brutal, tyrannical, violently cruel.",formal_or_literary,current,high
+s1_vie_r1,vie,Vietnamese,Austro-Asiatic,Eurasia,false,,1,12,valid,lòng lang dạ thú,,heart wolf belly beast,"Having the heart of a wolf and the guts of a beast, i.e. a savagely cruel, inhuman character.",formal_or_literary,current,high
+s1_vie_r1,vie,Vietnamese,Austro-Asiatic,Eurasia,false,,1,13,valid,đồ súc sinh,,thing/type livestock-beast,You beast! An insult for someone whose cruelty makes them less than human.,slang_or_insult,current,high
+s1_vie_r1,vie,Vietnamese,Austro-Asiatic,Eurasia,false,,1,14,valid,ác ôn,,evil pestilence,"A vicious, brutal thug or tyrant. Also an adjective for extremely cruel behaviour. Associated with wartime oppressors.",everyday,current,medium
+s1_vie_r1,vie,Vietnamese,Austro-Asiatic,Eurasia,false,,1,15,valid,vô lương tâm,,without conscience,"Conscienceless, heartless. Said of someone who does cruel or wicked things without remorse.",everyday,current,high
+s1_yor_r1,yor,Yoruba,Niger-Congo,Africa,false,,1,1,valid,ìkà,,wickedness/cruelty,"Wickedness or cruelty. Used as a predicate for a person or act, e.g. 'ìkà ni ọ́' ('you are wicked').",everyday,current,high
+s1_yor_r1,yor,Yoruba,Niger-Congo,Africa,false,,1,2,valid,ọ̀ṣìkà,,one-who-does-wickedness,"A wicked, cruel person. A very common accusation: 'ọ̀ṣìkà ni ẹ́!'",everyday,current,high
+s1_yor_r1,yor,Yoruba,Niger-Congo,Africa,false,,1,3,valid,ìwà ìkà,,character/behaviour (of) wickedness,A wicked or cruel act or behaviour.,everyday,current,high
+s1_yor_r1,yor,Yoruba,Niger-Congo,Africa,false,,1,4,valid,aṣebi,,one-who-does-evil,"An evildoer, a malicious person.",everyday,current,high
+s1_yor_r1,yor,Yoruba,Niger-Congo,Africa,false,,1,5,valid,ẹni ibi,,person (of) evil,An evil person.,everyday,current,high
+s1_yor_r1,yor,Yoruba,Niger-Congo,Africa,false,,1,6,valid,òǹrorò,,harsh/cruel one,"A cruel, harsh, merciless person.",everyday,current,medium
+s1_yor_r1,yor,Yoruba,Niger-Congo,Africa,false,,1,7,valid,ọ̀dájú,,one-whose-eyes/face-are-hard (dá + ojú),"A heartless, callous, unfeeling person who shows no shame or pity.",everyday,current,medium
+s1_yor_r1,yor,Yoruba,Niger-Congo,Africa,false,,1,8,valid,èèyàn burúkú,,person bad,A bad or wicked person.,everyday,current,high
+s1_yor_r1,yor,Yoruba,Niger-Congo,Africa,false,,1,9,valid,aláìláàánú,,one-without-mercy,"A merciless, pitiless person.",everyday,current,medium
+s1_yor_r1,yor,Yoruba,Niger-Congo,Africa,false,,1,10,valid,kò ní ẹ̀rí ọkàn,,not have witness (of) heart,He or she has no conscience. Said of someone who does something cruel without remorse.,everyday,current,medium
+s1_yor_r1,yor,Yoruba,Niger-Congo,Africa,false,,1,11,valid,ọkàn líle,,heart hard,"Hard-heartedness, callousness, e.g. 'ó ní ọkàn líle' ('he has a hard heart').",everyday,current,medium
+s1_yor_r1,yor,Yoruba,Niger-Congo,Africa,false,,1,12,valid,ẹranko,,animal/beast,'Beast'. An insult for someone who behaves inhumanly or cruelly.,slang_or_insult,current,medium
+s1_yor_r1,yor,Yoruba,Niger-Congo,Africa,false,,1,13,valid,èṣù,,"Esu (the trickster deity, glossed as 'devil' in Christian/Muslim usage)","'Devil'. An insult for an extremely wicked person, e.g. 'èṣù ni ọ́'.",slang_or_insult,current,medium
+s1_yor_r1,yor,Yoruba,Niger-Congo,Africa,false,,1,14,valid,àjẹ́,,witch,'Witch'. Used as an accusation against a person seen as malevolently destructive toward others.,slang_or_insult,current,medium
+s1_yor_r1,yor,Yoruba,Niger-Congo,Africa,false,,1,15,valid,aṣèkà,,one-who-does-wickedness,"A wicked person, a variant formation alongside ọ̀ṣìkà.",everyday,current,medium
+s1_zul_r1,zul,Zulu,Niger-Congo,Africa,false,,1,1,valid,unonya,,"he/she-has-cruelty (u- 'he/she is' + -nonya 'with cruelty', from unya 'cruelty')","He/she is cruel, merciless. The noun unya means 'cruelty' and is applied to both acts and people.",everyday,current,high
+s1_zul_r1,zul,Zulu,Niger-Congo,Africa,false,,1,2,valid,isihluku,,brutality/atrocity,"A brutal, savage act or atrocity. It is also used in 'unesihluku' ('he/she is brutal') and for horrific crimes.",everyday,current,high
+s1_zul_r1,zul,Zulu,Niger-Congo,Africa,false,,1,3,valid,ukhohlakele / umkhohlakali,,"he/she-is-wicked / wicked-person (from -khohlakala 'be wicked, cruel, depraved')","He/she is wicked or cruel. The noun form means a wicked, heartless person.",everyday,current,high
+s1_zul_r1,zul,Zulu,Niger-Congo,Africa,false,,1,4,valid,ububi,,badness/evil (ubu- abstract + -bi 'bad'),"Evil, wickedness. It refers to a wicked deed or nature, as in 'lobu ngububi' ('this is evil').",everyday,current,high
+s1_zul_r1,zul,Zulu,Niger-Congo,Africa,false,,1,5,valid,isilwane,,wild animal/beast,Used of a person ('you beast!') who behaves with inhuman cruelty.,slang_or_insult,current,high
+s1_zul_r1,zul,Zulu,Niger-Congo,Africa,false,,1,6,valid,umthakathi,,witch/sorcerer,"Literally a witch. As a condemnation, it labels someone as an evil, malicious person who harms others.",slang_or_insult,current,medium
+s1_zul_r1,zul,Zulu,Niger-Congo,Africa,false,,1,7,valid,isigebengu,,criminal/thug,A violent criminal or thug. It is used to condemn someone who commits vicious acts.,everyday,current,high
+s1_zul_r1,zul,Zulu,Niger-Congo,Africa,false,,1,8,valid,akanalo uzwelo,,he/she-does-not-have-it compassion,He/she has no compassion or pity; he/she is heartless.,everyday,current,high
+s1_zul_r1,zul,Zulu,Niger-Congo,Africa,false,,1,9,valid,unenhliziyo embi,,he/she-has heart bad,"He/she has a bad, wicked heart; is malicious.",everyday,current,medium
+s1_zul_r1,zul,Zulu,Niger-Congo,Africa,false,,1,10,valid,isidlwangudlwangu,,brute/violent person,"A brutal, violent, bullying person.",everyday,current,medium
+s1_zul_r1,zul,Zulu,Niger-Congo,Africa,false,,1,11,valid,isiqhwaga,,ruffian/thug,A ruthless ruffian or hooligan who commits violence.,everyday,current,medium
+s1_zul_r1,zul,Zulu,Niger-Congo,Africa,false,,1,12,valid,uSathane,,Satan,Calling someone 'Satan/devil' to condemn them as utterly wicked.,slang_or_insult,current,medium
+s1_zul_r1,zul,Zulu,Niger-Congo,Africa,false,,1,13,valid,ukuhlukumeza,,to abuse/maltreat,"Cruel abuse or maltreatment of someone. It is used to condemn abusive acts, e.g. against children or women.",everyday,current,high

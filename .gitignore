@@ -1,0 +1,13 @@
+# API key: never commit
+key.txt
+.env
+
+# Local working files, not part of the published study
+brief.md
+_archive/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/

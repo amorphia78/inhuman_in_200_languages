@@ -1,0 +1,201 @@
+﻿wals_code,name,family,genus,macroarea,countries,prompt_identifier,wals_sample_100,wals_sample_200,is_control,control_role,inclusion_reason
+abi,Abipón,Guaicuruan,Abipon,South America,Argentina,genus: Abipon; family: Guaicuruan; spoken in: Argentina,false,true,false,,WALS 200-language sample
+abk,Abkhaz,Northwest Caucasian,Northwest Caucasian,Eurasia,Georgia,family: Northwest Caucasian; spoken in: Georgia,true,true,false,,WALS 200-language sample
+aco,Acoma,Keresan,Keresan,North America,United States,family: Keresan; spoken in: United States,true,true,false,,WALS 200-language sample
+ain,Ainu,Ainu,Ainu,Eurasia,Japan,family: Ainu; spoken in: Japan,false,true,false,,WALS 200-language sample
+ala,Alamblak,Sepik,Sepik Hill,Papunesia,Papua New Guinea,genus: Sepik Hill; family: Sepik; spoken in: Papua New Guinea,true,true,false,,WALS 200-language sample
+ame,Amele,Trans-New Guinea,Mabuso,Papunesia,Papua New Guinea,genus: Mabuso; family: Trans-New Guinea; spoken in: Papua New Guinea,true,true,false,,WALS 200-language sample
+apu,Apurinã,Arawakan,Purus,South America,Brazil,genus: Purus; family: Arawakan; spoken in: Brazil,true,true,false,,WALS 200-language sample
+aeg,Arabic (Egyptian),Afro-Asiatic,Semitic,Africa,Egypt,genus: Semitic; family: Afro-Asiatic; spoken in: Egypt,true,true,false,,WALS 200-language sample
+ana,Araona,Pano-Tacanan,Tacanan,South America,Bolivia,genus: Tacanan; family: Pano-Tacanan; spoken in: Bolivia,false,true,false,,WALS 200-language sample
+arp,Arapesh (Mountain),Torricelli,Kombio-Arapesh,Papunesia,Papua New Guinea,genus: Kombio-Arapesh; family: Torricelli; spoken in: Papua New Guinea,true,true,false,,WALS 200-language sample
+arm,Armenian (Eastern),Indo-European,Armenian,Eurasia,Armenia,genus: Armenian; family: Indo-European; spoken in: Armenia,false,true,false,,WALS 200-language sample
+asm,Asmat,Asmat-Kamrau Bay,Asmat-Kamrau Bay,Papunesia,Indonesia,family: Asmat-Kamrau Bay; spoken in: Indonesia,true,true,false,,WALS 200-language sample
+awp,Awa Pit,Barbacoan,Barbacoan,South America,"Ecuador, Colombia","family: Barbacoan; spoken in: Ecuador, Colombia",false,true,false,,WALS 200-language sample
+aym,Aymara (Central),Aymaran,Aymaran,South America,"Chile, Bolivia, Peru","family: Aymaran; spoken in: Chile, Bolivia, Peru",false,true,false,,WALS 200-language sample
+bag,Bagirmi,Central Sudanic,Bongo-Bagirmi,Africa,Chad,genus: Bongo-Bagirmi; family: Central Sudanic; spoken in: Chad,true,true,false,,WALS 200-language sample
+bam,Bambara,Mande,Western Mande,Africa,Mali,genus: Western Mande; family: Mande; spoken in: Mali,false,true,false,,WALS 200-language sample
+brs,Barasano,Tucanoan,Tucanoan,South America,Colombia,family: Tucanoan; spoken in: Colombia,true,true,false,,WALS 200-language sample
+bsq,Basque,Basque,Basque,Eurasia,"France, Spain","family: Basque; spoken in: France, Spain",true,true,false,,WALS 200-language sample
+bkr,Batak (Karo),Austronesian,Northwest Sumatra-Barrier Islands,Papunesia,Indonesia,genus: Northwest Sumatra-Barrier Islands; family: Austronesian; spoken in: Indonesia,false,true,false,,WALS 200-language sample
+baw,Bawm,Sino-Tibetan,Kuki-Chin,Eurasia,"Bangladesh, India, Myanmar","genus: Kuki-Chin; family: Sino-Tibetan; spoken in: Bangladesh, India, Myanmar",false,true,false,,WALS 200-language sample
+bej,Beja,Afro-Asiatic,Beja,Africa,"Eritrea, Sudan","genus: Beja; family: Afro-Asiatic; spoken in: Eritrea, Sudan",false,true,false,,WALS 200-language sample
+bma,Berber (Middle Atlas),Afro-Asiatic,Berber,Africa,Morocco,genus: Berber; family: Afro-Asiatic; spoken in: Morocco,true,true,false,,WALS 200-language sample
+brh,Brahui,Dravidian,Dravidian,Eurasia,Pakistan,family: Dravidian; spoken in: Pakistan,false,true,false,,WALS 200-language sample
+bri,Bribri,Chibchan,Western Isthmic Chibchan,North America,Costa Rica,genus: Western Isthmic Chibchan; family: Chibchan; spoken in: Costa Rica,false,true,false,,WALS 200-language sample
+brm,Burmese,Sino-Tibetan,Burmese-Lolo,Eurasia,Myanmar,genus: Burmese-Lolo; family: Sino-Tibetan; spoken in: Myanmar,true,true,false,,WALS 200-language sample
+bur,Burushaski,Burushaski,Burushaski,Eurasia,Pakistan,family: Burushaski; spoken in: Pakistan,true,true,false,,WALS 200-language sample
+cah,Cahuilla,Uto-Aztecan,Northern Uto-Aztecan,North America,United States,genus: Northern Uto-Aztecan; family: Uto-Aztecan; spoken in: United States,false,true,false,,WALS 200-language sample
+cnl,Canela,Macro-Ge,Je Setentrional,South America,Brazil,genus: Je Setentrional; family: Macro-Ge; spoken in: Brazil,true,true,false,,WALS 200-language sample
+car,Carib,Cariban,Cariban,South America,Suriname,family: Cariban; spoken in: Suriname,false,true,false,,WALS 200-language sample
+cyv,Cayuvava,Cayuvava,Cayuvava,South America,Bolivia,family: Cayuvava; spoken in: Bolivia,false,true,false,,WALS 200-language sample
+cha,Chamorro,Austronesian,Chamorro,Papunesia,Guam,genus: Chamorro; family: Austronesian; spoken in: Guam,true,true,false,,WALS 200-language sample
+cle,Chinantec (Lealao),Oto-Manguean,Chinantecan,North America,Mexico,genus: Chinantecan; family: Oto-Manguean; spoken in: Mexico,false,true,false,,WALS 200-language sample
+chk,Chukchi,Chukotko-Kamchatkan,Northern Chukotko-Kamchatkan,Eurasia,Russia,genus: Northern Chukotko-Kamchatkan; family: Chukotko-Kamchatkan; spoken in: Russia,true,true,false,,WALS 200-language sample
+cmn,Comanche,Uto-Aztecan,Northern Uto-Aztecan,North America,United States,genus: Northern Uto-Aztecan; family: Uto-Aztecan; spoken in: United States,false,true,false,,WALS 200-language sample
+coo,Coos (Hanis),Oregon Coast,Coosan,North America,United States,genus: Coosan; family: Oregon Coast; spoken in: United States,false,true,false,,WALS 200-language sample
+cre,Cree (Plains),Algic,Algonquian,North America,Canada,genus: Algonquian; family: Algic; spoken in: Canada,true,true,false,,WALS 200-language sample
+dag,Daga,Trans-New Guinea,Dagan,Papunesia,Papua New Guinea,genus: Dagan; family: Trans-New Guinea; spoken in: Papua New Guinea,true,true,false,,WALS 200-language sample
+dni,Dani (Lower Grand Valley),Trans-New Guinea,Dani,Papunesia,Indonesia,genus: Dani; family: Trans-New Guinea; spoken in: Indonesia,true,true,false,,WALS 200-language sample
+dio,Diola-Fogny,Niger-Congo,Jola,Africa,"Gambia, Senegal","genus: Jola; family: Niger-Congo; spoken in: Gambia, Senegal",false,true,false,,WALS 200-language sample
+dre,Drehu,Austronesian,Oceanic,Papunesia,New Caledonia,genus: Oceanic; family: Austronesian; spoken in: New Caledonia,false,true,false,,WALS 200-language sample
+eka,Ekari,Trans-New Guinea,Paniai Lakes,Papunesia,Indonesia,genus: Paniai Lakes; family: Trans-New Guinea; spoken in: Indonesia,false,true,false,,WALS 200-language sample
+eng,English,Indo-European,Germanic,Eurasia,"Ireland, United Kingdom","genus: Germanic; family: Indo-European; spoken in: Ireland, United Kingdom",true,true,true,known_language,WALS 200-language sample
+epe,Epena Pedee,Choco,Choco,South America,Colombia,family: Choco; spoken in: Colombia,false,true,false,,WALS 200-language sample
+eve,Evenki,Altaic,Tungusic,Eurasia,Russia,genus: Tungusic; family: Altaic; spoken in: Russia,false,true,false,,WALS 200-language sample
+ewe,Ewe,Niger-Congo,Gbe,Africa,"Togo, Ghana","genus: Gbe; family: Niger-Congo; spoken in: Togo, Ghana",false,true,false,,WALS 200-language sample
+fij,Fijian,Austronesian,Oceanic,Papunesia,Fiji,genus: Oceanic; family: Austronesian; spoken in: Fiji,true,true,false,,WALS 200-language sample
+fin,Finnish,Uralic,Finnic,Eurasia,Finland,genus: Finnic; family: Uralic; spoken in: Finland,true,true,false,,WALS 200-language sample
+fre,French,Indo-European,Romance,Eurasia,"Switzerland, France","genus: Romance; family: Indo-European; spoken in: Switzerland, France",true,true,false,,WALS 200-language sample
+fur,Fur,Fur,Fur,Africa,Sudan,family: Fur; spoken in: Sudan,false,true,false,,WALS 200-language sample
+gar,Garo,Sino-Tibetan,Brahmaputran,Eurasia,India,genus: Brahmaputran; family: Sino-Tibetan; spoken in: India,false,true,false,,WALS 200-language sample
+geo,Georgian,Kartvelian,Kartvelian,Eurasia,Georgia,family: Kartvelian; spoken in: Georgia,true,true,false,,WALS 200-language sample
+ger,German,Indo-European,Germanic,Eurasia,"Switzerland, Germany, Austria","genus: Germanic; family: Indo-European; spoken in: Switzerland, Germany, Austria",true,true,true,known_language,WALS 200-language sample
+goo,Gooniyandi,Bunuban,Bunuban,Australia,Australia,family: Bunuban; spoken in: Australia,true,true,false,,WALS 200-language sample
+grb,Grebo,Niger-Congo,Kru,Africa,Liberia,genus: Kru; family: Niger-Congo; spoken in: Liberia,true,true,false,,WALS 200-language sample
+grk,Greek (Modern),Indo-European,Greek,Eurasia,Greece,genus: Greek; family: Indo-European; spoken in: Greece,true,true,false,,WALS 200-language sample
+grw,Greenlandic (West),Eskimo-Aleut,Eskimo,Eurasia,Greenland,genus: Eskimo; family: Eskimo-Aleut; spoken in: Greenland,true,true,false,,WALS 200-language sample
+gua,Guaraní,Tupian,Maweti-Guarani,South America,Paraguay,genus: Maweti-Guarani; family: Tupian; spoken in: Paraguay,true,true,false,,WALS 200-language sample
+hai,Haida,Haida,Haida,North America,"Canada, United States","family: Haida; spoken in: Canada, United States",false,true,false,,WALS 200-language sample
+ham,Hamtai,Trans-New Guinea,Nuclear Angan,Papunesia,Papua New Guinea,genus: Nuclear Angan; family: Trans-New Guinea; spoken in: Papua New Guinea,false,true,false,,WALS 200-language sample
+hau,Hausa,Afro-Asiatic,West Chadic,Africa,"Nigeria, Niger","genus: West Chadic; family: Afro-Asiatic; spoken in: Nigeria, Niger",true,true,false,,WALS 200-language sample
+heb,Hebrew (Modern),Afro-Asiatic,Semitic,Eurasia,Israel,genus: Semitic; family: Afro-Asiatic; spoken in: Israel,true,true,false,,WALS 200-language sample
+hin,Hindi,Indo-European,Indic,Eurasia,India,genus: Indic; family: Indo-European; spoken in: India,true,true,false,,WALS 200-language sample
+hix,Hixkaryana,Cariban,Cariban,South America,Brazil,family: Cariban; spoken in: Brazil,true,true,false,,WALS 200-language sample
+hmo,Hmong Njua,Hmong-Mien,Hmongic,Eurasia,China,genus: Hmongic; family: Hmong-Mien; spoken in: China,true,true,false,,WALS 200-language sample
+hmi,Huitoto (Minica),Witotoan,Witoto,South America,Colombia,genus: Witoto; family: Witotoan; spoken in: Colombia,false,true,false,,WALS 200-language sample
+hun,Hungarian,Uralic,Ugric,Eurasia,Hungary,genus: Ugric; family: Uralic; spoken in: Hungary,false,true,false,,WALS 200-language sample
+hzb,Hunzib,Nakh-Daghestanian,Avar-Andic-Tsezic,Eurasia,Russia,genus: Avar-Andic-Tsezic; family: Nakh-Daghestanian; spoken in: Russia,false,true,false,,WALS 200-language sample
+igb,Igbo,Niger-Congo,Igboid,Africa,Nigeria,genus: Igboid; family: Niger-Congo; spoken in: Nigeria,false,true,false,,WALS 200-language sample
+ika,Ika,Chibchan,Arhuacic,South America,Colombia,genus: Arhuacic; family: Chibchan; spoken in: Colombia,false,true,false,,WALS 200-language sample
+imo,Imonda,Border,Border,Papunesia,Papua New Guinea,family: Border; spoken in: Papua New Guinea,true,true,false,,WALS 200-language sample
+ind,Indonesian,Austronesian,Malayo-Sumbawan,Papunesia,Indonesia,genus: Malayo-Sumbawan; family: Austronesian; spoken in: Indonesia,true,true,false,,WALS 200-language sample
+ing,Ingush,Nakh-Daghestanian,Nakh,Eurasia,Russia,genus: Nakh; family: Nakh-Daghestanian; spoken in: Russia,false,true,false,,WALS 200-language sample
+irq,Iraqw,Afro-Asiatic,Southern Cushitic,Africa,Tanzania,genus: Southern Cushitic; family: Afro-Asiatic; spoken in: Tanzania,false,true,false,,WALS 200-language sample
+iri,Irish,Indo-European,Celtic,Eurasia,Ireland,genus: Celtic; family: Indo-European; spoken in: Ireland,false,true,false,,WALS 200-language sample
+jak,Jakaltek,Mayan,Mayan,North America,Guatemala,family: Mayan; spoken in: Guatemala,true,true,false,,WALS 200-language sample
+jpn,Japanese,Japanese,Japanese,Eurasia,Japan,family: Japanese; spoken in: Japan,true,true,false,,WALS 200-language sample
+juh,Ju|'hoan,Kxa,Ju-Kung,Africa,"Angola, Namibia, Botswana","genus: Ju-Kung; family: Kxa; spoken in: Angola, Namibia, Botswana",false,true,false,,WALS 200-language sample
+knd,Kannada,Dravidian,Dravidian,Eurasia,India,family: Dravidian; spoken in: India,true,true,false,,WALS 200-language sample
+knr,Kanuri,Saharan,Western Saharan,Africa,"Nigeria, Chad, Niger, Sudan","genus: Western Saharan; family: Saharan; spoken in: Nigeria, Chad, Niger, Sudan",false,true,false,,WALS 200-language sample
+krk,Karok,Hokan,Karok,North America,United States,genus: Karok; family: Hokan; spoken in: United States,true,true,false,,WALS 200-language sample
+kyl,Kayah Li (Eastern),Sino-Tibetan,Karen,Eurasia,"Thailand, Myanmar","genus: Karen; family: Sino-Tibetan; spoken in: Thailand, Myanmar",false,true,false,,WALS 200-language sample
+kay,Kayardild,Tangkic,Tangkic,Australia,Australia,family: Tangkic; spoken in: Australia,true,true,false,,WALS 200-language sample
+ker,Kera,Afro-Asiatic,East Chadic,Africa,Chad,genus: East Chadic; family: Afro-Asiatic; spoken in: Chad,false,true,false,,WALS 200-language sample
+ket,Ket,Yeniseian,Yeniseian,Eurasia,Russia,family: Yeniseian; spoken in: Russia,false,true,false,,WALS 200-language sample
+kew,Kewa,Trans-New Guinea,Enga_Kewa-Huli,Papunesia,Papua New Guinea,genus: Enga_Kewa-Huli; family: Trans-New Guinea; spoken in: Papua New Guinea,true,true,false,,WALS 200-language sample
+kha,Khalkha,Altaic,Mongolic,Eurasia,Mongolia,genus: Mongolic; family: Altaic; spoken in: Mongolia,true,true,false,,WALS 200-language sample
+khs,Khasi,Austro-Asiatic,Khasian,Eurasia,India,genus: Khasian; family: Austro-Asiatic; spoken in: India,false,true,false,,WALS 200-language sample
+khm,Khmer,Austro-Asiatic,Khmer,Eurasia,Cambodia,genus: Khmer; family: Austro-Asiatic; spoken in: Cambodia,false,true,false,,WALS 200-language sample
+kmu,Khmu',Austro-Asiatic,Khmuic,Eurasia,Laos,genus: Khmuic; family: Austro-Asiatic; spoken in: Laos,false,true,false,,WALS 200-language sample
+klv,Kilivila,Austronesian,Oceanic,Papunesia,Papua New Guinea,genus: Oceanic; family: Austronesian; spoken in: Papua New Guinea,false,true,false,,WALS 200-language sample
+kio,Kiowa,Kiowa-Tanoan,Kiowa-Tanoan,North America,United States,family: Kiowa-Tanoan; spoken in: United States,true,true,false,,WALS 200-language sample
+krb,Kiribati,Austronesian,Oceanic,Papunesia,Kiribati,genus: Oceanic; family: Austronesian; spoken in: Kiribati,false,true,false,,WALS 200-language sample
+koa,Koasati,Muskogean,Muskogean,North America,United States,family: Muskogean; spoken in: United States,true,true,false,,WALS 200-language sample
+kob,Kobon,Trans-New Guinea,Kalam-Kobon,Papunesia,Papua New Guinea,genus: Kalam-Kobon; family: Trans-New Guinea; spoken in: Papua New Guinea,false,true,false,,WALS 200-language sample
+kon,Kongo,Niger-Congo,Bantu,Africa,Democratic Republic of Congo,genus: Bantu; family: Niger-Congo; spoken in: Democratic Republic of Congo,false,true,false,,WALS 200-language sample
+kor,Korean,Korean,Korean,Eurasia,"South Korea, North Korea","family: Korean; spoken in: South Korea, North Korea",true,true,false,,WALS 200-language sample
+kfe,Koromfe,Niger-Congo,Koromfe,Africa,"Burkina Faso, Mali","genus: Koromfe; family: Niger-Congo; spoken in: Burkina Faso, Mali",false,true,false,,WALS 200-language sample
+kse,Koyraboro Senni,Songhay,Songhay,Africa,"Mali, Niger","family: Songhay; spoken in: Mali, Niger",true,true,false,,WALS 200-language sample
+kro,Krongo,Kadu,Kadugli,Africa,Sudan,genus: Kadugli; family: Kadu; spoken in: Sudan,true,true,false,,WALS 200-language sample
+knm,Kunama,Kunama,Kunama,Africa,"Ethiopia, Eritrea","family: Kunama; spoken in: Ethiopia, Eritrea",false,true,false,,WALS 200-language sample
+kut,Kutenai,Kutenai,Kutenai,North America,"Canada, United States","family: Kutenai; spoken in: Canada, United States",true,true,false,,WALS 200-language sample
+lad,Ladakhi,Sino-Tibetan,Bodic,Eurasia,India,genus: Bodic; family: Sino-Tibetan; spoken in: India,false,true,false,,WALS 200-language sample
+lak,Lak,Nakh-Daghestanian,Lak,Eurasia,Russia,genus: Lak; family: Nakh-Daghestanian; spoken in: Russia,false,true,false,,WALS 200-language sample
+lkt,Lakhota,Siouan,Mississippi Valley Siouan,North America,United States,genus: Mississippi Valley Siouan; family: Siouan; spoken in: United States,true,true,false,,WALS 200-language sample
+lan,Lango,Eastern Sudanic,Western Nilotic,Africa,Uganda,genus: Western Nilotic; family: Eastern Sudanic; spoken in: Uganda,true,true,false,,WALS 200-language sample
+lat,Latvian,Indo-European,Baltic,Eurasia,Latvia,genus: Baltic; family: Indo-European; spoken in: Latvia,false,true,false,,WALS 200-language sample
+lav,Lavukaleve,Solomons East Papuan,Lavukaleve,Papunesia,Solomon Islands,genus: Lavukaleve; family: Solomons East Papuan; spoken in: Solomon Islands,true,true,false,,WALS 200-language sample
+lep,Lepcha,Sino-Tibetan,Himalayish,Eurasia,"Bhutan, India, Nepal","genus: Himalayish; family: Sino-Tibetan; spoken in: Bhutan, India, Nepal",false,true,false,,WALS 200-language sample
+lez,Lezgian,Nakh-Daghestanian,Lezgic,Eurasia,"Azerbaijan, Russia","genus: Lezgic; family: Nakh-Daghestanian; spoken in: Azerbaijan, Russia",true,true,false,,WALS 200-language sample
+luv,Luvale,Niger-Congo,Bantu,Africa,Angola,genus: Bantu; family: Niger-Congo; spoken in: Angola,true,true,false,,WALS 200-language sample
+mab,Maba,Maban,Maban,Africa,Chad,family: Maban; spoken in: Chad,false,true,false,,WALS 200-language sample
+mak,Makah,Wakashan,Southern Wakashan,North America,United States,genus: Southern Wakashan; family: Wakashan; spoken in: United States,true,true,false,,WALS 200-language sample
+mal,Malagasy,Austronesian,Barito,Africa,Madagascar,genus: Barito; family: Austronesian; spoken in: Madagascar,true,true,false,,WALS 200-language sample
+mnd,Mandarin,Sino-Tibetan,Chinese,Eurasia,China,genus: Chinese; family: Sino-Tibetan; spoken in: China,true,true,true,known_language,WALS 200-language sample
+myi,Mangarrayi,Mangarrayi-Maran,Mangarrayi,Australia,Australia,genus: Mangarrayi; family: Mangarrayi-Maran; spoken in: Australia,true,true,false,,WALS 200-language sample
+mao,Maori,Austronesian,Oceanic,Papunesia,New Zealand,genus: Oceanic; family: Austronesian; spoken in: New Zealand,false,true,false,,WALS 200-language sample
+map,Mapudungun,Araucanian,Araucanian,South America,Chile,family: Araucanian; spoken in: Chile,true,true,false,,WALS 200-language sample
+mku,Maranungku,Western Daly,Wagaydy,Australia,Australia,genus: Wagaydy; family: Western Daly; spoken in: Australia,false,true,false,,WALS 200-language sample
+mar,Maricopa,Hokan,Yuman,North America,United States,genus: Yuman; family: Hokan; spoken in: United States,true,true,false,,WALS 200-language sample
+mrd,Marind,Trans-New Guinea,Marind-Yaqay,Papunesia,Indonesia,genus: Marind-Yaqay; family: Trans-New Guinea; spoken in: Indonesia,false,true,false,,WALS 200-language sample
+mrt,Martuthunira,Pama-Nyungan,Western Pama-Nyungan,Australia,Australia,genus: Western Pama-Nyungan; family: Pama-Nyungan; spoken in: Australia,true,true,false,,WALS 200-language sample
+mau,Maung,Iwaidjan,Iwaidjan,Australia,Australia,family: Iwaidjan; spoken in: Australia,true,true,false,,WALS 200-language sample
+may,Maybrat,Maybrat,Maybrat,Papunesia,Indonesia,family: Maybrat; spoken in: Indonesia,true,true,false,,WALS 200-language sample
+mei,Meithei,Sino-Tibetan,Manipuri,Eurasia,India,genus: Manipuri; family: Sino-Tibetan; spoken in: India,true,true,false,,WALS 200-language sample
+mss,Miwok (Southern Sierra),Penutian,Miwok,North America,United States,genus: Miwok; family: Penutian; spoken in: United States,false,true,false,,WALS 200-language sample
+mxc,Mixtec (Chalcatongo),Oto-Manguean,Mixtec,North America,Mexico,genus: Mixtec; family: Oto-Manguean; spoken in: Mexico,true,true,false,,WALS 200-language sample
+mun,Mundari,Austro-Asiatic,Munda,Eurasia,India,genus: Munda; family: Austro-Asiatic; spoken in: India,false,true,false,,WALS 200-language sample
+mrl,Murle,Eastern Sudanic,South Surmic,Africa,South Sudan,genus: South Surmic; family: Eastern Sudanic; spoken in: South Sudan,false,true,false,,WALS 200-language sample
+nht,Nahuatl (Tetelcingo),Uto-Aztecan,Aztecan,North America,Mexico,genus: Aztecan; family: Uto-Aztecan; spoken in: Mexico,false,true,false,,WALS 200-language sample
+kho,Nama,Khoe-Kwadi,Khoe-Kwadi,Africa,Namibia,family: Khoe-Kwadi; spoken in: Namibia,true,true,false,,WALS 200-language sample
+nav,Navajo,Na-Dene,Athapaskan,North America,United States,genus: Athapaskan; family: Na-Dene; spoken in: United States,false,true,false,,WALS 200-language sample
+ndy,Ndyuka,other,Creoles and Pidgins,South America,"French Guiana, Suriname","genus: Creoles and Pidgins; spoken in: French Guiana, Suriname",false,true,false,,WALS 200-language sample
+nen,Nenets (Forest),Uralic,Samoyedic,Eurasia,Russia,genus: Samoyedic; family: Uralic; spoken in: Russia,false,true,false,,WALS 200-language sample
+nez,Nez Perce,Penutian,Sahaptian,North America,United States,genus: Sahaptian; family: Penutian; spoken in: United States,false,true,false,,WALS 200-language sample
+nti,Ngiti,Central Sudanic,Lendu,Africa,Democratic Republic of Congo,genus: Lendu; family: Central Sudanic; spoken in: Democratic Republic of Congo,false,true,false,,WALS 200-language sample
+ngi,Ngiyambaa,Pama-Nyungan,Southeastern Pama-Nyungan,Australia,Australia,genus: Southeastern Pama-Nyungan; family: Pama-Nyungan; spoken in: Australia,true,true,false,,WALS 200-language sample
+niv,Nivkh,Nivkh,Nivkh,Eurasia,Russia,family: Nivkh; spoken in: Russia,false,true,false,,WALS 200-language sample
+nko,Nkore-Kiga,Niger-Congo,Bantu,Africa,Uganda,genus: Bantu; family: Niger-Congo; spoken in: Uganda,false,true,false,,WALS 200-language sample
+nbd,Nubian (Dongolese),Eastern Sudanic,Nubian,Africa,Sudan,genus: Nubian; family: Eastern Sudanic; spoken in: Sudan,false,true,false,,WALS 200-language sample
+nug,Nunggubuyu,Gunwinyguan,Nunggubuyu,Australia,Australia,genus: Nunggubuyu; family: Gunwinyguan; spoken in: Australia,false,true,false,,WALS 200-language sample
+ond,Oneida,Iroquoian,Northern Iroquoian,North America,United States,genus: Northern Iroquoian; family: Iroquoian; spoken in: United States,true,true,false,,WALS 200-language sample
+orh,Oromo (Harar),Afro-Asiatic,Lowland East Cushitic,Africa,Ethiopia,genus: Lowland East Cushitic; family: Afro-Asiatic; spoken in: Ethiopia,true,true,false,,WALS 200-language sample
+otm,Otomí (Mezquital),Oto-Manguean,Otomian,North America,Mexico,genus: Otomian; family: Oto-Manguean; spoken in: Mexico,true,true,false,,WALS 200-language sample
+pms,Paamese,Austronesian,Oceanic,Papunesia,Vanuatu,genus: Oceanic; family: Austronesian; spoken in: Vanuatu,false,true,false,,WALS 200-language sample
+pai,Paiwan,Austronesian,Paiwan,Papunesia,Taiwan,genus: Paiwan; family: Austronesian; spoken in: Taiwan,true,true,false,,WALS 200-language sample
+psm,Passamaquoddy-Maliseet,Algic,Algonquian,North America,"Canada, United States","genus: Algonquian; family: Algic; spoken in: Canada, United States",false,true,false,,WALS 200-language sample
+pau,Paumarí,Arauan,Arauan,South America,Brazil,family: Arauan; spoken in: Brazil,false,true,false,,WALS 200-language sample
+prs,Persian,Indo-European,Iranian,Eurasia,Iran,genus: Iranian; family: Indo-European; spoken in: Iran,true,true,false,,WALS 200-language sample
+prh,Pirahã,Mura,Mura,South America,Brazil,family: Mura; spoken in: Brazil,true,true,false,,WALS 200-language sample
+pit,Pitjantjatjara,Pama-Nyungan,Western Pama-Nyungan,Australia,Australia,genus: Western Pama-Nyungan; family: Pama-Nyungan; spoken in: Australia,false,true,false,,WALS 200-language sample
+pso,Pomo (Southeastern),Hokan,Pomoan,North America,United States,genus: Pomoan; family: Hokan; spoken in: United States,false,true,false,,WALS 200-language sample
+qaw,Qawasqar,Alacalufan,Alacalufan,South America,Chile,family: Alacalufan; spoken in: Chile,false,true,false,,WALS 200-language sample
+qim,Quechua (Imbabura),Quechuan,Quechuan,South America,Ecuador,family: Quechuan; spoken in: Ecuador,true,true,false,,WALS 200-language sample
+ram,Rama,Chibchan,Rama,North America,Nicaragua,genus: Rama; family: Chibchan; spoken in: Nicaragua,true,true,false,,WALS 200-language sample
+rap,Rapanui,Austronesian,Oceanic,Papunesia,Chile,genus: Oceanic; family: Austronesian; spoken in: Chile,true,true,false,,WALS 200-language sample
+rus,Russian,Indo-European,Slavic,Eurasia,Russia,genus: Slavic; family: Indo-European; spoken in: Russia,true,true,true,known_language,WALS 200-language sample
+san,Sango,Niger-Congo,Ubangi,Africa,Central African Republic,genus: Ubangi; family: Niger-Congo; spoken in: Central African Republic,true,true,false,,WALS 200-language sample
+snm,Sanuma,Yanomam,Yanomam,South America,"Brazil, Venezuela","family: Yanomam; spoken in: Brazil, Venezuela",true,true,false,,WALS 200-language sample
+sel,Selknam,Chonan,Chonan Proper,South America,Argentina,genus: Chonan Proper; family: Chonan; spoken in: Argentina,false,true,false,,WALS 200-language sample
+sml,Semelai,Austro-Asiatic,Aslian,Eurasia,Malaysia,genus: Aslian; family: Austro-Asiatic; spoken in: Malaysia,false,true,false,,WALS 200-language sample
+snt,Sentani,Sentanic,Sentanic,Papunesia,Indonesia,family: Sentanic; spoken in: Indonesia,false,true,false,,WALS 200-language sample
+shk,Shipibo-Konibo,Pano-Tacanan,Panoan,South America,Peru,genus: Panoan; family: Pano-Tacanan; spoken in: Peru,false,true,false,,WALS 200-language sample
+sla,Slave,Na-Dene,Athapaskan,North America,Canada,genus: Athapaskan; family: Na-Dene; spoken in: Canada,true,true,false,,WALS 200-language sample
+spa,Spanish,Indo-European,Romance,Eurasia,Spain,genus: Romance; family: Indo-European; spoken in: Spain,true,true,false,,WALS 200-language sample
+squ,Squamish,Salishan,Central Salish,North America,Canada,genus: Central Salish; family: Salishan; spoken in: Canada,false,true,false,,WALS 200-language sample
+sue,Suena,Trans-New Guinea,Binanderean,Papunesia,Papua New Guinea,genus: Binanderean; family: Trans-New Guinea; spoken in: Papua New Guinea,false,true,false,,WALS 200-language sample
+sup,Supyire,Niger-Congo,Senufo,Africa,Mali,genus: Senufo; family: Niger-Congo; spoken in: Mali,true,true,false,,WALS 200-language sample
+swa,Swahili,Niger-Congo,Bantu,Africa,Tanzania,genus: Bantu; family: Niger-Congo; spoken in: Tanzania,true,true,false,,WALS 200-language sample
+tab,Taba,Austronesian,South Halmahera - West New Guinea,Papunesia,Indonesia,genus: South Halmahera - West New Guinea; family: Austronesian; spoken in: Indonesia,false,true,false,,WALS 200-language sample
+tag,Tagalog,Austronesian,Greater Central Philippine,Papunesia,Philippines,genus: Greater Central Philippine; family: Austronesian; spoken in: Philippines,true,true,false,,WALS 200-language sample
+tha,Thai,Tai-Kadai,Kam-Tai,Eurasia,Thailand,genus: Kam-Tai; family: Tai-Kadai; spoken in: Thailand,true,true,false,,WALS 200-language sample
+tiw,Tiwi,Tiwian,Tiwian,Australia,Australia,family: Tiwian; spoken in: Australia,true,true,false,,WALS 200-language sample
+tli,Tlingit,Na-Dene,Tlingit,North America,United States,genus: Tlingit; family: Na-Dene; spoken in: United States,false,true,false,,WALS 200-language sample
+tru,Trumai,Trumai,Trumai,South America,Brazil,family: Trumai; spoken in: Brazil,false,true,false,,WALS 200-language sample
+tsi,Tsimshian (Coast),Tsimshianic,Tsimshianic,North America,"Canada, United States","family: Tsimshianic; spoken in: Canada, United States",false,true,false,,WALS 200-language sample
+tuk,Tukang Besi,Austronesian,Celebic,Papunesia,Indonesia,genus: Celebic; family: Austronesian; spoken in: Indonesia,true,true,false,,WALS 200-language sample
+tun,Tunica,Tunica,Tunica,North America,United States,family: Tunica; spoken in: United States,false,true,false,,WALS 200-language sample
+tur,Turkish,Altaic,Turkic,Eurasia,Turkey,genus: Turkic; family: Altaic; spoken in: Turkey,true,true,false,,WALS 200-language sample
+una,Una,Trans-New Guinea,Mek,Papunesia,Indonesia,genus: Mek; family: Trans-New Guinea; spoken in: Indonesia,false,true,false,,WALS 200-language sample
+ung,Ungarinjin,Worrorran,Worrorran,Australia,Australia,family: Worrorran; spoken in: Australia,false,true,false,,WALS 200-language sample
+urk,Urubú-Kaapor,Tupian,Maweti-Guarani,South America,Brazil,genus: Maweti-Guarani; family: Tupian; spoken in: Brazil,false,true,false,,WALS 200-language sample
+usa,Usan,Trans-New Guinea,North Adelbert,Papunesia,Papua New Guinea,genus: North Adelbert; family: Trans-New Guinea; spoken in: Papua New Guinea,false,true,false,,WALS 200-language sample
+vie,Vietnamese,Austro-Asiatic,Vietic,Eurasia,Vietnam,genus: Vietic; family: Austro-Asiatic; spoken in: Vietnam,true,true,false,,WALS 200-language sample
+wam,Wambaya,Mirndi,Wambayan,Australia,Australia,genus: Wambayan; family: Mirndi; spoken in: Australia,false,true,false,,WALS 200-language sample
+wra,Warao,Warao,Warao,South America,Venezuela,family: Warao; spoken in: Venezuela,true,true,false,,WALS 200-language sample
+wrd,Wardaman,Yangmanic,Yangmanic,Australia,Australia,family: Yangmanic; spoken in: Australia,false,true,false,,WALS 200-language sample
+war,Wari',Chapacura-Wanham,Chapacura-Wanham,South America,Brazil,family: Chapacura-Wanham; spoken in: Brazil,true,true,false,,WALS 200-language sample
+wic,Wichita,Caddoan,Northern Caddoan,North America,United States,genus: Northern Caddoan; family: Caddoan; spoken in: United States,true,true,false,,WALS 200-language sample
+wch,Wichí,Matacoan,Matacoan,South America,"Bolivia, Argentina","family: Matacoan; spoken in: Bolivia, Argentina",true,true,false,,WALS 200-language sample
+yag,Yagua,Peba-Yaguan,Peba-Yaguan,South America,Peru,family: Peba-Yaguan; spoken in: Peru,true,true,false,,WALS 200-language sample
+yaq,Yaqui,Uto-Aztecan,Cahita,North America,Mexico,genus: Cahita; family: Uto-Aztecan; spoken in: Mexico,true,true,false,,WALS 200-language sample
+yid,Yidiny,Pama-Nyungan,Northern Pama-Nyungan,Australia,Australia,genus: Northern Pama-Nyungan; family: Pama-Nyungan; spoken in: Australia,false,true,false,,WALS 200-language sample
+yim,Yimas,Ramu-Lower Sepik,Lower Sepik,Papunesia,Papua New Guinea,genus: Lower Sepik; family: Ramu-Lower Sepik; spoken in: Papua New Guinea,false,true,false,,WALS 200-language sample
+yor,Yoruba,Niger-Congo,Defoid,Africa,"Nigeria, Benin","genus: Defoid; family: Niger-Congo; spoken in: Nigeria, Benin",true,true,false,,WALS 200-language sample
+yuc,Yuchi,Yuchi,Yuchi,North America,United States,family: Yuchi; spoken in: United States,false,true,false,,WALS 200-language sample
+yko,Yukaghir (Kolyma),Yukaghir,Yukaghir,Eurasia,Russia,family: Yukaghir; spoken in: Russia,false,true,false,,WALS 200-language sample
+ypk,Yup'ik (Central),Eskimo-Aleut,Eskimo,North America,United States,genus: Eskimo; family: Eskimo-Aleut; spoken in: United States,false,true,false,,WALS 200-language sample
+yur,Yurok,Algic,Yurok,North America,United States,genus: Yurok; family: Algic; spoken in: United States,false,true,false,,WALS 200-language sample
+zqc,Zoque (Copainalá),Mixe-Zoque,Mixe-Zoque,North America,Mexico,family: Mixe-Zoque; spoken in: Mexico,true,true,false,,WALS 200-language sample
+zul,Zulu,Niger-Congo,Bantu,Africa,South Africa,genus: Bantu; family: Niger-Congo; spoken in: South Africa,true,true,false,,WALS 200-language sample

@@ -1,0 +1,40 @@
+{
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["language", "classifications"],
+  "properties": {
+    "language": {"type": "string"},
+    "classifications": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "id", "denies_humanity", "animal", "supernatural", "against_nature",
+          "other_figurative", "humanity_basis", "humanity_transparency",
+          "origin", "origin_source", "doubt", "reason"
+        ],
+        "properties": {
+          "id": {"type": "string"},
+          "denies_humanity": {"type": "boolean"},
+          "animal": {"type": "boolean"},
+          "supernatural": {"type": "boolean"},
+          "against_nature": {"type": "boolean"},
+          "other_figurative": {"anyOf": [{"type": "string"}, {"type": "null"}]},
+          "humanity_basis": {"anyOf": [
+            {"type": "string", "enum": ["literal", "etymological", "usage"]},
+            {"type": "null"}
+          ]},
+          "humanity_transparency": {"anyOf": [
+            {"type": "string", "enum": ["transparent", "opaque"]},
+            {"type": "null"}
+          ]},
+          "origin": {"type": "string", "enum": ["native", "calque", "recent_loanword", "older_loanword", "unknown"]},
+          "origin_source": {"anyOf": [{"type": "string"}, {"type": "null"}]},
+          "doubt": {"anyOf": [{"type": "string"}, {"type": "null"}]},
+          "reason": {"type": "string"}
+        }
+      }
+    }
+  }
+}

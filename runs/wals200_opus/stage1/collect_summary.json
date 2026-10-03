@@ -1,0 +1,22 @@
+{
+  "collected_at": "2026-10-03T09:12:59+00:00",
+  "requests": 200,
+  "valid": 200,
+  "invalid": 0,
+  "missing": 0,
+  "valid_insufficient_knowledge": 139,
+  "valid_with_expressions": 61,
+  "expressions": 728,
+  "responses_with_warnings": 50,
+  "actual_cost": {
+    "calls": 200,
+    "input_tokens": 122343,
+    "output_tokens": 147298,
+    "cost_usd": 1.7177,
+    "mean_cost_per_call_usd": 0.008588,
+    "min_cost_per_call_usd": 0.001508,
+    "max_cost_per_call_usd": 0.030448,
+    "mean_input_tokens_per_call": 612,
+    "mean_output_tokens_per_call": 736
+  }
+}

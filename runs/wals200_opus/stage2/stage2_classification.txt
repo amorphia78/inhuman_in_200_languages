@@ -1,0 +1,50 @@
+I am conducting a study in lexical typology. Below are expressions that speakers of {LANGUAGE_NAME} ({LANGUAGE_IDENTIFIER}) use to condemn an act, or the person who did it, as extraordinarily cruel or wicked. They were collected in a separate step. Classify each one.
+
+Use everything you know about {LANGUAGE_NAME}: the literal composition of each expression, its etymology, and how speakers actually understand and use it. Do not add expressions that are not in the list.
+
+For each expression, decide which of these properties apply (any number, including none):
+- denies_humanity: the expression presents the act or person as not human, less than human, lacking humanity or excluded from humankind, or presents the person as in some other sense not a person. The denial must be explicit: the expression must contain, now or in its etymology, a word for "human", "person" or "humanity" together with a negation, privation or exclusion of it (for example "not", "without", "un-", "less than"). Negating something else (as in "merciless" or "heartless") does not count, and neither does a comparison with an animal, demon, monster or other non-human being merely because such beings are not human.
+- animal: the expression compares the act or person to an animal or animals.
+- supernatural: the expression compares the act or person to a demon, monster, ghost or other supernatural being.
+- against_nature: the expression presents the act or person as unnatural or a violation of nature.
+- other_figurative: some other figurative basis not covered above. Describe it briefly, or null if there is none.
+
+Mark a property only if the expression itself carries it, not merely because the act being condemned is cruel. If an expression is a plain condemnation with no figurative basis, set all booleans to false and other_figurative to null.
+
+Return JSON only, with no other text, using exactly these key names:
+
+{
+  "language": "{LANGUAGE_NAME}",
+  "classifications": [
+    {
+      "id": "...",
+      "denies_humanity": false,
+      "animal": false,
+      "supernatural": false,
+      "against_nature": false,
+      "other_figurative": null,
+      "humanity_basis": null,
+      "humanity_transparency": null,
+      "origin": "...",
+      "origin_source": null,
+      "doubt": null,
+      "reason": "..."
+    }
+  ]
+}
+
+Field definitions:
+- id: copied exactly from the input.
+- denies_humanity, animal, supernatural, against_nature: true or false.
+- other_figurative: a short description, or null.
+- humanity_basis: only if denies_humanity is true, otherwise null. Exactly one of "literal" (visible in the parts of the expression), "etymological" (in its history but not its present parts), "usage" (only in how it is conventionally understood).
+- humanity_transparency: only if denies_humanity is true, otherwise null. Exactly one of "transparent" (ordinary speakers today would perceive the sense of "not human"), "opaque" (ordinary speakers today would not perceive it; only a specialist would know).
+- origin: exactly one of "native", "calque", "recent_loanword" (borrowed since about 1900), "older_loanword" (borrowed before about 1900), "unknown".
+- origin_source: the source language if origin is "calque", "recent_loanword" or "older_loanword", otherwise null.
+- doubt: null, or a short note if you believe the expression does not exist, is misdescribed, or is not used this way. Still classify it.
+- reason: one sentence explaining the classification.
+
+Include one entry in "classifications" for every input expression, in the same order.
+
+Expressions:
+{EXPRESSIONS_JSON}

@@ -1,0 +1,201 @@
+﻿wals_code,name,family,genus,macroarea,is_control,control_role,stage1_outcome,responses,with_expressions,insufficient_knowledge,invalid_or_missing,denies_humanity,animal,supernatural,against_nature,any_core,other_figurative,any_incl_other
+abi,Abipón,Guaicuruan,Abipon,South America,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+abk,Abkhaz,Northwest Caucasian,Northwest Caucasian,Eurasia,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+aco,Acoma,Keresan,Keresan,North America,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+ain,Ainu,Ainu,Ainu,Eurasia,false,,expressions,1,1,0,0,False,False,True,False,True,True,True
+ala,Alamblak,Sepik,Sepik Hill,Papunesia,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+ame,Amele,Trans-New Guinea,Mabuso,Papunesia,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+apu,Apurinã,Arawakan,Purus,South America,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+aeg,Arabic (Egyptian),Afro-Asiatic,Semitic,Africa,false,,expressions,1,1,0,0,False,True,True,False,True,True,True
+ana,Araona,Pano-Tacanan,Tacanan,South America,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+arp,Arapesh (Mountain),Torricelli,Kombio-Arapesh,Papunesia,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+arm,Armenian (Eastern),Indo-European,Armenian,Eurasia,false,,expressions,1,1,0,0,True,True,True,False,True,True,True
+asm,Asmat,Asmat-Kamrau Bay,Asmat-Kamrau Bay,Papunesia,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+awp,Awa Pit,Barbacoan,Barbacoan,South America,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+aym,Aymara (Central),Aymaran,Aymaran,South America,false,,expressions,1,1,0,0,False,False,True,False,True,False,True
+bag,Bagirmi,Central Sudanic,Bongo-Bagirmi,Africa,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+bam,Bambara,Mande,Western Mande,Africa,false,,expressions,1,1,0,0,True,False,True,False,True,True,True
+brs,Barasano,Tucanoan,Tucanoan,South America,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+bsq,Basque,Basque,Basque,Eurasia,false,,expressions,1,1,0,0,False,True,True,False,True,True,True
+bkr,Batak (Karo),Austronesian,Northwest Sumatra-Barrier Islands,Papunesia,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+baw,Bawm,Sino-Tibetan,Kuki-Chin,Eurasia,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+bej,Beja,Afro-Asiatic,Beja,Africa,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+bma,Berber (Middle Atlas),Afro-Asiatic,Berber,Africa,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+brh,Brahui,Dravidian,Dravidian,Eurasia,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+bri,Bribri,Chibchan,Western Isthmic Chibchan,North America,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+brm,Burmese,Sino-Tibetan,Burmese-Lolo,Eurasia,false,,expressions,1,1,0,0,True,True,True,False,True,True,True
+bur,Burushaski,Burushaski,Burushaski,Eurasia,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+cah,Cahuilla,Uto-Aztecan,Northern Uto-Aztecan,North America,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+cnl,Canela,Macro-Ge,Je Setentrional,South America,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+car,Carib,Cariban,Cariban,South America,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+cyv,Cayuvava,Cayuvava,Cayuvava,South America,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+cha,Chamorro,Austronesian,Chamorro,Papunesia,false,,expressions,1,1,0,0,False,False,True,False,True,False,True
+cle,Chinantec (Lealao),Oto-Manguean,Chinantecan,North America,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+chk,Chukchi,Chukotko-Kamchatkan,Northern Chukotko-Kamchatkan,Eurasia,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+cmn,Comanche,Uto-Aztecan,Northern Uto-Aztecan,North America,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+coo,Coos (Hanis),Oregon Coast,Coosan,North America,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+cre,Cree (Plains),Algic,Algonquian,North America,false,,expressions,1,1,0,0,False,False,True,False,True,True,True
+dag,Daga,Trans-New Guinea,Dagan,Papunesia,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+dni,Dani (Lower Grand Valley),Trans-New Guinea,Dani,Papunesia,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+dio,Diola-Fogny,Niger-Congo,Jola,Africa,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+dre,Drehu,Austronesian,Oceanic,Papunesia,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+eka,Ekari,Trans-New Guinea,Paniai Lakes,Papunesia,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+eng,English,Indo-European,Germanic,Eurasia,true,known_language,expressions,1,1,0,0,True,True,True,False,True,True,True
+epe,Epena Pedee,Choco,Choco,South America,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+eve,Evenki,Altaic,Tungusic,Eurasia,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+ewe,Ewe,Niger-Congo,Gbe,Africa,false,,expressions,1,1,0,0,False,False,True,False,True,True,True
+fij,Fijian,Austronesian,Oceanic,Papunesia,false,,expressions,1,1,0,0,False,False,True,False,True,True,True
+fin,Finnish,Uralic,Finnic,Eurasia,false,,expressions,1,1,0,0,True,True,True,False,True,True,True
+fre,French,Indo-European,Romance,Eurasia,false,,expressions,1,1,0,0,True,False,True,False,True,True,True
+fur,Fur,Fur,Fur,Africa,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+gar,Garo,Sino-Tibetan,Brahmaputran,Eurasia,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+geo,Georgian,Kartvelian,Kartvelian,Eurasia,false,,expressions,1,1,0,0,True,True,True,False,True,True,True
+ger,German,Indo-European,Germanic,Eurasia,true,known_language,expressions,1,1,0,0,True,True,True,False,True,True,True
+goo,Gooniyandi,Bunuban,Bunuban,Australia,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+grb,Grebo,Niger-Congo,Kru,Africa,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+grk,Greek (Modern),Indo-European,Greek,Eurasia,false,,expressions,1,1,0,0,True,True,True,False,True,True,True
+grw,Greenlandic (West),Eskimo-Aleut,Eskimo,Eurasia,false,,expressions,1,1,0,0,False,False,False,False,False,False,False
+gua,Guaraní,Tupian,Maweti-Guarani,South America,false,,expressions,1,1,0,0,False,False,True,False,True,True,True
+hai,Haida,Haida,Haida,North America,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+ham,Hamtai,Trans-New Guinea,Nuclear Angan,Papunesia,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+hau,Hausa,Afro-Asiatic,West Chadic,Africa,false,,expressions,1,1,0,0,False,True,True,False,True,True,True
+heb,Hebrew (Modern),Afro-Asiatic,Semitic,Eurasia,false,,expressions,1,1,0,0,False,True,True,False,True,True,True
+hin,Hindi,Indo-European,Indic,Eurasia,false,,expressions,1,1,0,0,False,True,True,False,True,True,True
+hix,Hixkaryana,Cariban,Cariban,South America,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+hmo,Hmong Njua,Hmong-Mien,Hmongic,Eurasia,false,,expressions,1,1,0,0,False,False,False,False,False,True,True
+hmi,Huitoto (Minica),Witotoan,Witoto,South America,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+hun,Hungarian,Uralic,Ugric,Eurasia,false,,expressions,1,1,0,0,True,True,True,False,True,True,True
+hzb,Hunzib,Nakh-Daghestanian,Avar-Andic-Tsezic,Eurasia,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+igb,Igbo,Niger-Congo,Igboid,Africa,false,,expressions,1,1,0,0,False,True,True,True,True,True,True
+ika,Ika,Chibchan,Arhuacic,South America,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+imo,Imonda,Border,Border,Papunesia,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+ind,Indonesian,Austronesian,Malayo-Sumbawan,Papunesia,false,,expressions,1,1,0,0,True,False,True,False,True,True,True
+ing,Ingush,Nakh-Daghestanian,Nakh,Eurasia,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+irq,Iraqw,Afro-Asiatic,Southern Cushitic,Africa,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+iri,Irish,Indo-European,Celtic,Eurasia,false,,expressions,1,1,0,0,False,False,True,False,True,True,True
+jak,Jakaltek,Mayan,Mayan,North America,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+jpn,Japanese,Japanese,Japanese,Eurasia,false,,expressions,1,1,0,0,True,True,True,False,True,True,True
+juh,Ju|'hoan,Kxa,Ju-Kung,Africa,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+knd,Kannada,Dravidian,Dravidian,Eurasia,false,,expressions,1,1,0,0,True,True,True,False,True,True,True
+knr,Kanuri,Saharan,Western Saharan,Africa,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+krk,Karok,Hokan,Karok,North America,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+kyl,Kayah Li (Eastern),Sino-Tibetan,Karen,Eurasia,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+kay,Kayardild,Tangkic,Tangkic,Australia,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+ker,Kera,Afro-Asiatic,East Chadic,Africa,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+ket,Ket,Yeniseian,Yeniseian,Eurasia,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+kew,Kewa,Trans-New Guinea,Enga_Kewa-Huli,Papunesia,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+kha,Khalkha,Altaic,Mongolic,Eurasia,false,,expressions,1,1,0,0,True,True,True,False,True,True,True
+khs,Khasi,Austro-Asiatic,Khasian,Eurasia,false,,expressions,1,1,0,0,False,True,True,False,True,True,True
+khm,Khmer,Austro-Asiatic,Khmer,Eurasia,false,,expressions,1,1,0,0,True,True,True,False,True,True,True
+kmu,Khmu',Austro-Asiatic,Khmuic,Eurasia,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+klv,Kilivila,Austronesian,Oceanic,Papunesia,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+kio,Kiowa,Kiowa-Tanoan,Kiowa-Tanoan,North America,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+krb,Kiribati,Austronesian,Oceanic,Papunesia,false,,expressions,1,1,0,0,False,False,True,False,True,False,True
+koa,Koasati,Muskogean,Muskogean,North America,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+kob,Kobon,Trans-New Guinea,Kalam-Kobon,Papunesia,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+kon,Kongo,Niger-Congo,Bantu,Africa,false,,expressions,1,1,0,0,False,False,True,False,True,True,True
+kor,Korean,Korean,Korean,Eurasia,false,,expressions,1,1,0,0,True,True,True,False,True,True,True
+kfe,Koromfe,Niger-Congo,Koromfe,Africa,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+kse,Koyraboro Senni,Songhay,Songhay,Africa,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+kro,Krongo,Kadu,Kadugli,Africa,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+knm,Kunama,Kunama,Kunama,Africa,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+kut,Kutenai,Kutenai,Kutenai,North America,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+lad,Ladakhi,Sino-Tibetan,Bodic,Eurasia,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+lak,Lak,Nakh-Daghestanian,Lak,Eurasia,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+lkt,Lakhota,Siouan,Mississippi Valley Siouan,North America,false,,expressions,1,1,0,0,False,False,True,False,True,True,True
+lan,Lango,Eastern Sudanic,Western Nilotic,Africa,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+lat,Latvian,Indo-European,Baltic,Eurasia,false,,expressions,1,1,0,0,True,True,True,False,True,True,True
+lav,Lavukaleve,Solomons East Papuan,Lavukaleve,Papunesia,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+lep,Lepcha,Sino-Tibetan,Himalayish,Eurasia,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+lez,Lezgian,Nakh-Daghestanian,Lezgic,Eurasia,false,,expressions,1,1,0,0,False,False,True,False,True,True,True
+luv,Luvale,Niger-Congo,Bantu,Africa,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+mab,Maba,Maban,Maban,Africa,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+mak,Makah,Wakashan,Southern Wakashan,North America,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+mal,Malagasy,Austronesian,Barito,Africa,false,,expressions,1,1,0,0,True,True,True,False,True,True,True
+mnd,Mandarin,Sino-Tibetan,Chinese,Eurasia,true,known_language,expressions,1,1,0,0,True,True,False,True,True,True,True
+myi,Mangarrayi,Mangarrayi-Maran,Mangarrayi,Australia,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+mao,Maori,Austronesian,Oceanic,Papunesia,false,,expressions,1,1,0,0,False,False,False,False,False,True,True
+map,Mapudungun,Araucanian,Araucanian,South America,false,,expressions,1,1,0,0,False,False,True,False,True,False,True
+mku,Maranungku,Western Daly,Wagaydy,Australia,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+mar,Maricopa,Hokan,Yuman,North America,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+mrd,Marind,Trans-New Guinea,Marind-Yaqay,Papunesia,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+mrt,Martuthunira,Pama-Nyungan,Western Pama-Nyungan,Australia,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+mau,Maung,Iwaidjan,Iwaidjan,Australia,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+may,Maybrat,Maybrat,Maybrat,Papunesia,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+mei,Meithei,Sino-Tibetan,Manipuri,Eurasia,false,,expressions,1,1,0,0,True,False,False,False,True,True,True
+mss,Miwok (Southern Sierra),Penutian,Miwok,North America,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+mxc,Mixtec (Chalcatongo),Oto-Manguean,Mixtec,North America,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+mun,Mundari,Austro-Asiatic,Munda,Eurasia,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+mrl,Murle,Eastern Sudanic,South Surmic,Africa,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+nht,Nahuatl (Tetelcingo),Uto-Aztecan,Aztecan,North America,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+kho,Nama,Khoe-Kwadi,Khoe-Kwadi,Africa,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+nav,Navajo,Na-Dene,Athapaskan,North America,false,,expressions,1,1,0,0,False,False,True,False,True,True,True
+ndy,Ndyuka,other,Creoles and Pidgins,South America,false,,expressions,1,1,0,0,False,False,True,False,True,True,True
+nen,Nenets (Forest),Uralic,Samoyedic,Eurasia,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+nez,Nez Perce,Penutian,Sahaptian,North America,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+nti,Ngiti,Central Sudanic,Lendu,Africa,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+ngi,Ngiyambaa,Pama-Nyungan,Southeastern Pama-Nyungan,Australia,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+niv,Nivkh,Nivkh,Nivkh,Eurasia,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+nko,Nkore-Kiga,Niger-Congo,Bantu,Africa,false,,expressions,1,1,0,0,False,False,True,False,True,True,True
+nbd,Nubian (Dongolese),Eastern Sudanic,Nubian,Africa,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+nug,Nunggubuyu,Gunwinyguan,Nunggubuyu,Australia,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+ond,Oneida,Iroquoian,Northern Iroquoian,North America,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+orh,Oromo (Harar),Afro-Asiatic,Lowland East Cushitic,Africa,false,,expressions,1,1,0,0,True,True,True,False,True,True,True
+otm,Otomí (Mezquital),Oto-Manguean,Otomian,North America,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+pms,Paamese,Austronesian,Oceanic,Papunesia,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+pai,Paiwan,Austronesian,Paiwan,Papunesia,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+psm,Passamaquoddy-Maliseet,Algic,Algonquian,North America,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+pau,Paumarí,Arauan,Arauan,South America,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+prs,Persian,Indo-European,Iranian,Eurasia,false,,expressions,1,1,0,0,False,False,False,True,True,True,True
+prh,Pirahã,Mura,Mura,South America,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+pit,Pitjantjatjara,Pama-Nyungan,Western Pama-Nyungan,Australia,false,,expressions,1,1,0,0,False,False,True,False,True,True,True
+pso,Pomo (Southeastern),Hokan,Pomoan,North America,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+qaw,Qawasqar,Alacalufan,Alacalufan,South America,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+qim,Quechua (Imbabura),Quechuan,Quechuan,South America,false,,expressions,1,1,0,0,False,False,True,False,True,True,True
+ram,Rama,Chibchan,Rama,North America,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+rap,Rapanui,Austronesian,Oceanic,Papunesia,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+rus,Russian,Indo-European,Slavic,Eurasia,true,known_language,expressions,1,1,0,0,True,True,True,True,True,True,True
+san,Sango,Niger-Congo,Ubangi,Africa,false,,expressions,1,1,0,0,False,False,True,False,True,True,True
+snm,Sanuma,Yanomam,Yanomam,South America,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+sel,Selknam,Chonan,Chonan Proper,South America,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+sml,Semelai,Austro-Asiatic,Aslian,Eurasia,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+snt,Sentani,Sentanic,Sentanic,Papunesia,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+shk,Shipibo-Konibo,Pano-Tacanan,Panoan,South America,false,,expressions,1,1,0,0,False,False,True,False,True,False,True
+sla,Slave,Na-Dene,Athapaskan,North America,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+spa,Spanish,Indo-European,Romance,Eurasia,false,,expressions,1,1,0,0,False,True,True,False,True,True,True
+squ,Squamish,Salishan,Central Salish,North America,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+sue,Suena,Trans-New Guinea,Binanderean,Papunesia,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+sup,Supyire,Niger-Congo,Senufo,Africa,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+swa,Swahili,Niger-Congo,Bantu,Africa,false,,expressions,1,1,0,0,True,True,True,False,True,True,True
+tab,Taba,Austronesian,South Halmahera - West New Guinea,Papunesia,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+tag,Tagalog,Austronesian,Greater Central Philippine,Papunesia,false,,expressions,1,1,0,0,False,True,True,False,True,True,True
+tha,Thai,Tai-Kadai,Kam-Tai,Eurasia,false,,expressions,1,1,0,0,False,True,True,False,True,True,True
+tiw,Tiwi,Tiwian,Tiwian,Australia,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+tli,Tlingit,Na-Dene,Tlingit,North America,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+tru,Trumai,Trumai,Trumai,South America,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+tsi,Tsimshian (Coast),Tsimshianic,Tsimshianic,North America,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+tuk,Tukang Besi,Austronesian,Celebic,Papunesia,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+tun,Tunica,Tunica,Tunica,North America,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+tur,Turkish,Altaic,Turkic,Eurasia,false,,expressions,1,1,0,0,True,True,True,False,True,True,True
+una,Una,Trans-New Guinea,Mek,Papunesia,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+ung,Ungarinjin,Worrorran,Worrorran,Australia,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+urk,Urubú-Kaapor,Tupian,Maweti-Guarani,South America,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+usa,Usan,Trans-New Guinea,North Adelbert,Papunesia,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+vie,Vietnamese,Austro-Asiatic,Vietic,Eurasia,false,,expressions,1,1,0,0,True,True,False,False,True,True,True
+wam,Wambaya,Mirndi,Wambayan,Australia,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+wra,Warao,Warao,Warao,South America,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+wrd,Wardaman,Yangmanic,Yangmanic,Australia,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+war,Wari',Chapacura-Wanham,Chapacura-Wanham,South America,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+wic,Wichita,Caddoan,Northern Caddoan,North America,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+wch,Wichí,Matacoan,Matacoan,South America,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+yag,Yagua,Peba-Yaguan,Peba-Yaguan,South America,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+yaq,Yaqui,Uto-Aztecan,Cahita,North America,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+yid,Yidiny,Pama-Nyungan,Northern Pama-Nyungan,Australia,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+yim,Yimas,Ramu-Lower Sepik,Lower Sepik,Papunesia,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+yor,Yoruba,Niger-Congo,Defoid,Africa,false,,expressions,1,1,0,0,False,True,True,False,True,True,True
+yuc,Yuchi,Yuchi,Yuchi,North America,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+yko,Yukaghir (Kolyma),Yukaghir,Yukaghir,Eurasia,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+ypk,Yup'ik (Central),Eskimo-Aleut,Eskimo,North America,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+yur,Yurok,Algic,Yurok,North America,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+zqc,Zoque (Copainalá),Mixe-Zoque,Mixe-Zoque,North America,false,,insufficient_knowledge,1,0,1,0,,,,,,,
+zul,Zulu,Niger-Congo,Bantu,Africa,false,,expressions,1,1,0,0,False,True,True,False,True,True,True

@@ -1,0 +1,26 @@
+{
+  "submitted_at": "2026-10-03T09:08:21+00:00",
+  "batch_id": "msgbatch_01Jv8ZeDpp9d7gEdY6CoNjGF",
+  "request_count": 200,
+  "dryrun_file": "runs/wals200_opus/stage1/dryrun_requests.jsonl",
+  "dryrun_sha256": "121be69854ad5d71e5548e19fdfc08b349af2c5cbc40fa25a9c123e418cf6a4c",
+  "anthropic_sdk_version": "1.11.0",
+  "batch": {
+    "id": "msgbatch_01Jv8ZeDpp9d7gEdY6CoNjGF",
+    "archived_at": null,
+    "cancel_initiated_at": null,
+    "created_at": "2026-10-03T09:08:21.748083Z",
+    "ended_at": null,
+    "expires_at": "2026-10-04T09:08:21.748083Z",
+    "processing_status": "in_progress",
+    "request_counts": {
+      "canceled": 0,
+      "errored": 0,
+      "expired": 0,
+      "processing": 200,
+      "succeeded": 0
+    },
+    "results_url": null,
+    "type": "message_batch"
+  }
+}

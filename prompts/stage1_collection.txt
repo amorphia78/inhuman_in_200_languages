@@ -1,0 +1,37 @@
+I am collecting data for a study in lexical typology. I will name one language. Answer only about that language.
+
+Language: {LANGUAGE_NAME} ({LANGUAGE_IDENTIFIER})
+
+Task: List the words and fixed expressions that ordinary speakers use to condemn an act, or the one who did it, as extraordinarily cruel or wicked. Give up to fifteen, most common (in everyday language) first.
+
+Return JSON only, with no other text, using exactly these key names:
+
+{
+  "language": "{LANGUAGE_NAME}",
+  "insufficient_knowledge": false,
+  "expressions": [
+    {
+      "expression": "...",
+      "romanisation": "...",
+      "literal": "...",
+      "meaning": "...",
+      "register": "...",
+      "currency": "...",
+      "confidence": "..."
+    }
+  ]
+}
+
+Field definitions:
+- expression: the expression in its usual script.
+- romanisation: a romanisation if the usual script is not Latin; otherwise null.
+- literal: a word-for-word English rendering of the parts of the expression.
+- meaning: what the expression means in use, in plain English.
+- register: exactly one of "everyday", "slang_or_insult", "formal_or_literary".
+- currency: exactly one of "current", "archaic", "regional".
+- confidence: exactly one of "high", "medium", "low": your confidence that this expression exists and is used with this meaning.
+
+Rules:
+- If you do not know this language well enough to answer reliably, return {"language": "{LANGUAGE_NAME}", "insufficient_knowledge": true, "expressions": []}. An honest refusal is more useful than a guess.
+- List only expressions you believe are actually attested. Do not construct plausible-sounding ones.
+- Do not try to make the answers fit any pattern. If the expressions have nothing in common, that is a useful result.
